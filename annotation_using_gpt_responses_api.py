@@ -198,7 +198,7 @@ def annotate_review(review_text: str, product_name: str, product_cat: str) -> di
 if __name__ == "__main__":
     # Load the dataset
     try:
-        df = pd.read_csv("data/processed/dataset_final_balanced.csv")
+        df = pd.read_csv("data/processed/dataset_final_selected.csv")
     except FileNotFoundError:
         df = pd.read_csv("dataset.csv")
 

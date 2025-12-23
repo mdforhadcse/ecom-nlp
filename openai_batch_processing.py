@@ -16,7 +16,7 @@ ERROR_JSONL = "batch_errors.jsonl"
 INPUT_CSV = "data/processed/dataset_final_selected.csv"
 
 # Final processed dataset
-OUTPUT_CSV = "data/processed/dataset_final_balanced_processed.csv"
+OUTPUT_CSV = "data/processed/dataset_final_selected_processed.csv"
 
 # Optional: keep the raw parsed JSON in a column as well
 SAVE_RAW_JSON = True
