@@ -1,0 +1,739 @@
+Rating,Review,Product Name,Product Category,Emotion,Data Source,Sentiment,word_count,absa_overall_sentiment,absa_overall_emotion,absa_triplets_json,absa_raw_text,absa_status_code,absa_error,absa_raw_json,fw_overall_sentiment,fw_overall_emotion,fw_triplets_json,fw_raw_text,fw_status_code,fw_error,fw_raw_json
+5.0,very good according to the price 100% recommendable and trust worthy seller I've ordered thrice after 1,1pc Cute Large Hair Brush Massage Comb Shower Wet Detangle Hair Brush Salon Hair Styling Tools For Women,Hair Care,Happy,Daraz,Positive,18,Positive,Happy,"[{""aspect_category"": ""Value_for_Money"", ""aspect_term"": ""price"", ""opinion_term"": ""very good according to the price"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Seller_Interaction"", ""aspect_term"": ""seller"", ""opinion_term"": ""100% recommendable and trust worthy"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Order_Process"", ""aspect_term"": ""orders"", ""opinion_term"": ""I've ordered thrice after 1"", ""sentiment"": ""Positive""}]","{""overall_sentiment"":""Positive"",""overall_emotion"":""Happy"",""triplets"":[{""aspect_category"":""Value_for_Money"",""aspect_term"":""price"",""opinion_term"":""very good according to the price"",""sentiment"":""Positive""},{""aspect_category"":""Seller_Interaction"",""aspect_term"":""seller"",""opinion_term"":""100% recommendable and trust worthy"",""sentiment"":""Positive""},{""aspect_category"":""Order_Process"",""aspect_term"":""orders"",""opinion_term"":""I've ordered thrice after 1"",""sentiment"":""Positive""}]}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""Value_for_Money"", ""aspect_term"": ""price"", ""opinion_term"": ""very good according to the price"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Seller_Interaction"", ""aspect_term"": ""seller"", ""opinion_term"": ""100% recommendable and trust worthy"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Order_Process"", ""aspect_term"": ""orders"", ""opinion_term"": ""I've ordered thrice after 1"", ""sentiment"": ""Positive""}]}",Positive,Happy,"[{""aspect_category"": ""PRICE"", ""aspect_term"": ""price"", ""opinion_term"": ""very good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""seller"", ""opinion_term"": ""trust worthy"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""seller"", ""opinion_term"": ""recommendable"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{""aspect_category"": ""PRICE"", ""aspect_term"": ""price"", ""opinion_term"": ""very good"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""SERVICE"", ""aspect_term"": ""seller"", ""opinion_term"": ""trust worthy"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""SERVICE"", ""aspect_term"": ""seller"", ""opinion_term"": ""recommendable"", ""sentiment"": ""Positive""}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRICE"", ""aspect_term"": ""price"", ""opinion_term"": ""very good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""seller"", ""opinion_term"": ""trust worthy"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""seller"", ""opinion_term"": ""recommendable"", ""sentiment"": ""Positive""}]}"
+5.0,"a good product, got some discount. thanks daraz and tjamks esquire",Sharp Grill Microwave Oven R-72A1-SM-V 25 Litres - Mirror Silver,Microwaves,Happy,Daraz,Positive,11,Positive,Happy,"[{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRICE:Discount_Offer"", ""aspect_term"": ""discount"", ""opinion_term"": ""got some discount"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE:Seller_Interaction"", ""aspect_term"": ""daraz and tjamks esquire"", ""opinion_term"": ""thanks"", ""sentiment"": ""Positive""}]","{""overall_sentiment"":""Positive"",""overall_emotion"":""Happy"",""triplets"":[{""aspect_category"":""Overall_Quality"",""aspect_term"":""product"",""opinion_term"":""good"",""sentiment"":""Positive""},{""aspect_category"":""PRICE:Discount_Offer"",""aspect_term"":""discount"",""opinion_term"":""got some discount"",""sentiment"":""Positive""},{""aspect_category"":""SERVICE:Seller_Interaction"",""aspect_term"":""daraz and tjamks esquire"",""opinion_term"":""thanks"",""sentiment"":""Positive""}]}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRICE:Discount_Offer"", ""aspect_term"": ""discount"", ""opinion_term"": ""got some discount"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE:Seller_Interaction"", ""aspect_term"": ""daraz and tjamks esquire"", ""opinion_term"": ""thanks"", ""sentiment"": ""Positive""}]}",Positive,Happy,"[{""aspect_category"": ""PRICE"", ""aspect_term"": ""discount"", ""opinion_term"": ""some discount"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""daraz"", ""opinion_term"": ""thanks daraz"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""esquire"", ""opinion_term"": ""tjamks esquire"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{""aspect_category"": ""PRICE"", ""aspect_term"": ""discount"", ""opinion_term"": ""some discount"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""SERVICE"", ""aspect_term"": ""daraz"", ""opinion_term"": ""thanks daraz"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""SERVICE"", ""aspect_term"": ""esquire"", ""opinion_term"": ""tjamks esquire"", ""sentiment"": ""Positive""}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRICE"", ""aspect_term"": ""discount"", ""opinion_term"": ""some discount"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""daraz"", ""opinion_term"": ""thanks daraz"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""esquire"", ""opinion_term"": ""tjamks esquire"", ""sentiment"": ""Positive""}]}"
+5.0,Good Product at this kind of price. Everyone can buy it. The body frame is not so good but this price it's manageable.,"Exceptional Quality - DEIL 32 inch Wifi-Smart Android LED TV (2GB RAM, 16GB ROM) 4K Supported - Sleek Usage",Televisions,Happy,Daraz,Positive,24,Positive,Happy,"[{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""Good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Value_for_Money"", ""aspect_term"": ""price"", ""opinion_term"": ""Everyone can buy it; manageable at this price"", ""sentiment"": ""Positive""}, {""aspect_category"": ""MATERIAL_BUILD"", ""aspect_term"": ""body frame"", ""opinion_term"": ""not so good"", ""sentiment"": ""Negative""}]","{""overall_sentiment"":""Positive"",""overall_emotion"":""Happy"",""triplets"":[{""aspect_category"":""Overall_Quality"",""aspect_term"":""product"",""opinion_term"":""Good"",""sentiment"":""Positive""},{""aspect_category"":""Value_for_Money"",""aspect_term"":""price"",""opinion_term"":""Everyone can buy it; manageable at this price"",""sentiment"":""Positive""},{""aspect_category"":""MATERIAL_BUILD"",""aspect_term"":""body frame"",""opinion_term"":""not so good"",""sentiment"":""Negative""}]}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""Good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Value_for_Money"", ""aspect_term"": ""price"", ""opinion_term"": ""Everyone can buy it; manageable at this price"", ""sentiment"": ""Positive""}, {""aspect_category"": ""MATERIAL_BUILD"", ""aspect_term"": ""body frame"", ""opinion_term"": ""not so good"", ""sentiment"": ""Negative""}]}",Positive,Happy,"[{""aspect_category"": ""PRICE"", ""aspect_term"": ""price"", ""opinion_term"": ""Good Product at this kind of price"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""body frame"", ""opinion_term"": ""not so good"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRICE"", ""aspect_term"": ""this price"", ""opinion_term"": ""it's manageable"", ""sentiment"": ""Neutral""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{""aspect_category"": ""PRICE"", ""aspect_term"": ""price"", ""opinion_term"": ""Good Product at this kind of price"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""body frame"", ""opinion_term"": ""not so good"", ""sentiment"": ""Negative""},
+{""aspect_category"": ""PRICE"", ""aspect_term"": ""this price"", ""opinion_term"": ""it's manageable"", ""sentiment"": ""Neutral""}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRICE"", ""aspect_term"": ""price"", ""opinion_term"": ""Good Product at this kind of price"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""body frame"", ""opinion_term"": ""not so good"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRICE"", ""aspect_term"": ""this price"", ""opinion_term"": ""it's manageable"", ""sentiment"": ""Neutral""}]}"
+1.0,kapor akbare kharap .samne thake dekle discoloure Mone hoi.akdom e vlo na.,King Size Bedsheet Set with Two Pillow Covers,Bedding,Anger,Daraz,Negative,13,Negative,Anger,"[{""aspect_category"": ""MATERIAL"", ""aspect_term"": ""kapor"", ""opinion_term"": ""akbare kharap; akdom e vlo na"", ""sentiment"": ""Negative""}, {""aspect_category"": ""Color_Finish"", ""aspect_term"": ""discoloure"", ""opinion_term"": ""samne thake dekle discoloure mone hoi"", ""sentiment"": ""Negative""}]","{
+  ""overall_sentiment"": ""Negative"",
+  ""overall_emotion"": ""Anger"",
+  ""triplets"": [
+    {
+      ""aspect_category"": ""MATERIAL"",
+      ""aspect_term"": ""kapor"",
+      ""opinion_term"": ""akbare kharap; akdom e vlo na"",
+      ""sentiment"": ""Negative""
+    },
+    {
+      ""aspect_category"": ""Color_Finish"",
+      ""aspect_term"": ""discoloure"",
+      ""opinion_term"": ""samne thake dekle discoloure mone hoi"",
+      ""sentiment"": ""Negative""
+    }
+  ]
+}",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Anger"", ""triplets"": [{""aspect_category"": ""MATERIAL"", ""aspect_term"": ""kapor"", ""opinion_term"": ""akbare kharap; akdom e vlo na"", ""sentiment"": ""Negative""}, {""aspect_category"": ""Color_Finish"", ""aspect_term"": ""discoloure"", ""opinion_term"": ""samne thake dekle discoloure mone hoi"", ""sentiment"": ""Negative""}]}",Negative,Sadness,"[{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""kapoor akbare"", ""opinion_term"": ""kharap"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN"", ""aspect_term"": ""discoloure"", ""opinion_term"": ""Mone hoi"", ""sentiment"": ""Negative""}]","{
+""overall_sentiment"": ""Negative"",
+""overall_emotion"": ""Sadness"",
+""triplets"": [
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""kapoor akbare"", ""opinion_term"": ""kharap"", ""sentiment"": ""Negative""},
+{""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN"", ""aspect_term"": ""discoloure"", ""opinion_term"": ""Mone hoi"", ""sentiment"": ""Negative""}
+]
+} ",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Sadness"", ""triplets"": [{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""kapoor akbare"", ""opinion_term"": ""kharap"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN"", ""aspect_term"": ""discoloure"", ""opinion_term"": ""Mone hoi"", ""sentiment"": ""Negative""}]}"
+5.0,"the unit was hit by something. a mark is there but spray working properly. 
+the product is good. huge quantity.","‘Selleys’ - RP7 300G/422ML Multi -Purpose Anti Rust Spray (For Household, Bike, Car, Cycle etc usage)",Oils & Fluids,Happy,Daraz,Positive,20,Positive,Happy,"[{""aspect_category"": ""PACKAGING/Condition"", ""aspect_term"": ""unit"", ""opinion_term"": ""was hit by something; a mark is there"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRODUCT_QUALITY/Performance_Effectiveness"", ""aspect_term"": ""spray"", ""opinion_term"": ""working properly"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY/Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""is good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRICE/Value_for_Money"", ""aspect_term"": ""quantity"", ""opinion_term"": ""huge quantity"", ""sentiment"": ""Positive""}]","{""overall_sentiment"":""Positive"",""overall_emotion"":""Happy"",""triplets"":[{""aspect_category"":""PACKAGING/Condition"",""aspect_term"":""unit"",""opinion_term"":""was hit by something; a mark is there"",""sentiment"":""Negative""},{""aspect_category"":""PRODUCT_QUALITY/Performance_Effectiveness"",""aspect_term"":""spray"",""opinion_term"":""working properly"",""sentiment"":""Positive""},{""aspect_category"":""PRODUCT_QUALITY/Overall_Quality"",""aspect_term"":""product"",""opinion_term"":""is good"",""sentiment"":""Positive""},{""aspect_category"":""PRICE/Value_for_Money"",""aspect_term"":""quantity"",""opinion_term"":""huge quantity"",""sentiment"":""Positive""}]}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PACKAGING/Condition"", ""aspect_term"": ""unit"", ""opinion_term"": ""was hit by something; a mark is there"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRODUCT_QUALITY/Performance_Effectiveness"", ""aspect_term"": ""spray"", ""opinion_term"": ""working properly"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY/Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""is good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRICE/Value_for_Money"", ""aspect_term"": ""quantity"", ""opinion_term"": ""huge quantity"", ""sentiment"": ""Positive""}]}",Positive,Happy,"[{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""unit"", ""opinion_term"": ""hit by something, a mark is there"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""spray"", ""opinion_term"": ""working properly"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUANTITY"", ""aspect_term"": ""quantity"", ""opinion_term"": ""huge"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""unit"", ""opinion_term"": ""hit by something, a mark is there"", ""sentiment"": ""Negative""},
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""spray"", ""opinion_term"": ""working properly"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""good"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""PRODUCT_QUANTITY"", ""aspect_term"": ""quantity"", ""opinion_term"": ""huge"", ""sentiment"": ""Positive""}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""unit"", ""opinion_term"": ""hit by something, a mark is there"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""spray"", ""opinion_term"": ""working properly"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUANTITY"", ""aspect_term"": ""quantity"", ""opinion_term"": ""huge"", ""sentiment"": ""Positive""}]}"
+5.0,Book quality is satisfactory. I would like to recommend the seller.,Atomic Habits,Books,Sadness,Daraz,Negative,11,Positive,Happy,"[{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""Book quality"", ""opinion_term"": ""satisfactory"", ""sentiment"": ""Neutral""}, {""aspect_category"": ""Seller_Interaction"", ""aspect_term"": ""seller"", ""opinion_term"": ""would like to recommend the seller"", ""sentiment"": ""Positive""}]","{
+  ""overall_sentiment"": ""Positive"",
+  ""overall_emotion"": ""Happy"",
+  ""triplets"": [
+    {
+      ""aspect_category"": ""Overall_Quality"",
+      ""aspect_term"": ""Book quality"",
+      ""opinion_term"": ""satisfactory"",
+      ""sentiment"": ""Neutral""
+    },
+    {
+      ""aspect_category"": ""Seller_Interaction"",
+      ""aspect_term"": ""seller"",
+      ""opinion_term"": ""would like to recommend the seller"",
+      ""sentiment"": ""Positive""
+    }
+  ]
+}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""Book quality"", ""opinion_term"": ""satisfactory"", ""sentiment"": ""Neutral""}, {""aspect_category"": ""Seller_Interaction"", ""aspect_term"": ""seller"", ""opinion_term"": ""would like to recommend the seller"", ""sentiment"": ""Positive""}]}",Positive,Happy,"[{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""Book quality"", ""opinion_term"": ""satisfactory"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""seller"", ""opinion_term"": ""recommend"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""Book quality"", ""opinion_term"": ""satisfactory"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""SERVICE"", ""aspect_term"": ""seller"", ""opinion_term"": ""recommend"", ""sentiment"": ""Positive""}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""Book quality"", ""opinion_term"": ""satisfactory"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""seller"", ""opinion_term"": ""recommend"", ""sentiment"": ""Positive""}]}"
+5.0,সত্যি অনেক সুন্দর হয়েছে।ধন্যবাদ🥰,Custom Name And Photo Printed Premium Wooden Key Ring,Car Interior Accessories,Happy,Daraz,Positive,5,Positive,Love,"[{""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN"", ""aspect_term"": ""appearance"", ""opinion_term"": ""সত্যি অনেক সুন্দর হয়েছে"", ""sentiment"": ""Positive""}]","{""overall_sentiment"":""Positive"",""overall_emotion"":""Love"",""triplets"":[{""aspect_category"":""PRODUCT_APPEARANCE_DESIGN"",""aspect_term"":""appearance"",""opinion_term"":""সত্যি অনেক সুন্দর হয়েছে"",""sentiment"":""Positive""}]}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Love"", ""triplets"": [{""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN"", ""aspect_term"": ""appearance"", ""opinion_term"": ""সত্যি অনেক সুন্দর হয়েছে"", ""sentiment"": ""Positive""}]}",Positive,Happy,"[{""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN"", ""aspect_term"": ""সুন্দর"", ""opinion_term"": ""সুন্দর হয়েছে"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{
+""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN"",
+""aspect_term"": ""সুন্দর"",
+""opinion_term"": ""সুন্দর হয়েছে"",
+""sentiment"": ""Positive""
+}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN"", ""aspect_term"": ""সুন্দর"", ""opinion_term"": ""সুন্দর হয়েছে"", ""sentiment"": ""Positive""}]}"
+1.0,Quality is so poor. I returned the product but the seller denied.,32 In 1 Multipurpose Precision Screwdriver Disassemble Electronic Repair Tool,"Tools, DIY & Outdoor",Sadness,Daraz,Negative,12,Negative,Anger,"[{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""Quality"", ""opinion_term"": ""so poor"", ""sentiment"": ""Negative""}, {""aspect_category"": ""SERVICE:Return_Refund"", ""aspect_term"": ""return"", ""opinion_term"": ""seller denied"", ""sentiment"": ""Negative""}]","{""overall_sentiment"":""Negative"",""overall_emotion"":""Anger"",""triplets"":[{""aspect_category"":""Overall_Quality"",""aspect_term"":""Quality"",""opinion_term"":""so poor"",""sentiment"":""Negative""},{""aspect_category"":""SERVICE:Return_Refund"",""aspect_term"":""return"",""opinion_term"":""seller denied"",""sentiment"":""Negative""}]}",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Anger"", ""triplets"": [{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""Quality"", ""opinion_term"": ""so poor"", ""sentiment"": ""Negative""}, {""aspect_category"": ""SERVICE:Return_Refund"", ""aspect_term"": ""return"", ""opinion_term"": ""seller denied"", ""sentiment"": ""Negative""}]}",Negative,Anger,"[{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""Quality"", ""opinion_term"": ""so poor"", ""sentiment"": ""Negative""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""seller"", ""opinion_term"": ""denied"", ""sentiment"": ""Negative""}]","{
+""overall_sentiment"": ""Negative"",
+""overall_emotion"": ""Anger"",
+""triplets"": [
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""Quality"", ""opinion_term"": ""so poor"", ""sentiment"": ""Negative""},
+{""aspect_category"": ""SERVICE"", ""aspect_term"": ""seller"", ""opinion_term"": ""denied"", ""sentiment"": ""Negative""}
+]
+} ",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Anger"", ""triplets"": [{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""Quality"", ""opinion_term"": ""so poor"", ""sentiment"": ""Negative""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""seller"", ""opinion_term"": ""denied"", ""sentiment"": ""Negative""}]}"
+5.0,Excellent product. Fit is good. Superb lens quality. Perfect for daytime driving.,Vocoal Men Belt Outdoor Tactical Belt Quick Release Buckle Belt Nylon Web Waistband Elastic Belt Utility Gear Adjustable Heavy Duty Belt Casual Tooling Training Belt Military Trousers Belt for Man,Camping & Hiking,Love,Daraz,Positive,12,Positive,Happy,"[{""aspect_category"": ""PRODUCT_QUALITY.Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""Excellent product"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN.Size_Dimensions"", ""aspect_term"": ""Fit"", ""opinion_term"": ""Fit is good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY.Overall_Quality"", ""aspect_term"": ""lens quality"", ""opinion_term"": ""Superb lens quality"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY.Performance_Effectiveness"", ""aspect_term"": ""daytime driving"", ""opinion_term"": ""Perfect for daytime driving"", ""sentiment"": ""Positive""}]","{""overall_sentiment"":""Positive"",""overall_emotion"":""Happy"",""triplets"":[{""aspect_category"":""PRODUCT_QUALITY.Overall_Quality"",""aspect_term"":""product"",""opinion_term"":""Excellent product"",""sentiment"":""Positive""},{""aspect_category"":""PRODUCT_APPEARANCE_DESIGN.Size_Dimensions"",""aspect_term"":""Fit"",""opinion_term"":""Fit is good"",""sentiment"":""Positive""},{""aspect_category"":""PRODUCT_QUALITY.Overall_Quality"",""aspect_term"":""lens quality"",""opinion_term"":""Superb lens quality"",""sentiment"":""Positive""},{""aspect_category"":""PRODUCT_QUALITY.Performance_Effectiveness"",""aspect_term"":""daytime driving"",""opinion_term"":""Perfect for daytime driving"",""sentiment"":""Positive""}]}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRODUCT_QUALITY.Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""Excellent product"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN.Size_Dimensions"", ""aspect_term"": ""Fit"", ""opinion_term"": ""Fit is good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY.Overall_Quality"", ""aspect_term"": ""lens quality"", ""opinion_term"": ""Superb lens quality"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY.Performance_Effectiveness"", ""aspect_term"": ""daytime driving"", ""opinion_term"": ""Perfect for daytime driving"", ""sentiment"": ""Positive""}]}",Positive,Happy,"[{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""Excellent"", ""sentiment"": ""Positive""}, {""aspect_category"": ""FIT_SIZE"", ""aspect_term"": ""Fit"", ""opinion_term"": ""good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""CAMERA"", ""aspect_term"": ""lens quality"", ""opinion_term"": ""Superb"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""Perfect for daytime driving"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""Excellent"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""FIT_SIZE"", ""aspect_term"": ""Fit"", ""opinion_term"": ""good"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""CAMERA"", ""aspect_term"": ""lens quality"", ""opinion_term"": ""Superb"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""Perfect for daytime driving"", ""sentiment"": ""Positive""}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""Excellent"", ""sentiment"": ""Positive""}, {""aspect_category"": ""FIT_SIZE"", ""aspect_term"": ""Fit"", ""opinion_term"": ""good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""CAMERA"", ""aspect_term"": ""lens quality"", ""opinion_term"": ""Superb"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""Perfect for daytime driving"", ""sentiment"": ""Positive""}]}"
+5.0,"ভালই শ্যাম্পুটা,আগেও ইউজ করেছি।সাথে পার্স ও গিফট পেলাম।ধন্যবাদ সেলারকে।",Tresemme Shampoo Keratin Smooth 580ml,Hair Care,Happy,Daraz,Positive,12,Positive,Happy,"[{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""শ্যাম্পুটা"", ""opinion_term"": ""ভালই, আগেও ইউজ করেছি"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE:Seller_Interaction"", ""aspect_term"": ""পার্স ও গিফট"", ""opinion_term"": ""সাথে পার্স ও গিফট পেলাম; ধন্যবাদ সেলারকে"", ""sentiment"": ""Positive""}]","{""overall_sentiment"":""Positive"",""overall_emotion"":""Happy"",""triplets"":[{""aspect_category"":""Overall_Quality"",""aspect_term"":""শ্যাম্পুটা"",""opinion_term"":""ভালই, আগেও ইউজ করেছি"",""sentiment"":""Positive""},{""aspect_category"":""SERVICE:Seller_Interaction"",""aspect_term"":""পার্স ও গিফট"",""opinion_term"":""সাথে পার্স ও গিফট পেলাম; ধন্যবাদ সেলারকে"",""sentiment"":""Positive""}]}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""শ্যাম্পুটা"", ""opinion_term"": ""ভালই, আগেও ইউজ করেছি"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE:Seller_Interaction"", ""aspect_term"": ""পার্স ও গিফট"", ""opinion_term"": ""সাথে পার্স ও গিফট পেলাম; ধন্যবাদ সেলারকে"", ""sentiment"": ""Positive""}]}",Positive,Happy,"[{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""শ্যাম্পু"", ""opinion_term"": ""ভালই"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""সেলার"", ""opinion_term"": ""ধন্যবাদ"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PACKAGING"", ""aspect_term"": ""পার্স ও গিফট"", ""opinion_term"": ""পেলাম"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""শ্যাম্পু"", ""opinion_term"": ""ভালই"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""SERVICE"", ""aspect_term"": ""সেলার"", ""opinion_term"": ""ধন্যবাদ"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""PACKAGING"", ""aspect_term"": ""পার্স ও গিফট"", ""opinion_term"": ""পেলাম"", ""sentiment"": ""Positive""}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""শ্যাম্পু"", ""opinion_term"": ""ভালই"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""সেলার"", ""opinion_term"": ""ধন্যবাদ"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PACKAGING"", ""aspect_term"": ""পার্স ও গিফট"", ""opinion_term"": ""পেলাম"", ""sentiment"": ""Positive""}]}"
+5.0,Actually good product but delivery time is to much pain. I'll give 4 out of 5 to this product.,Summerflowers 240PCS Game Card Collection Holder Pokemon Cards Album Book Cartoon Anime Collection Folder Kid Cool Toy Gift(Cards excluded),Traditional Games,Happy,Daraz,Positive,20,Positive,Happy,"[{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""Actually good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""DELIVERY:Timeliness"", ""aspect_term"": ""delivery time"", ""opinion_term"": ""to much pain"", ""sentiment"": ""Negative""}]","{
+  ""overall_sentiment"": ""Positive"",
+  ""overall_emotion"": ""Happy"",
+  ""triplets"": [
+    {
+      ""aspect_category"": ""Overall_Quality"",
+      ""aspect_term"": ""product"",
+      ""opinion_term"": ""Actually good"",
+      ""sentiment"": ""Positive""
+    },
+    {
+      ""aspect_category"": ""DELIVERY:Timeliness"",
+      ""aspect_term"": ""delivery time"",
+      ""opinion_term"": ""to much pain"",
+      ""sentiment"": ""Negative""
+    }
+  ]
+}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""Actually good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""DELIVERY:Timeliness"", ""aspect_term"": ""delivery time"", ""opinion_term"": ""to much pain"", ""sentiment"": ""Negative""}]}",Neutral,Sadness,"[{""aspect_category"": ""DELIVERY"", ""aspect_term"": ""delivery time"", ""opinion_term"": ""to much pain"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""good product"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Neutral"",
+""overall_emotion"": ""Sadness"",
+""triplets"": [
+{""aspect_category"": ""DELIVERY"", ""aspect_term"": ""delivery time"", ""opinion_term"": ""to much pain"", ""sentiment"": ""Negative""},
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""good product"", ""sentiment"": ""Positive""}
+]
+} ",200,,"{""overall_sentiment"": ""Neutral"", ""overall_emotion"": ""Sadness"", ""triplets"": [{""aspect_category"": ""DELIVERY"", ""aspect_term"": ""delivery time"", ""opinion_term"": ""to much pain"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""good product"", ""sentiment"": ""Positive""}]}"
+5.0,akdm original product..seller k onkk thanks ☺️..ja dakhaice ta e dice..sby nite paren..use kri ni akn..o..1 mas por janabo ..,Beard Growth Solution Oil for Men - 30Ml,Men's Care,Happy,Daraz,Positive,24,Positive,Happy,"[{""aspect_category"": ""Originality"", ""aspect_term"": ""original product"", ""opinion_term"": ""akdm original product"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Seller_Interaction"", ""aspect_term"": ""seller"", ""opinion_term"": ""seller k onkk thanks ☺️"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product as shown"", ""opinion_term"": ""ja dakhaice ta e dice"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Performance_Effectiveness"", ""aspect_term"": ""product use/performance"", ""opinion_term"": ""use kri ni akn..1 mas por janabo"", ""sentiment"": ""Neutral""}]","{
+  ""overall_sentiment"": ""Positive"",
+  ""overall_emotion"": ""Happy"",
+  ""triplets"": [
+    {
+      ""aspect_category"": ""Originality"",
+      ""aspect_term"": ""original product"",
+      ""opinion_term"": ""akdm original product"",
+      ""sentiment"": ""Positive""
+    },
+    {
+      ""aspect_category"": ""Seller_Interaction"",
+      ""aspect_term"": ""seller"",
+      ""opinion_term"": ""seller k onkk thanks ☺️"",
+      ""sentiment"": ""Positive""
+    },
+    {
+      ""aspect_category"": ""Overall_Quality"",
+      ""aspect_term"": ""product as shown"",
+      ""opinion_term"": ""ja dakhaice ta e dice"",
+      ""sentiment"": ""Positive""
+    },
+    {
+      ""aspect_category"": ""Performance_Effectiveness"",
+      ""aspect_term"": ""product use/performance"",
+      ""opinion_term"": ""use kri ni akn..1 mas por janabo"",
+      ""sentiment"": ""Neutral""
+    }
+  ]
+}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""Originality"", ""aspect_term"": ""original product"", ""opinion_term"": ""akdm original product"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Seller_Interaction"", ""aspect_term"": ""seller"", ""opinion_term"": ""seller k onkk thanks ☺️"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product as shown"", ""opinion_term"": ""ja dakhaice ta e dice"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Performance_Effectiveness"", ""aspect_term"": ""product use/performance"", ""opinion_term"": ""use kri ni akn..1 mas por janabo"", ""sentiment"": ""Neutral""}]}",Positive,Happy,"[{""aspect_category"": ""AUTHENTICITY"", ""aspect_term"": ""original product"", ""opinion_term"": ""original"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""seller"", ""opinion_term"": ""onkk thanks"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""dakhaice ta e dice"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{""aspect_category"": ""AUTHENTICITY"", ""aspect_term"": ""original product"", ""opinion_term"": ""original"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""SERVICE"", ""aspect_term"": ""seller"", ""opinion_term"": ""onkk thanks"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""dakhaice ta e dice"", ""sentiment"": ""Positive""}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""AUTHENTICITY"", ""aspect_term"": ""original product"", ""opinion_term"": ""original"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""seller"", ""opinion_term"": ""onkk thanks"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""dakhaice ta e dice"", ""sentiment"": ""Positive""}]}"
+5.0,"প্রোডাক্ট অনেক ভালো ,সেলার খুবই আন্তরিক 😊  নিতে পারেন",হাতে তৈরি dulna প্রাপ্তবয়স্ক দড়ি বিছানা ঝুলন্ত dulna সব মানুষের জন্য বড় সুইং দড়ি বিছানা রতন dulna ব্যবহার - dolna,"Tools, DIY & Outdoor",Happy,Daraz,Positive,8,Positive,Happy,"[{""aspect_category"": ""PRODUCT_QUALITY.Overall_Quality"", ""aspect_term"": ""প্রোডাক্ট"", ""opinion_term"": ""অনেক ভালো"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE.Seller_Interaction"", ""aspect_term"": ""সেলার"", ""opinion_term"": ""খুবই আন্তরিক 😊"", ""sentiment"": ""Positive""}]","{
+  ""overall_sentiment"": ""Positive"",
+  ""overall_emotion"": ""Happy"",
+  ""triplets"": [
+    {
+      ""aspect_category"": ""PRODUCT_QUALITY.Overall_Quality"",
+      ""aspect_term"": ""প্রোডাক্ট"",
+      ""opinion_term"": ""অনেক ভালো"",
+      ""sentiment"": ""Positive""
+    },
+    {
+      ""aspect_category"": ""SERVICE.Seller_Interaction"",
+      ""aspect_term"": ""সেলার"",
+      ""opinion_term"": ""খুবই আন্তরিক 😊"",
+      ""sentiment"": ""Positive""
+    }
+  ]
+}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRODUCT_QUALITY.Overall_Quality"", ""aspect_term"": ""প্রোডাক্ট"", ""opinion_term"": ""অনেক ভালো"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE.Seller_Interaction"", ""aspect_term"": ""সেলার"", ""opinion_term"": ""খুবই আন্তরিক 😊"", ""sentiment"": ""Positive""}]}",Positive,Happy,"[{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""প্রোডাক্ট"", ""opinion_term"": ""অনেক ভালো"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""সেলার"", ""opinion_term"": ""খুবই আন্তরিক"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""প্রোডাক্ট"", ""opinion_term"": ""অনেক ভালো"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""SERVICE"", ""aspect_term"": ""সেলার"", ""opinion_term"": ""খুবই আন্তরিক"", ""sentiment"": ""Positive""}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""প্রোডাক্ট"", ""opinion_term"": ""অনেক ভালো"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""সেলার"", ""opinion_term"": ""খুবই আন্তরিক"", ""sentiment"": ""Positive""}]}"
+5.0,fully satisfied and recommended. Anyone can buy this product.cloths quality is very good 👍,New Collection Outerwear Rani Borkha For Women Regular Outerwear Abaya Borka,Muslim Wear,Love,Daraz,Positive,14,Positive,Happy,"[{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""this product"", ""opinion_term"": ""fully satisfied and recommended"", ""sentiment"": ""Positive""}, {""aspect_category"": ""FASHION_AND_APPAREL:MATERIAL"", ""aspect_term"": ""cloths quality"", ""opinion_term"": ""very good"", ""sentiment"": ""Positive""}]","{
+  ""overall_sentiment"": ""Positive"",
+  ""overall_emotion"": ""Happy"",
+  ""triplets"": [
+    {
+      ""aspect_category"": ""Overall_Quality"",
+      ""aspect_term"": ""this product"",
+      ""opinion_term"": ""fully satisfied and recommended"",
+      ""sentiment"": ""Positive""
+    },
+    {
+      ""aspect_category"": ""FASHION_AND_APPAREL:MATERIAL"",
+      ""aspect_term"": ""cloths quality"",
+      ""opinion_term"": ""very good"",
+      ""sentiment"": ""Positive""
+    }
+  ]
+}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""this product"", ""opinion_term"": ""fully satisfied and recommended"", ""sentiment"": ""Positive""}, {""aspect_category"": ""FASHION_AND_APPAREL:MATERIAL"", ""aspect_term"": ""cloths quality"", ""opinion_term"": ""very good"", ""sentiment"": ""Positive""}]}",Positive,Happy,"[{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""cloths quality"", ""opinion_term"": ""very good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""OTHER_PRODUCTS"", ""aspect_term"": ""product"", ""opinion_term"": ""recommended"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""cloths quality"", ""opinion_term"": ""very good"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""OTHER_PRODUCTS"", ""aspect_term"": ""product"", ""opinion_term"": ""recommended"", ""sentiment"": ""Positive""}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""cloths quality"", ""opinion_term"": ""very good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""OTHER_PRODUCTS"", ""aspect_term"": ""product"", ""opinion_term"": ""recommended"", ""sentiment"": ""Positive""}]}"
+5.0,সেন্ডেলটি পছন্দ হয়েছে। দুঃখের বিষয় সাইজ ছোট। আমি ৩৮ বলেছিলাম কিন্ত এখন দেখছি ৪০ হলে পরতে পারতাম। ধন্যবাদ।,Smart Ladies Eva Sandal Flip Flop 2 Inch Hill - Shoe For Women,Shoes,Happy,Daraz,Positive,18,Neutral,Sadness,"[{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""সেন্ডেলটি"", ""opinion_term"": ""পছন্দ হয়েছে"", ""sentiment"": ""Positive""}, {""aspect_category"": ""FIT_SIZE"", ""aspect_term"": ""সাইজ"", ""opinion_term"": ""সাইজ ছোট"", ""sentiment"": ""Negative""}]","{""overall_sentiment"":""Neutral"",""overall_emotion"":""Sadness"",""triplets"":[{""aspect_category"":""Overall_Quality"",""aspect_term"":""সেন্ডেলটি"",""opinion_term"":""পছন্দ হয়েছে"",""sentiment"":""Positive""},{""aspect_category"":""FIT_SIZE"",""aspect_term"":""সাইজ"",""opinion_term"":""সাইজ ছোট"",""sentiment"":""Negative""}]}",200,,"{""overall_sentiment"": ""Neutral"", ""overall_emotion"": ""Sadness"", ""triplets"": [{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""সেন্ডেলটি"", ""opinion_term"": ""পছন্দ হয়েছে"", ""sentiment"": ""Positive""}, {""aspect_category"": ""FIT_SIZE"", ""aspect_term"": ""সাইজ"", ""opinion_term"": ""সাইজ ছোট"", ""sentiment"": ""Negative""}]}",Negative,Sadness,"[{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""size"", ""opinion_term"": ""ছোট"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""size"", ""opinion_term"": ""৪০ হলে পরতে পারতাম"", ""sentiment"": ""Negative""}]","{
+""overall_sentiment"": ""Negative"",
+""overall_emotion"": ""Sadness"",
+""triplets"": [
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""size"", ""opinion_term"": ""ছোট"", ""sentiment"": ""Negative""},
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""size"", ""opinion_term"": ""৪০ হলে পরতে পারতাম"", ""sentiment"": ""Negative""}
+]
+} ",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Sadness"", ""triplets"": [{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""size"", ""opinion_term"": ""ছোট"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""size"", ""opinion_term"": ""৪০ হলে পরতে পারতাম"", ""sentiment"": ""Negative""}]}"
+5.0,জুতা gula dakta sundor kintu quality ta basi vlo na ai dam a ato vlo douar o kth na jak dakhi koto din jai,Premium quality soft leather shoes sandals for women,Shoes,Anger,Daraz,Negative,24,Negative,Sadness,"[{""aspect_category"": ""DESIGN"", ""aspect_term"": ""জুতা"", ""opinion_term"": ""dakta sundor"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""quality"", ""opinion_term"": ""quality ta basi vlo na"", ""sentiment"": ""Negative""}, {""aspect_category"": ""Value_for_Money"", ""aspect_term"": ""dam"", ""opinion_term"": ""ai dam a ato vlo na"", ""sentiment"": ""Negative""}, {""aspect_category"": ""Durability_Longevity"", ""aspect_term"": ""koto din jai"", ""opinion_term"": ""dakhi koto din jai"", ""sentiment"": ""Negative""}]","{
+  ""overall_sentiment"": ""Negative"",
+  ""overall_emotion"": ""Sadness"",
+  ""triplets"": [
+    {
+      ""aspect_category"": ""DESIGN"",
+      ""aspect_term"": ""জুতা"",
+      ""opinion_term"": ""dakta sundor"",
+      ""sentiment"": ""Positive""
+    },
+    {
+      ""aspect_category"": ""Overall_Quality"",
+      ""aspect_term"": ""quality"",
+      ""opinion_term"": ""quality ta basi vlo na"",
+      ""sentiment"": ""Negative""
+    },
+    {
+      ""aspect_category"": ""Value_for_Money"",
+      ""aspect_term"": ""dam"",
+      ""opinion_term"": ""ai dam a ato vlo na"",
+      ""sentiment"": ""Negative""
+    },
+    {
+      ""aspect_category"": ""Durability_Longevity"",
+      ""aspect_term"": ""koto din jai"",
+      ""opinion_term"": ""dakhi koto din jai"",
+      ""sentiment"": ""Negative""
+    }
+  ]
+}",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Sadness"", ""triplets"": [{""aspect_category"": ""DESIGN"", ""aspect_term"": ""জুতা"", ""opinion_term"": ""dakta sundor"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""quality"", ""opinion_term"": ""quality ta basi vlo na"", ""sentiment"": ""Negative""}, {""aspect_category"": ""Value_for_Money"", ""aspect_term"": ""dam"", ""opinion_term"": ""ai dam a ato vlo na"", ""sentiment"": ""Negative""}, {""aspect_category"": ""Durability_Longevity"", ""aspect_term"": ""koto din jai"", ""opinion_term"": ""dakhi koto din jai"", ""sentiment"": ""Negative""}]}",Negative,Sadness,"[{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""quality"", ""opinion_term"": ""basi vlo na"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRICE"", ""aspect_term"": ""dam"", ""opinion_term"": ""ato vlo douar o kth na"", ""sentiment"": ""Negative""}]","{
+""overall_sentiment"": ""Negative"",
+""overall_emotion"": ""Sadness"",
+""triplets"": [
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""quality"", ""opinion_term"": ""basi vlo na"", ""sentiment"": ""Negative""},
+{""aspect_category"": ""PRICE"", ""aspect_term"": ""dam"", ""opinion_term"": ""ato vlo douar o kth na"", ""sentiment"": ""Negative""}
+]
+} ",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Sadness"", ""triplets"": [{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""quality"", ""opinion_term"": ""basi vlo na"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRICE"", ""aspect_term"": ""dam"", ""opinion_term"": ""ato vlo douar o kth na"", ""sentiment"": ""Negative""}]}"
+5.0,এতো অল্প দামে Curren brand ঘড়ি। আমি পরপর দুইটা নিছি। I am satisfied for product quality. thanks daraz & seller.,CURREN 9015-Rosegold & Blue Women Watch Luxury Stainless Steel Ladies Watch,Watches,Love,Daraz,Positive,19,Positive,Happy,"[{""aspect_category"": ""Value_for_Money"", ""aspect_term"": ""price"", ""opinion_term"": ""এতো অল্প দামে"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product quality (Curren ঘড়ি)"", ""opinion_term"": ""I am satisfied"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Seller_Interaction"", ""aspect_term"": ""Daraz & seller"", ""opinion_term"": ""thanks"", ""sentiment"": ""Positive""}]","{""overall_sentiment"":""Positive"",""overall_emotion"":""Happy"",""triplets"":[{""aspect_category"":""Value_for_Money"",""aspect_term"":""price"",""opinion_term"":""এতো অল্প দামে"",""sentiment"":""Positive""},{""aspect_category"":""Overall_Quality"",""aspect_term"":""product quality (Curren ঘড়ি)"",""opinion_term"":""I am satisfied"",""sentiment"":""Positive""},{""aspect_category"":""Seller_Interaction"",""aspect_term"":""Daraz & seller"",""opinion_term"":""thanks"",""sentiment"":""Positive""}]}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""Value_for_Money"", ""aspect_term"": ""price"", ""opinion_term"": ""এতো অল্প দামে"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product quality (Curren ঘড়ি)"", ""opinion_term"": ""I am satisfied"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Seller_Interaction"", ""aspect_term"": ""Daraz & seller"", ""opinion_term"": ""thanks"", ""sentiment"": ""Positive""}]}",Positive,Happy,"[{""aspect_category"": ""PRICE"", ""aspect_term"": ""অল্প দামে"", ""opinion_term"": ""অল্প দামে"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product quality"", ""opinion_term"": ""satisfied"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{""aspect_category"": ""PRICE"", ""aspect_term"": ""অল্প দামে"", ""opinion_term"": ""অল্প দামে"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product quality"", ""opinion_term"": ""satisfied"", ""sentiment"": ""Positive""}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRICE"", ""aspect_term"": ""অল্প দামে"", ""opinion_term"": ""অল্প দামে"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product quality"", ""opinion_term"": ""satisfied"", ""sentiment"": ""Positive""}]}"
+5.0,"ছোট একটা গ্যাজেট বড় একটা ঘর কভার করে দিয়েছে, চমৎকার আলো। ধন্যবাদ সেলার কে।","Usb Mini Led Disco Magic Ball Lights, Sound Sensor Led Small Magic Ball Light",Media & Music,Happy,Daraz,Positive,14,Positive,Happy,"[{""aspect_category"": ""Performance_Effectiveness"", ""aspect_term"": ""ঘর কভার করা"", ""opinion_term"": ""ছোট একটা গ্যাজেট বড় একটা ঘর কভার করে দিয়েছে"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Performance_Effectiveness"", ""aspect_term"": ""আলো"", ""opinion_term"": ""চমৎকার আলো"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Seller_Interaction"", ""aspect_term"": ""সেলার"", ""opinion_term"": ""ধন্যবাদ সেলার কে"", ""sentiment"": ""Positive""}]","{""overall_sentiment"":""Positive"",""overall_emotion"":""Happy"",""triplets"":[{""aspect_category"":""Performance_Effectiveness"",""aspect_term"":""ঘর কভার করা"",""opinion_term"":""ছোট একটা গ্যাজেট বড় একটা ঘর কভার করে দিয়েছে"",""sentiment"":""Positive""},{""aspect_category"":""Performance_Effectiveness"",""aspect_term"":""আলো"",""opinion_term"":""চমৎকার আলো"",""sentiment"":""Positive""},{""aspect_category"":""Seller_Interaction"",""aspect_term"":""সেলার"",""opinion_term"":""ধন্যবাদ সেলার কে"",""sentiment"":""Positive""}]}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""Performance_Effectiveness"", ""aspect_term"": ""ঘর কভার করা"", ""opinion_term"": ""ছোট একটা গ্যাজেট বড় একটা ঘর কভার করে দিয়েছে"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Performance_Effectiveness"", ""aspect_term"": ""আলো"", ""opinion_term"": ""চমৎকার আলো"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Seller_Interaction"", ""aspect_term"": ""সেলার"", ""opinion_term"": ""ধন্যবাদ সেলার কে"", ""sentiment"": ""Positive""}]}",Positive,Happy,"[{""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN"", ""aspect_term"": ""গ্যাজেট"", ""opinion_term"": ""ছোট একটা"", ""sentiment"": ""Neutral""}, {""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN"", ""aspect_term"": ""গ্যাজেট"", ""opinion_term"": ""বড় একটা ঘর কভার করে দিয়েছে"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""আলো"", ""opinion_term"": ""চমৎকার"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""সেলা"", ""opinion_term"": ""ধন্যবাদ"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN"", ""aspect_term"": ""গ্যাজেট"", ""opinion_term"": ""ছোট একটা"", ""sentiment"": ""Neutral""},
+{""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN"", ""aspect_term"": ""গ্যাজেট"", ""opinion_term"": ""বড় একটা ঘর কভার করে দিয়েছে"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""আলো"", ""opinion_term"": ""চমৎকার"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""SERVICE"", ""aspect_term"": ""সেলা"", ""opinion_term"": ""ধন্যবাদ"", ""sentiment"": ""Positive""}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN"", ""aspect_term"": ""গ্যাজেট"", ""opinion_term"": ""ছোট একটা"", ""sentiment"": ""Neutral""}, {""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN"", ""aspect_term"": ""গ্যাজেট"", ""opinion_term"": ""বড় একটা ঘর কভার করে দিয়েছে"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""আলো"", ""opinion_term"": ""চমৎকার"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""সেলা"", ""opinion_term"": ""ধন্যবাদ"", ""sentiment"": ""Positive""}]}"
+5.0,very good product..... really good to see ...... fits on my hand perfectly,Classic Punk Men's Bracelets -Stainless Steel Curb Cuban Link Chain Color Black Bracelet Men Women Jewelry Gift,Men's Jewelry,Happy,Daraz,Positive,12,Positive,Happy,"[{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""very good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN:Design_Style"", ""aspect_term"": ""appearance"", ""opinion_term"": ""really good to see"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN:Size_Dimensions"", ""aspect_term"": ""fit on my hand"", ""opinion_term"": ""fits on my hand perfectly"", ""sentiment"": ""Positive""}]","{""overall_sentiment"":""Positive"",""overall_emotion"":""Happy"",""triplets"":[{""aspect_category"":""Overall_Quality"",""aspect_term"":""product"",""opinion_term"":""very good"",""sentiment"":""Positive""},{""aspect_category"":""PRODUCT_APPEARANCE_DESIGN:Design_Style"",""aspect_term"":""appearance"",""opinion_term"":""really good to see"",""sentiment"":""Positive""},{""aspect_category"":""PRODUCT_APPEARANCE_DESIGN:Size_Dimensions"",""aspect_term"":""fit on my hand"",""opinion_term"":""fits on my hand perfectly"",""sentiment"":""Positive""}]}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""very good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN:Design_Style"", ""aspect_term"": ""appearance"", ""opinion_term"": ""really good to see"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN:Size_Dimensions"", ""aspect_term"": ""fit on my hand"", ""opinion_term"": ""fits on my hand perfectly"", ""sentiment"": ""Positive""}]}",Positive,Happy,"[{""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN"", ""aspect_term"": ""product"", ""opinion_term"": ""very good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN"", ""aspect_term"": ""fits on my hand"", ""opinion_term"": ""perfectly"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN"", ""aspect_term"": ""product"", ""opinion_term"": ""very good"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN"", ""aspect_term"": ""fits on my hand"", ""opinion_term"": ""perfectly"", ""sentiment"": ""Positive""}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN"", ""aspect_term"": ""product"", ""opinion_term"": ""very good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN"", ""aspect_term"": ""fits on my hand"", ""opinion_term"": ""perfectly"", ""sentiment"": ""Positive""}]}"
+5.0,"At this price range, best product... Recommended ❤️",Sony Plus 32 Inch 2GB/16GB Frameless Smart Android TV with Free Wall Mount,Television,Love,Pickaboo,Positive,7,Positive,Happy,"[{""aspect_category"": ""Value_for_Money"", ""aspect_term"": ""price range"", ""opinion_term"": ""At this price range, best product"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""best product; Recommended ❤️"", ""sentiment"": ""Positive""}]","{""overall_sentiment"":""Positive"",""overall_emotion"":""Happy"",""triplets"":[{""aspect_category"":""Value_for_Money"",""aspect_term"":""price range"",""opinion_term"":""At this price range, best product"",""sentiment"":""Positive""},{""aspect_category"":""Overall_Quality"",""aspect_term"":""product"",""opinion_term"":""best product; Recommended ❤️"",""sentiment"":""Positive""}]}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""Value_for_Money"", ""aspect_term"": ""price range"", ""opinion_term"": ""At this price range, best product"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""best product; Recommended ❤️"", ""sentiment"": ""Positive""}]}",Positive,Happy,"[{""aspect_category"": ""PRICE"", ""aspect_term"": ""price range"", ""opinion_term"": ""best product"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""best product"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{""aspect_category"": ""PRICE"", ""aspect_term"": ""price range"", ""opinion_term"": ""best product"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""best product"", ""sentiment"": ""Positive""}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRICE"", ""aspect_term"": ""price range"", ""opinion_term"": ""best product"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""best product"", ""sentiment"": ""Positive""}]}"
+3.0,ভালোই। তবে ব্যাগের রোপটা মানে দড়িটা একটু বড় হলে ভালো হয়।,SamiaCrafts Athleisure - Avant Grade - Highly Sustainable - Bag For Women's Cotton Hand Bag With Zipper - Durabilty Assured - Well Inspired & Crafted,Bags,Sadness,Daraz,Negative,11,Positive,Happy,"[{""aspect_category"": ""PRODUCT_QUALITY.Overall_Quality"", ""aspect_term"": ""ব্যাগ"", ""opinion_term"": ""ভালোই"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN.Size_Dimensions"", ""aspect_term"": ""ব্যাগের দড়ি"", ""opinion_term"": ""দড়িটা একটু বড় হলে ভালো হয়"", ""sentiment"": ""Negative""}]","{""overall_sentiment"":""Positive"",""overall_emotion"":""Happy"",""triplets"":[{""aspect_category"":""PRODUCT_QUALITY.Overall_Quality"",""aspect_term"":""ব্যাগ"",""opinion_term"":""ভালোই"",""sentiment"":""Positive""},{""aspect_category"":""PRODUCT_APPEARANCE_DESIGN.Size_Dimensions"",""aspect_term"":""ব্যাগের দড়ি"",""opinion_term"":""দড়িটা একটু বড় হলে ভালো হয়"",""sentiment"":""Negative""}]}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRODUCT_QUALITY.Overall_Quality"", ""aspect_term"": ""ব্যাগ"", ""opinion_term"": ""ভালোই"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN.Size_Dimensions"", ""aspect_term"": ""ব্যাগের দড়ি"", ""opinion_term"": ""দড়িটা একটু বড় হলে ভালো হয়"", ""sentiment"": ""Negative""}]}",Positive,Happy,"[{""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN"", ""aspect_term"": ""ব্যাগের রোপ"", ""opinion_term"": ""একটু বড় হলে ভালো হয়"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN"", ""aspect_term"": ""দড়ি"", ""opinion_term"": ""একটু বড় হলে ভালো হয়"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN"", ""aspect_term"": ""ব্যাগের রোপ"", ""opinion_term"": ""একটু বড় হলে ভালো হয়"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN"", ""aspect_term"": ""দড়ি"", ""opinion_term"": ""একটু বড় হলে ভালো হয়"", ""sentiment"": ""Positive""}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN"", ""aspect_term"": ""ব্যাগের রোপ"", ""opinion_term"": ""একটু বড় হলে ভালো হয়"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_APPEARANCE_DESIGN"", ""aspect_term"": ""দড়ি"", ""opinion_term"": ""একটু বড় হলে ভালো হয়"", ""sentiment"": ""Positive""}]}"
+5.0,"ধন্যবাদ সেলার কে, মার্কেট প্রাইজ থেকে অনেক কম দামে ভাল প্রোডাক্ট দেওয়ার জন্য।",Neocare Belt System Baby Premium Diaper S (3-6 kg) - 50pcs,Diapering & Potty,Happy,Daraz,Positive,13,Positive,Happy,"[{""aspect_category"": ""Seller_Interaction"", ""aspect_term"": ""সেলার"", ""opinion_term"": ""ধন্যবাদ দেওয়ার জন্য"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Value_for_Money"", ""aspect_term"": ""দাম"", ""opinion_term"": ""মার্কেট প্রাইজ থেকে অনেক কম দামে"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""প্রোডাক্ট"", ""opinion_term"": ""ভাল"", ""sentiment"": ""Positive""}]","{
+  ""overall_sentiment"": ""Positive"",
+  ""overall_emotion"": ""Happy"",
+  ""triplets"": [
+    {
+      ""aspect_category"": ""Seller_Interaction"",
+      ""aspect_term"": ""সেলার"",
+      ""opinion_term"": ""ধন্যবাদ দেওয়ার জন্য"",
+      ""sentiment"": ""Positive""
+    },
+    {
+      ""aspect_category"": ""Value_for_Money"",
+      ""aspect_term"": ""দাম"",
+      ""opinion_term"": ""মার্কেট প্রাইজ থেকে অনেক কম দামে"",
+      ""sentiment"": ""Positive""
+    },
+    {
+      ""aspect_category"": ""Overall_Quality"",
+      ""aspect_term"": ""প্রোডাক্ট"",
+      ""opinion_term"": ""ভাল"",
+      ""sentiment"": ""Positive""
+    }
+  ]
+}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""Seller_Interaction"", ""aspect_term"": ""সেলার"", ""opinion_term"": ""ধন্যবাদ দেওয়ার জন্য"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Value_for_Money"", ""aspect_term"": ""দাম"", ""opinion_term"": ""মার্কেট প্রাইজ থেকে অনেক কম দামে"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""প্রোডাক্ট"", ""opinion_term"": ""ভাল"", ""sentiment"": ""Positive""}]}",Positive,Happy,"[{""aspect_category"": ""PRICE"", ""aspect_term"": ""দাম"", ""opinion_term"": ""অনেক কম দামে"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""ভাল প্রোডাক্ট"", ""opinion_term"": ""ভাল"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{
+""aspect_category"": ""PRICE"",
+""aspect_term"": ""দাম"",
+""opinion_term"": ""অনেক কম দামে"",
+""sentiment"": ""Positive""
+},
+{
+""aspect_category"": ""PRODUCT_QUALITY"",
+""aspect_term"": ""ভাল প্রোডাক্ট"",
+""opinion_term"": ""ভাল"",
+""sentiment"": ""Positive""
+}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRICE"", ""aspect_term"": ""দাম"", ""opinion_term"": ""অনেক কম দামে"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""ভাল প্রোডাক্ট"", ""opinion_term"": ""ভাল"", ""sentiment"": ""Positive""}]}"
+5.0,good product and delivery speed also good. Just problem till now that I've got is inner swing is not working.,Midea 1.5 Ton Non Inverter Ac Split Type Air Conditioner 5 Year Compressor Official Warranty,Air Conditioners,Sadness,Daraz,Negative,21,Negative,Anger,"[{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""good product"", ""sentiment"": ""Positive""}, {""aspect_category"": ""DELIVERY:Speed"", ""aspect_term"": ""delivery speed"", ""opinion_term"": ""delivery speed also good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""OTHER_PRODUCTS:FEATURES_FUNCTIONALITY"", ""aspect_term"": ""inner swing"", ""opinion_term"": ""not working"", ""sentiment"": ""Negative""}]","{""overall_sentiment"":""Negative"",""overall_emotion"":""Anger"",""triplets"":[{""aspect_category"":""Overall_Quality"",""aspect_term"":""product"",""opinion_term"":""good product"",""sentiment"":""Positive""},{""aspect_category"":""DELIVERY:Speed"",""aspect_term"":""delivery speed"",""opinion_term"":""delivery speed also good"",""sentiment"":""Positive""},{""aspect_category"":""OTHER_PRODUCTS:FEATURES_FUNCTIONALITY"",""aspect_term"":""inner swing"",""opinion_term"":""not working"",""sentiment"":""Negative""}]}",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Anger"", ""triplets"": [{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""good product"", ""sentiment"": ""Positive""}, {""aspect_category"": ""DELIVERY:Speed"", ""aspect_term"": ""delivery speed"", ""opinion_term"": ""delivery speed also good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""OTHER_PRODUCTS:FEATURES_FUNCTIONALITY"", ""aspect_term"": ""inner swing"", ""opinion_term"": ""not working"", ""sentiment"": ""Negative""}]}",Negative,Sadness,"[{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""inner swing"", ""opinion_term"": ""not working"", ""sentiment"": ""Negative""}, {""aspect_category"": ""DELIVERY"", ""aspect_term"": ""delivery speed"", ""opinion_term"": ""good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""good"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Negative"",
+""overall_emotion"": ""Sadness"",
+""triplets"": [
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""inner swing"", ""opinion_term"": ""not working"", ""sentiment"": ""Negative""},
+{""aspect_category"": ""DELIVERY"", ""aspect_term"": ""delivery speed"", ""opinion_term"": ""good"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""good"", ""sentiment"": ""Positive""}
+]
+} ",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Sadness"", ""triplets"": [{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""inner swing"", ""opinion_term"": ""not working"", ""sentiment"": ""Negative""}, {""aspect_category"": ""DELIVERY"", ""aspect_term"": ""delivery speed"", ""opinion_term"": ""good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""good"", ""sentiment"": ""Positive""}]}"
+3.0,date 01/23  কিন্তু দেখা যায় অনেক পুরান মাল।,Tresemme Shampoo Keratin Smooth 580ml,Hair Care,Anger,Daraz,Negative,9,Negative,Anger,"[{""aspect_category"": ""PRODUCT_QUALITY/Overall_Quality"", ""aspect_term"": ""মাল"", ""opinion_term"": ""অনেক পুরান"", ""sentiment"": ""Negative""}]","{
+  ""overall_sentiment"": ""Negative"",
+  ""overall_emotion"": ""Anger"",
+  ""triplets"": [
+    {
+      ""aspect_category"": ""PRODUCT_QUALITY/Overall_Quality"",
+      ""aspect_term"": ""মাল"",
+      ""opinion_term"": ""অনেক পুরান"",
+      ""sentiment"": ""Negative""
+    }
+  ]
+}",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Anger"", ""triplets"": [{""aspect_category"": ""PRODUCT_QUALITY/Overall_Quality"", ""aspect_term"": ""মাল"", ""opinion_term"": ""অনেক পুরান"", ""sentiment"": ""Negative""}]}",Negative,Sadness,"[{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""মাল"", ""opinion_term"": ""পুরান মাল"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""মাল"", ""opinion_term"": ""পুরান"", ""sentiment"": ""Negative""}]","{
+""overall_sentiment"": ""Negative"",
+""overall_emotion"": ""Sadness"",
+""triplets"": [
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""মাল"", ""opinion_term"": ""পুরান মাল"", ""sentiment"": ""Negative""},
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""মাল"", ""opinion_term"": ""পুরান"", ""sentiment"": ""Negative""}
+]
+} ",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Sadness"", ""triplets"": [{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""মাল"", ""opinion_term"": ""পুরান মাল"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""মাল"", ""opinion_term"": ""পুরান"", ""sentiment"": ""Negative""}]}"
+5.0,"well packed and delivered soon, thankyou for your service and gift",UNITED MX 2T II API TB II SIZE 1L,Oils & Fluids,Happy,Daraz,Positive,11,Positive,Happy,"[{""aspect_category"": ""PACKAGING.Protection"", ""aspect_term"": ""packaging"", ""opinion_term"": ""well packed"", ""sentiment"": ""Positive""}, {""aspect_category"": ""DELIVERY.Timeliness"", ""aspect_term"": ""delivery"", ""opinion_term"": ""delivered soon"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE.Seller_Interaction"", ""aspect_term"": ""service"", ""opinion_term"": ""thankyou for your service"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE.Seller_Interaction"", ""aspect_term"": ""gift"", ""opinion_term"": ""thankyou for the gift"", ""sentiment"": ""Positive""}]","{""overall_sentiment"":""Positive"",""overall_emotion"":""Happy"",""triplets"":[{""aspect_category"":""PACKAGING.Protection"",""aspect_term"":""packaging"",""opinion_term"":""well packed"",""sentiment"":""Positive""},{""aspect_category"":""DELIVERY.Timeliness"",""aspect_term"":""delivery"",""opinion_term"":""delivered soon"",""sentiment"":""Positive""},{""aspect_category"":""SERVICE.Seller_Interaction"",""aspect_term"":""service"",""opinion_term"":""thankyou for your service"",""sentiment"":""Positive""},{""aspect_category"":""SERVICE.Seller_Interaction"",""aspect_term"":""gift"",""opinion_term"":""thankyou for the gift"",""sentiment"":""Positive""}]}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PACKAGING.Protection"", ""aspect_term"": ""packaging"", ""opinion_term"": ""well packed"", ""sentiment"": ""Positive""}, {""aspect_category"": ""DELIVERY.Timeliness"", ""aspect_term"": ""delivery"", ""opinion_term"": ""delivered soon"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE.Seller_Interaction"", ""aspect_term"": ""service"", ""opinion_term"": ""thankyou for your service"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE.Seller_Interaction"", ""aspect_term"": ""gift"", ""opinion_term"": ""thankyou for the gift"", ""sentiment"": ""Positive""}]}",Positive,Happy,"[{""aspect_category"": ""PACKAGING"", ""aspect_term"": ""packing"", ""opinion_term"": ""well packed"", ""sentiment"": ""Positive""}, {""aspect_category"": ""DELIVERY"", ""aspect_term"": ""delivery"", ""opinion_term"": ""delivered soon"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""service"", ""opinion_term"": ""thankyou for your service"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{""aspect_category"": ""PACKAGING"", ""aspect_term"": ""packing"", ""opinion_term"": ""well packed"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""DELIVERY"", ""aspect_term"": ""delivery"", ""opinion_term"": ""delivered soon"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""SERVICE"", ""aspect_term"": ""service"", ""opinion_term"": ""thankyou for your service"", ""sentiment"": ""Positive""}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PACKAGING"", ""aspect_term"": ""packing"", ""opinion_term"": ""well packed"", ""sentiment"": ""Positive""}, {""aspect_category"": ""DELIVERY"", ""aspect_term"": ""delivery"", ""opinion_term"": ""delivered soon"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""service"", ""opinion_term"": ""thankyou for your service"", ""sentiment"": ""Positive""}]}"
+3.0,Belt quality er ektu better hote Parto..,CURREN 9015 Women's Watch Luxury Stainless Steel Ladies Watch - Black,Watches,Sadness,Daraz,Negative,7,Negative,Sadness,"[{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""Belt quality"", ""opinion_term"": ""ektu better hote Parto"", ""sentiment"": ""Negative""}]","{""overall_sentiment"":""Negative"",""overall_emotion"":""Sadness"",""triplets"":[{""aspect_category"":""Overall_Quality"",""aspect_term"":""Belt quality"",""opinion_term"":""ektu better hote Parto"",""sentiment"":""Negative""}]}",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Sadness"", ""triplets"": [{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""Belt quality"", ""opinion_term"": ""ektu better hote Parto"", ""sentiment"": ""Negative""}]}",Negative,Sadness,"[{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""Belt quality"", ""opinion_term"": ""ektu better hote Parto"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""Belt quality"", ""opinion_term"": ""ektu better hote Parto"", ""sentiment"": ""Negative""}]","{
+""overall_sentiment"": ""Negative"",
+""overall_emotion"": ""Sadness"",
+""triplets"": [
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""Belt quality"", ""opinion_term"": ""ektu better hote Parto"", ""sentiment"": ""Negative""},
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""Belt quality"", ""opinion_term"": ""ektu better hote Parto"", ""sentiment"": ""Negative""}
+]
+} ",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Sadness"", ""triplets"": [{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""Belt quality"", ""opinion_term"": ""ektu better hote Parto"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""Belt quality"", ""opinion_term"": ""ektu better hote Parto"", ""sentiment"": ""Negative""}]}"
+5.0,"খুব ভালো কাগজ ছিল, কোনো রকম সমস্যা ছাড়াই পেয়েছি। ধন্যবাদ দারাজ ও স্টোরকে।",A4 Paper - 80GSM - 500 Sheets,Stationery & Craft,Happy,Daraz,Positive,13,Positive,Happy,"[{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""কাগজ"", ""opinion_term"": ""খুব ভালো কাগজ ছিল"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Condition"", ""aspect_term"": ""পণ্য"", ""opinion_term"": ""কোনো রকম সমস্যা ছাড়াই পেয়েছি"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Seller_Interaction"", ""aspect_term"": ""দারাজ ও স্টোর"", ""opinion_term"": ""ধন্যবাদ দারাজ ও স্টোরকে"", ""sentiment"": ""Positive""}]","{""overall_sentiment"":""Positive"",""overall_emotion"":""Happy"",""triplets"":[{""aspect_category"":""Overall_Quality"",""aspect_term"":""কাগজ"",""opinion_term"":""খুব ভালো কাগজ ছিল"",""sentiment"":""Positive""},{""aspect_category"":""Condition"",""aspect_term"":""পণ্য"",""opinion_term"":""কোনো রকম সমস্যা ছাড়াই পেয়েছি"",""sentiment"":""Positive""},{""aspect_category"":""Seller_Interaction"",""aspect_term"":""দারাজ ও স্টোর"",""opinion_term"":""ধন্যবাদ দারাজ ও স্টোরকে"",""sentiment"":""Positive""}]}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""কাগজ"", ""opinion_term"": ""খুব ভালো কাগজ ছিল"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Condition"", ""aspect_term"": ""পণ্য"", ""opinion_term"": ""কোনো রকম সমস্যা ছাড়াই পেয়েছি"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Seller_Interaction"", ""aspect_term"": ""দারাজ ও স্টোর"", ""opinion_term"": ""ধন্যবাদ দারাজ ও স্টোরকে"", ""sentiment"": ""Positive""}]}",Positive,Happy,"[{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""কাগজ"", ""opinion_term"": ""ভালো"", ""sentiment"": ""Positive""}, {""aspect_category"": ""DELIVERY"", ""aspect_term"": ""পেয়েছি"", ""opinion_term"": ""কোনো রকম সমস্যা ছাড়াই"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""কাগজ"", ""opinion_term"": ""ভালো"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""DELIVERY"", ""aspect_term"": ""পেয়েছি"", ""opinion_term"": ""কোনো রকম সমস্যা ছাড়াই"", ""sentiment"": ""Positive""}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""কাগজ"", ""opinion_term"": ""ভালো"", ""sentiment"": ""Positive""}, {""aspect_category"": ""DELIVERY"", ""aspect_term"": ""পেয়েছি"", ""opinion_term"": ""কোনো রকম সমস্যা ছাড়াই"", ""sentiment"": ""Positive""}]}"
+5.0,Good quality product at an affordable price,"Resistance Bands set, Stackable Exercise Bands with Handles, Door Ankle, Ankle Straps and Carrying Bag, Workout Bands for Muscle Building, Physical Therapy, Yoga and Pilates",Exercise & Fitness,Happy,Daraz,Positive,7,Positive,Happy,"[{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""Good quality"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Value_for_Money"", ""aspect_term"": ""price"", ""opinion_term"": ""affordable"", ""sentiment"": ""Positive""}]","{""overall_sentiment"":""Positive"",""overall_emotion"":""Happy"",""triplets"":[{""aspect_category"":""Overall_Quality"",""aspect_term"":""product"",""opinion_term"":""Good quality"",""sentiment"":""Positive""},{""aspect_category"":""Value_for_Money"",""aspect_term"":""price"",""opinion_term"":""affordable"",""sentiment"":""Positive""}]}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""Good quality"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Value_for_Money"", ""aspect_term"": ""price"", ""opinion_term"": ""affordable"", ""sentiment"": ""Positive""}]}",Positive,Happy,"[{""aspect_category"": ""PRICE"", ""aspect_term"": ""price"", ""opinion_term"": ""affordable"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""Good quality"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{""aspect_category"": ""PRICE"", ""aspect_term"": ""price"", ""opinion_term"": ""affordable"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""Good quality"", ""sentiment"": ""Positive""}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRICE"", ""aspect_term"": ""price"", ""opinion_term"": ""affordable"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""Good quality"", ""sentiment"": ""Positive""}]}"
+5.0,দামটা একটু বেশি তবে জিনিস ভালো সবাই নিতে পারেন,GV Bike & Car Document Holder Bag - Premium PU Leather Pouch Wallet for Essential Papers,Motorcycle Parts & Spares,Happy,Daraz,Positive,9,Positive,Happy,"[{""aspect_category"": ""PRICE:Value_for_Money"", ""aspect_term"": ""দামটা"", ""opinion_term"": ""একটু বেশি"", ""sentiment"": ""Negative""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""জিনিস"", ""opinion_term"": ""ভালো"", ""sentiment"": ""Positive""}]","{""overall_sentiment"":""Positive"",""overall_emotion"":""Happy"",""triplets"":[{""aspect_category"":""PRICE:Value_for_Money"",""aspect_term"":""দামটা"",""opinion_term"":""একটু বেশি"",""sentiment"":""Negative""},{""aspect_category"":""Overall_Quality"",""aspect_term"":""জিনিস"",""opinion_term"":""ভালো"",""sentiment"":""Positive""}]}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRICE:Value_for_Money"", ""aspect_term"": ""দামটা"", ""opinion_term"": ""একটু বেশি"", ""sentiment"": ""Negative""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""জিনিস"", ""opinion_term"": ""ভালো"", ""sentiment"": ""Positive""}]}",Neutral,Sadness,"[{""aspect_category"": ""PRICE"", ""aspect_term"": ""দাম"", ""opinion_term"": ""একটু বেশি"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""জিনিস"", ""opinion_term"": ""ভালো"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Neutral"",
+""overall_emotion"": ""Sadness"",
+""triplets"": [
+{""aspect_category"": ""PRICE"", ""aspect_term"": ""দাম"", ""opinion_term"": ""একটু বেশি"", ""sentiment"": ""Negative""},
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""জিনিস"", ""opinion_term"": ""ভালো"", ""sentiment"": ""Positive""}
+]
+} ",200,,"{""overall_sentiment"": ""Neutral"", ""overall_emotion"": ""Sadness"", ""triplets"": [{""aspect_category"": ""PRICE"", ""aspect_term"": ""দাম"", ""opinion_term"": ""একটু বেশি"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""জিনিস"", ""opinion_term"": ""ভালো"", ""sentiment"": ""Positive""}]}"
+4.0,onion gula vloi.Bazar theke price o onk kom.Thanks daraz &seller.,Imported Onion 1 kg (± 25 gm)(CTG),"Fruits, Meat & Frozen",Happy,Daraz,Positive,12,Positive,Happy,"[{""aspect_category"": ""FRESHNESS"", ""aspect_term"": ""onion gula"", ""opinion_term"": ""vloi"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Value_for_Money"", ""aspect_term"": ""price"", ""opinion_term"": ""onk kom"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Seller_Interaction"", ""aspect_term"": ""daraz &seller"", ""opinion_term"": ""Thanks"", ""sentiment"": ""Positive""}]","{
+  ""overall_sentiment"": ""Positive"",
+  ""overall_emotion"": ""Happy"",
+  ""triplets"": [
+    {
+      ""aspect_category"": ""FRESHNESS"",
+      ""aspect_term"": ""onion gula"",
+      ""opinion_term"": ""vloi"",
+      ""sentiment"": ""Positive""
+    },
+    {
+      ""aspect_category"": ""Value_for_Money"",
+      ""aspect_term"": ""price"",
+      ""opinion_term"": ""onk kom"",
+      ""sentiment"": ""Positive""
+    },
+    {
+      ""aspect_category"": ""Seller_Interaction"",
+      ""aspect_term"": ""daraz &seller"",
+      ""opinion_term"": ""Thanks"",
+      ""sentiment"": ""Positive""
+    }
+  ]
+}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""FRESHNESS"", ""aspect_term"": ""onion gula"", ""opinion_term"": ""vloi"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Value_for_Money"", ""aspect_term"": ""price"", ""opinion_term"": ""onk kom"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Seller_Interaction"", ""aspect_term"": ""daraz &seller"", ""opinion_term"": ""Thanks"", ""sentiment"": ""Positive""}]}",Positive,Happy,"[{""aspect_category"": ""PRICE"", ""aspect_term"": ""price"", ""opinion_term"": ""onk kom"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""onion"", ""opinion_term"": ""vloi"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{""aspect_category"": ""PRICE"", ""aspect_term"": ""price"", ""opinion_term"": ""onk kom"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""onion"", ""opinion_term"": ""vloi"", ""sentiment"": ""Positive""}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRICE"", ""aspect_term"": ""price"", ""opinion_term"": ""onk kom"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""onion"", ""opinion_term"": ""vloi"", ""sentiment"": ""Positive""}]}"
+3.0,"not that good.the keyboard in playstore Doesn't
+working or showing","Voice Remote for Android TV Box, Smart TV, Air mouse G10S",Tv & Video device,Sadness,Daraz,Negative,12,Negative,Anger,"[{""aspect_category"": ""SOFTWARE"", ""aspect_term"": ""keyboard in playstore"", ""opinion_term"": ""not that good"", ""sentiment"": ""Negative""}, {""aspect_category"": ""SOFTWARE"", ""aspect_term"": ""keyboard in playstore"", ""opinion_term"": ""Doesn't working or showing"", ""sentiment"": ""Negative""}]","{""overall_sentiment"":""Negative"",""overall_emotion"":""Anger"",""triplets"":[{""aspect_category"":""SOFTWARE"",""aspect_term"":""keyboard in playstore"",""opinion_term"":""not that good"",""sentiment"":""Negative""},{""aspect_category"":""SOFTWARE"",""aspect_term"":""keyboard in playstore"",""opinion_term"":""Doesn't working or showing"",""sentiment"":""Negative""}]}",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Anger"", ""triplets"": [{""aspect_category"": ""SOFTWARE"", ""aspect_term"": ""keyboard in playstore"", ""opinion_term"": ""not that good"", ""sentiment"": ""Negative""}, {""aspect_category"": ""SOFTWARE"", ""aspect_term"": ""keyboard in playstore"", ""opinion_term"": ""Doesn't working or showing"", ""sentiment"": ""Negative""}]}",Negative,Anger,"[{""aspect_category"": ""ELECTRONICS_AND_GADGETS"", ""aspect_term"": ""keyboard"", ""opinion_term"": ""Doesn't working or showing"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""keyboard"", ""opinion_term"": ""not that good"", ""sentiment"": ""Negative""}]","{
+""overall_sentiment"": ""Negative"",
+""overall_emotion"": ""Anger"",
+""triplets"": [
+{""aspect_category"": ""ELECTRONICS_AND_GADGETS"", ""aspect_term"": ""keyboard"", ""opinion_term"": ""Doesn't working or showing"", ""sentiment"": ""Negative""},
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""keyboard"", ""opinion_term"": ""not that good"", ""sentiment"": ""Negative""}
+]
+} ",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Anger"", ""triplets"": [{""aspect_category"": ""ELECTRONICS_AND_GADGETS"", ""aspect_term"": ""keyboard"", ""opinion_term"": ""Doesn't working or showing"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""keyboard"", ""opinion_term"": ""not that good"", ""sentiment"": ""Negative""}]}"
+5.0,"Good product, fast delivery. Seller recommended.",Legend Printer Ink (Black) - 100ML,Printers,Happy,Daraz,Positive,6,Positive,Happy,"[{""aspect_category"": ""PRODUCT_QUALITY.Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""Good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""DELIVERY.Speed"", ""aspect_term"": ""delivery"", ""opinion_term"": ""fast"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE.Seller_Interaction"", ""aspect_term"": ""Seller"", ""opinion_term"": ""recommended"", ""sentiment"": ""Positive""}]","{""overall_sentiment"":""Positive"",""overall_emotion"":""Happy"",""triplets"":[{""aspect_category"":""PRODUCT_QUALITY.Overall_Quality"",""aspect_term"":""product"",""opinion_term"":""Good"",""sentiment"":""Positive""},{""aspect_category"":""DELIVERY.Speed"",""aspect_term"":""delivery"",""opinion_term"":""fast"",""sentiment"":""Positive""},{""aspect_category"":""SERVICE.Seller_Interaction"",""aspect_term"":""Seller"",""opinion_term"":""recommended"",""sentiment"":""Positive""}]}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRODUCT_QUALITY.Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""Good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""DELIVERY.Speed"", ""aspect_term"": ""delivery"", ""opinion_term"": ""fast"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE.Seller_Interaction"", ""aspect_term"": ""Seller"", ""opinion_term"": ""recommended"", ""sentiment"": ""Positive""}]}",Positive,Happy,"[{""aspect_category"": ""DELIVERY"", ""aspect_term"": ""delivery"", ""opinion_term"": ""fast delivery"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""seller"", ""opinion_term"": ""Seller recommended"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{""aspect_category"": ""DELIVERY"", ""aspect_term"": ""delivery"", ""opinion_term"": ""fast delivery"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""SERVICE"", ""aspect_term"": ""seller"", ""opinion_term"": ""Seller recommended"", ""sentiment"": ""Positive""}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""DELIVERY"", ""aspect_term"": ""delivery"", ""opinion_term"": ""fast delivery"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""seller"", ""opinion_term"": ""Seller recommended"", ""sentiment"": ""Positive""}]}"
+1.0,"⚠️দাম অনুযায়ী অনেক খারাপ নিম্নমানের 
+কাপড় ।২৯৫ টাকা দিয়ে কিনলে লস খাবেন।
+তাই কেউ কিনবেন না😑",SMUG. Premium T-shirt Fabric soft and comfortable,Clothing,Anger,Daraz,Negative,16,Negative,Anger,"[{""aspect_category"": ""MATERIAL"", ""aspect_term"": ""কাপড়"", ""opinion_term"": ""দাম অনুযায়ী অনেক খারাপ নিম্নমানের"", ""sentiment"": ""Negative""}, {""aspect_category"": ""Value_for_Money"", ""aspect_term"": ""দাম (২৯৫ টাকা)"", ""opinion_term"": ""২৯৫ টাকা দিয়ে কিনলে লস খাবেন"", ""sentiment"": ""Negative""}]","{""overall_sentiment"":""Negative"",""overall_emotion"":""Anger"",""triplets"":[{""aspect_category"":""MATERIAL"",""aspect_term"":""কাপড়"",""opinion_term"":""দাম অনুযায়ী অনেক খারাপ নিম্নমানের"",""sentiment"":""Negative""},{""aspect_category"":""Value_for_Money"",""aspect_term"":""দাম (২৯৫ টাকা)"",""opinion_term"":""২৯৫ টাকা দিয়ে কিনলে লস খাবেন"",""sentiment"":""Negative""}]}",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Anger"", ""triplets"": [{""aspect_category"": ""MATERIAL"", ""aspect_term"": ""কাপড়"", ""opinion_term"": ""দাম অনুযায়ী অনেক খারাপ নিম্নমানের"", ""sentiment"": ""Negative""}, {""aspect_category"": ""Value_for_Money"", ""aspect_term"": ""দাম (২৯৫ টাকা)"", ""opinion_term"": ""২৯৫ টাকা দিয়ে কিনলে লস খাবেন"", ""sentiment"": ""Negative""}]}",Negative,Anger,"[{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""কাপড়"", ""opinion_term"": ""অনেক খারাপ নিম্নমানের"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRICE"", ""aspect_term"": ""দাম"", ""opinion_term"": ""অনুযায়ী অনেক খারাপ"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRICE"", ""aspect_term"": ""২৯৫ টাকা"", ""opinion_term"": ""দিয়ে কিনলে লস খাবেন"", ""sentiment"": ""Negative""}]","{
+""overall_sentiment"": ""Negative"",
+""overall_emotion"": ""Anger"",
+""triplets"": [
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""কাপড়"", ""opinion_term"": ""অনেক খারাপ নিম্নমানের"", ""sentiment"": ""Negative""},
+{""aspect_category"": ""PRICE"", ""aspect_term"": ""দাম"", ""opinion_term"": ""অনুযায়ী অনেক খারাপ"", ""sentiment"": ""Negative""},
+{""aspect_category"": ""PRICE"", ""aspect_term"": ""২৯৫ টাকা"", ""opinion_term"": ""দিয়ে কিনলে লস খাবেন"", ""sentiment"": ""Negative""}
+]
+} ",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Anger"", ""triplets"": [{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""কাপড়"", ""opinion_term"": ""অনেক খারাপ নিম্নমানের"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRICE"", ""aspect_term"": ""দাম"", ""opinion_term"": ""অনুযায়ী অনেক খারাপ"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRICE"", ""aspect_term"": ""২৯৫ টাকা"", ""opinion_term"": ""দিয়ে কিনলে লস খাবেন"", ""sentiment"": ""Negative""}]}"
+4.0,দাম অনুযায়ী খারাপ না কিন্তু কিছু দিন পরে রঙ উঠে যাবে।,Silver Color Metal Chain for Men,Men's Jewelry,Sadness,Daraz,Negative,11,Negative,Sadness,"[{""aspect_category"": ""Value_for_Money"", ""aspect_term"": ""দাম অনুযায়ী"", ""opinion_term"": ""খারাপ না"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Color_Finish"", ""aspect_term"": ""রঙ"", ""opinion_term"": ""কিছু দিন পরে রঙ উঠে যাবে"", ""sentiment"": ""Negative""}]","{
+  ""overall_sentiment"": ""Negative"",
+  ""overall_emotion"": ""Sadness"",
+  ""triplets"": [
+    {
+      ""aspect_category"": ""Value_for_Money"",
+      ""aspect_term"": ""দাম অনুযায়ী"",
+      ""opinion_term"": ""খারাপ না"",
+      ""sentiment"": ""Positive""
+    },
+    {
+      ""aspect_category"": ""Color_Finish"",
+      ""aspect_term"": ""রঙ"",
+      ""opinion_term"": ""কিছু দিন পরে রঙ উঠে যাবে"",
+      ""sentiment"": ""Negative""
+    }
+  ]
+}",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Sadness"", ""triplets"": [{""aspect_category"": ""Value_for_Money"", ""aspect_term"": ""দাম অনুযায়ী"", ""opinion_term"": ""খারাপ না"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Color_Finish"", ""aspect_term"": ""রঙ"", ""opinion_term"": ""কিছু দিন পরে রঙ উঠে যাবে"", ""sentiment"": ""Negative""}]}",Negative,Sadness,"[{""aspect_category"": ""PRICE"", ""aspect_term"": ""দাম"", ""opinion_term"": ""অনুযায়ী খারাপ না"", ""sentiment"": ""Neutral""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""রঙ"", ""opinion_term"": ""উঠে যাবে"", ""sentiment"": ""Negative""}]","{
+""overall_sentiment"": ""Negative"",
+""overall_emotion"": ""Sadness"",
+""triplets"": [
+{""aspect_category"": ""PRICE"", ""aspect_term"": ""দাম"", ""opinion_term"": ""অনুযায়ী খারাপ না"", ""sentiment"": ""Neutral""},
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""রঙ"", ""opinion_term"": ""উঠে যাবে"", ""sentiment"": ""Negative""}
+]
+} ",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Sadness"", ""triplets"": [{""aspect_category"": ""PRICE"", ""aspect_term"": ""দাম"", ""opinion_term"": ""অনুযায়ী খারাপ না"", ""sentiment"": ""Neutral""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""রঙ"", ""opinion_term"": ""উঠে যাবে"", ""sentiment"": ""Negative""}]}"
+5.0,"পালতু একরা প্রোডাক্ট ,,
+কোনো কাজ হয় নাই, কেউ নিবেন না, নকল পণ্য",Beard Growth Solution Oil for Men - 30Ml,Men's Care,Fear,Daraz,Negative,12,Negative,Anger,"[{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""প্রোডাক্ট"", ""opinion_term"": ""পালতু একরা প্রোডাক্ট"", ""sentiment"": ""Negative""}, {""aspect_category"": ""Performance_Effectiveness"", ""aspect_term"": ""কোনো কাজ"", ""opinion_term"": ""কোনো কাজ হয় নাই"", ""sentiment"": ""Negative""}, {""aspect_category"": ""Fake_Counterfeit"", ""aspect_term"": ""পণ্য"", ""opinion_term"": ""নকল পণ্য"", ""sentiment"": ""Negative""}]","{""overall_sentiment"":""Negative"",""overall_emotion"":""Anger"",""triplets"":[{""aspect_category"":""Overall_Quality"",""aspect_term"":""প্রোডাক্ট"",""opinion_term"":""পালতু একরা প্রোডাক্ট"",""sentiment"":""Negative""},{""aspect_category"":""Performance_Effectiveness"",""aspect_term"":""কোনো কাজ"",""opinion_term"":""কোনো কাজ হয় নাই"",""sentiment"":""Negative""},{""aspect_category"":""Fake_Counterfeit"",""aspect_term"":""পণ্য"",""opinion_term"":""নকল পণ্য"",""sentiment"":""Negative""}]}",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Anger"", ""triplets"": [{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""প্রোডাক্ট"", ""opinion_term"": ""পালতু একরা প্রোডাক্ট"", ""sentiment"": ""Negative""}, {""aspect_category"": ""Performance_Effectiveness"", ""aspect_term"": ""কোনো কাজ"", ""opinion_term"": ""কোনো কাজ হয় নাই"", ""sentiment"": ""Negative""}, {""aspect_category"": ""Fake_Counterfeit"", ""aspect_term"": ""পণ্য"", ""opinion_term"": ""নকল পণ্য"", ""sentiment"": ""Negative""}]}",Negative,Anger,"[{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""পালতু একরা প্রোডাক্ট"", ""opinion_term"": ""কোনো কাজ হয় নাই"", ""sentiment"": ""Negative""}, {""aspect_category"": ""AUTHENTICITY"", ""aspect_term"": ""নকল পণ্য"", ""opinion_term"": ""নকল পণ্য"", ""sentiment"": ""Negative""}]","{
+""overall_sentiment"": ""Negative"",
+""overall_emotion"": ""Anger"",
+""triplets"": [
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""পালতু একরা প্রোডাক্ট"", ""opinion_term"": ""কোনো কাজ হয় নাই"", ""sentiment"": ""Negative""},
+{""aspect_category"": ""AUTHENTICITY"", ""aspect_term"": ""নকল পণ্য"", ""opinion_term"": ""নকল পণ্য"", ""sentiment"": ""Negative""}
+]
+} ",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Anger"", ""triplets"": [{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""পালতু একরা প্রোডাক্ট"", ""opinion_term"": ""কোনো কাজ হয় নাই"", ""sentiment"": ""Negative""}, {""aspect_category"": ""AUTHENTICITY"", ""aspect_term"": ""নকল পণ্য"", ""opinion_term"": ""নকল পণ্য"", ""sentiment"": ""Negative""}]}"
+5.0,"The seller is very good and the product is also good, thanks for everything.daraz happy 😁 shopping.",USB 3.1 Pendrive -64 GB -Silver - Pen Drive - Pen Drive,Storage,Happy,Daraz,Positive,17,Positive,Happy,"[{""aspect_category"": ""Seller_Interaction"", ""aspect_term"": ""seller"", ""opinion_term"": ""very good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""also good"", ""sentiment"": ""Positive""}]","{""overall_sentiment"":""Positive"",""overall_emotion"":""Happy"",""triplets"":[{""aspect_category"":""Seller_Interaction"",""aspect_term"":""seller"",""opinion_term"":""very good"",""sentiment"":""Positive""},{""aspect_category"":""Overall_Quality"",""aspect_term"":""product"",""opinion_term"":""also good"",""sentiment"":""Positive""}]}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""Seller_Interaction"", ""aspect_term"": ""seller"", ""opinion_term"": ""very good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""also good"", ""sentiment"": ""Positive""}]}",Positive,Happy,"[{""aspect_category"": ""SERVICE"", ""aspect_term"": ""seller"", ""opinion_term"": ""very good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""everything"", ""opinion_term"": ""thanks for everything"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{""aspect_category"": ""SERVICE"", ""aspect_term"": ""seller"", ""opinion_term"": ""very good"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""good"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""SERVICE"", ""aspect_term"": ""everything"", ""opinion_term"": ""thanks for everything"", ""sentiment"": ""Positive""}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""SERVICE"", ""aspect_term"": ""seller"", ""opinion_term"": ""very good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""everything"", ""opinion_term"": ""thanks for everything"", ""sentiment"": ""Positive""}]}"
+5.0,works fine but not sure of it relieves pain or not,Xinyan Apple Electric Massager - Multicolour,Beauty Tools,Fear,Daraz,Negative,11,Neutral,Happy,"[{""aspect_category"": ""Performance_Effectiveness"", ""aspect_term"": ""works"", ""opinion_term"": ""works fine"", ""sentiment"": ""Positive""}, {""aspect_category"": ""EFFICACY"", ""aspect_term"": ""relieves pain"", ""opinion_term"": ""not sure of it relieves pain or not"", ""sentiment"": ""Neutral""}]","{
+  ""overall_sentiment"": ""Neutral"",
+  ""overall_emotion"": ""Happy"",
+  ""triplets"": [
+    {
+      ""aspect_category"": ""Performance_Effectiveness"",
+      ""aspect_term"": ""works"",
+      ""opinion_term"": ""works fine"",
+      ""sentiment"": ""Positive""
+    },
+    {
+      ""aspect_category"": ""EFFICACY"",
+      ""aspect_term"": ""relieves pain"",
+      ""opinion_term"": ""not sure of it relieves pain or not"",
+      ""sentiment"": ""Neutral""
+    }
+  ]
+}",200,,"{""overall_sentiment"": ""Neutral"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""Performance_Effectiveness"", ""aspect_term"": ""works"", ""opinion_term"": ""works fine"", ""sentiment"": ""Positive""}, {""aspect_category"": ""EFFICACY"", ""aspect_term"": ""relieves pain"", ""opinion_term"": ""not sure of it relieves pain or not"", ""sentiment"": ""Neutral""}]}",Neutral,Sadness,"[{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""pain relief"", ""opinion_term"": ""relieves pain or not"", ""sentiment"": ""Neutral""}]","{
+""overall_sentiment"": ""Neutral"",
+""overall_emotion"": ""Sadness"",
+""triplets"": [
+{
+""aspect_category"": ""PRODUCT_QUALITY"",
+""aspect_term"": ""pain relief"",
+""opinion_term"": ""relieves pain or not"",
+""sentiment"": ""Neutral""
+}
+]
+} ",200,,"{""overall_sentiment"": ""Neutral"", ""overall_emotion"": ""Sadness"", ""triplets"": [{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""pain relief"", ""opinion_term"": ""relieves pain or not"", ""sentiment"": ""Neutral""}]}"
+3.0,"মোটামুটি ভালো,বাবল গুলো বেশ দুর্বল সামান্য চাপে ফুটে যায়।",Bubble Wrap | Packaging Material | Single Side Bubble 3mm Bubble Size | Width 39 Inch Premium Quality,Stationery & Craft,Sadness,Daraz,Negative,10,Negative,Anger,"[{""aspect_category"": ""Durability_Longevity"", ""aspect_term"": ""বাবল গুলো"", ""opinion_term"": ""বেশ দুর্বল, সামান্য চাপে ফুটে যায়"", ""sentiment"": ""Negative""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""পণ্য"", ""opinion_term"": ""মোটামুটি ভালো"", ""sentiment"": ""Positive""}]","{""overall_sentiment"":""Negative"",""overall_emotion"":""Anger"",""triplets"":[{""aspect_category"":""Durability_Longevity"",""aspect_term"":""বাবল গুলো"",""opinion_term"":""বেশ দুর্বল, সামান্য চাপে ফুটে যায়"",""sentiment"":""Negative""},{""aspect_category"":""Overall_Quality"",""aspect_term"":""পণ্য"",""opinion_term"":""মোটামুটি ভালো"",""sentiment"":""Positive""}]}",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Anger"", ""triplets"": [{""aspect_category"": ""Durability_Longevity"", ""aspect_term"": ""বাবল গুলো"", ""opinion_term"": ""বেশ দুর্বল, সামান্য চাপে ফুটে যায়"", ""sentiment"": ""Negative""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""পণ্য"", ""opinion_term"": ""মোটামুটি ভালো"", ""sentiment"": ""Positive""}]}",Negative,Anger,"[{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""বাবল গুলো"", ""opinion_term"": ""দুর্বল"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""বাবল গুলো"", ""opinion_term"": ""চাপে ফুটে যায়"", ""sentiment"": ""Negative""}]","{
+""overall_sentiment"": ""Negative"",
+""overall_emotion"": ""Anger"",
+""triplets"": [
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""বাবল গুলো"", ""opinion_term"": ""দুর্বল"", ""sentiment"": ""Negative""},
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""বাবল গুলো"", ""opinion_term"": ""চাপে ফুটে যায়"", ""sentiment"": ""Negative""}
+]
+} ",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Anger"", ""triplets"": [{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""বাবল গুলো"", ""opinion_term"": ""দুর্বল"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""বাবল গুলো"", ""opinion_term"": ""চাপে ফুটে যায়"", ""sentiment"": ""Negative""}]}"
+5.0,"packaging was very good product avarage...  bt littel argument with delivery boy...
+he says that i write wrong address bt the adress was correct..",Minister Bright Wash Synthetic Detergent Powder Lemon & Mint (Free 1 KG),Laundry & Household,Sadness,Daraz,Negative,24,Negative,Anger,"[{""aspect_category"": ""PACKAGING:Condition"", ""aspect_term"": ""packaging"", ""opinion_term"": ""was very good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""average"", ""sentiment"": ""Neutral""}, {""aspect_category"": ""DELIVERY:Delivery_Person_Behavior"", ""aspect_term"": ""delivery boy"", ""opinion_term"": ""had a little argument; he accused me of writing the wrong address"", ""sentiment"": ""Negative""}, {""aspect_category"": ""SERVICE:Order_Process"", ""aspect_term"": ""address"", ""opinion_term"": ""was correct"", ""sentiment"": ""Positive""}]","{""overall_sentiment"":""Negative"",""overall_emotion"":""Anger"",""triplets"":[{""aspect_category"":""PACKAGING:Condition"",""aspect_term"":""packaging"",""opinion_term"":""was very good"",""sentiment"":""Positive""},{""aspect_category"":""Overall_Quality"",""aspect_term"":""product"",""opinion_term"":""average"",""sentiment"":""Neutral""},{""aspect_category"":""DELIVERY:Delivery_Person_Behavior"",""aspect_term"":""delivery boy"",""opinion_term"":""had a little argument; he accused me of writing the wrong address"",""sentiment"":""Negative""},{""aspect_category"":""SERVICE:Order_Process"",""aspect_term"":""address"",""opinion_term"":""was correct"",""sentiment"":""Positive""}]}",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Anger"", ""triplets"": [{""aspect_category"": ""PACKAGING:Condition"", ""aspect_term"": ""packaging"", ""opinion_term"": ""was very good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""average"", ""sentiment"": ""Neutral""}, {""aspect_category"": ""DELIVERY:Delivery_Person_Behavior"", ""aspect_term"": ""delivery boy"", ""opinion_term"": ""had a little argument; he accused me of writing the wrong address"", ""sentiment"": ""Negative""}, {""aspect_category"": ""SERVICE:Order_Process"", ""aspect_term"": ""address"", ""opinion_term"": ""was correct"", ""sentiment"": ""Positive""}]}",Negative,Anger,"[{""aspect_category"": ""PACKAGING"", ""aspect_term"": ""packaging"", ""opinion_term"": ""very good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""avarage"", ""sentiment"": ""Neutral""}, {""aspect_category"": ""DELIVERY"", ""aspect_term"": ""delivery boy"", ""opinion_term"": ""littel argument"", ""sentiment"": ""Negative""}, {""aspect_category"": ""DELIVERY"", ""aspect_term"": ""address"", ""opinion_term"": ""the adress was correct"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Negative"",
+""overall_emotion"": ""Anger"",
+""triplets"": [
+{""aspect_category"": ""PACKAGING"", ""aspect_term"": ""packaging"", ""opinion_term"": ""very good"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""avarage"", ""sentiment"": ""Neutral""},
+{""aspect_category"": ""DELIVERY"", ""aspect_term"": ""delivery boy"", ""opinion_term"": ""littel argument"", ""sentiment"": ""Negative""},
+{""aspect_category"": ""DELIVERY"", ""aspect_term"": ""address"", ""opinion_term"": ""the adress was correct"", ""sentiment"": ""Positive""}
+]
+} ",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Anger"", ""triplets"": [{""aspect_category"": ""PACKAGING"", ""aspect_term"": ""packaging"", ""opinion_term"": ""very good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""avarage"", ""sentiment"": ""Neutral""}, {""aspect_category"": ""DELIVERY"", ""aspect_term"": ""delivery boy"", ""opinion_term"": ""littel argument"", ""sentiment"": ""Negative""}, {""aspect_category"": ""DELIVERY"", ""aspect_term"": ""address"", ""opinion_term"": ""the adress was correct"", ""sentiment"": ""Positive""}]}"
+5.0,it's really amazing product. thanks seller and daraz .,"সবুজ লেজার পয়েন্টার (লেজার লাইট) 10km অ্যাডজাস্টেবল ফোকাস (পেশাদার), 553 রেটিং 492 উত্তর দেওয়া প্রশ্ন",Gadgets,Love,Daraz,Positive,9,Positive,Happy,"[{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""really amazing"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Seller_Interaction"", ""aspect_term"": ""seller"", ""opinion_term"": ""thanks"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Seller_Interaction"", ""aspect_term"": ""daraz"", ""opinion_term"": ""thanks"", ""sentiment"": ""Positive""}]","{""overall_sentiment"":""Positive"",""overall_emotion"":""Happy"",""triplets"":[{""aspect_category"":""Overall_Quality"",""aspect_term"":""product"",""opinion_term"":""really amazing"",""sentiment"":""Positive""},{""aspect_category"":""Seller_Interaction"",""aspect_term"":""seller"",""opinion_term"":""thanks"",""sentiment"":""Positive""},{""aspect_category"":""Seller_Interaction"",""aspect_term"":""daraz"",""opinion_term"":""thanks"",""sentiment"":""Positive""}]}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""really amazing"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Seller_Interaction"", ""aspect_term"": ""seller"", ""opinion_term"": ""thanks"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Seller_Interaction"", ""aspect_term"": ""daraz"", ""opinion_term"": ""thanks"", ""sentiment"": ""Positive""}]}",Positive,Happy,"[{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""amazing"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{
+""aspect_category"": ""PRODUCT_QUALITY"",
+""aspect_term"": ""product"",
+""opinion_term"": ""amazing"",
+""sentiment"": ""Positive""
+}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""amazing"", ""sentiment"": ""Positive""}]}"
+5.0,in this price this product is quite good. read right speed is pretty good,Pendrive 64 gb with 1 year full replacement warranty,Storage,Happy,Daraz,Positive,14,Positive,Happy,"[{""aspect_category"": ""Value_for_Money"", ""aspect_term"": ""price"", ""opinion_term"": ""in this price this product is quite good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""quite good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PERFORMANCE"", ""aspect_term"": ""read right speed"", ""opinion_term"": ""is pretty good"", ""sentiment"": ""Positive""}]","{
+  ""overall_sentiment"": ""Positive"",
+  ""overall_emotion"": ""Happy"",
+  ""triplets"": [
+    {
+      ""aspect_category"": ""Value_for_Money"",
+      ""aspect_term"": ""price"",
+      ""opinion_term"": ""in this price this product is quite good"",
+      ""sentiment"": ""Positive""
+    },
+    {
+      ""aspect_category"": ""Overall_Quality"",
+      ""aspect_term"": ""product"",
+      ""opinion_term"": ""quite good"",
+      ""sentiment"": ""Positive""
+    },
+    {
+      ""aspect_category"": ""PERFORMANCE"",
+      ""aspect_term"": ""read right speed"",
+      ""opinion_term"": ""is pretty good"",
+      ""sentiment"": ""Positive""
+    }
+  ]
+}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""Value_for_Money"", ""aspect_term"": ""price"", ""opinion_term"": ""in this price this product is quite good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""quite good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PERFORMANCE"", ""aspect_term"": ""read right speed"", ""opinion_term"": ""is pretty good"", ""sentiment"": ""Positive""}]}",Positive,Happy,"[{""aspect_category"": ""PRICE"", ""aspect_term"": ""this price"", ""opinion_term"": ""quite good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""DELIVERY"", ""aspect_term"": ""read right speed"", ""opinion_term"": ""pretty good"", ""sentiment"": ""Positive""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{""aspect_category"": ""PRICE"", ""aspect_term"": ""this price"", ""opinion_term"": ""quite good"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""DELIVERY"", ""aspect_term"": ""read right speed"", ""opinion_term"": ""pretty good"", ""sentiment"": ""Positive""}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRICE"", ""aspect_term"": ""this price"", ""opinion_term"": ""quite good"", ""sentiment"": ""Positive""}, {""aspect_category"": ""DELIVERY"", ""aspect_term"": ""read right speed"", ""opinion_term"": ""pretty good"", ""sentiment"": ""Positive""}]}"
+4.0,আপনাদের পণ্যের প্যাকেজিং ঠিক করেন। বক্সের ভেতর শুধু বোতল ভরে দিয়েছেন। ড্যামেজ হওয়ার অনেক সম্ভাবনা ছিল,MOTUL 3100 4T Gold Technosynthese 20W50 Motor-cycle Engine Oil 1 Liter,Oils & Fluids,Sadness,Daraz,Negative,16,Negative,Anger,"[{""aspect_category"": ""PACKAGING:Protection"", ""aspect_term"": ""প্যাকেজিং"", ""opinion_term"": ""ঠিক করেন"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PACKAGING:Protection"", ""aspect_term"": ""বক্সের ভেতর"", ""opinion_term"": ""শুধু বোতল ভরে দিয়েছেন; ড্যামেজ হওয়ার অনেক সম্ভাবনা ছিল"", ""sentiment"": ""Negative""}]","{""overall_sentiment"":""Negative"",""overall_emotion"":""Anger"",""triplets"":[{""aspect_category"":""PACKAGING:Protection"",""aspect_term"":""প্যাকেজিং"",""opinion_term"":""ঠিক করেন"",""sentiment"":""Negative""},{""aspect_category"":""PACKAGING:Protection"",""aspect_term"":""বক্সের ভেতর"",""opinion_term"":""শুধু বোতল ভরে দিয়েছেন; ড্যামেজ হওয়ার অনেক সম্ভাবনা ছিল"",""sentiment"":""Negative""}]}",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Anger"", ""triplets"": [{""aspect_category"": ""PACKAGING:Protection"", ""aspect_term"": ""প্যাকেজিং"", ""opinion_term"": ""ঠিক করেন"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PACKAGING:Protection"", ""aspect_term"": ""বক্সের ভেতর"", ""opinion_term"": ""শুধু বোতল ভরে দিয়েছেন; ড্যামেজ হওয়ার অনেক সম্ভাবনা ছিল"", ""sentiment"": ""Negative""}]}",Negative,Anger,"[{""aspect_category"": ""PACKAGING"", ""aspect_term"": ""প্যাকেজিং"", ""opinion_term"": ""ঠিক করেন"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PACKAGING"", ""aspect_term"": ""বক্সের ভেতর"", ""opinion_term"": ""শুধু বোতল ভরে দিয়েছেন"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PACKAGING"", ""aspect_term"": ""প্যাকেজিং"", ""opinion_term"": ""ড্যামেজ হওয়ার অনেক সম্ভাবনা ছিল"", ""sentiment"": ""Negative""}]","{
+""overall_sentiment"": ""Negative"",
+""overall_emotion"": ""Anger"",
+""triplets"": [
+{""aspect_category"": ""PACKAGING"", ""aspect_term"": ""প্যাকেজিং"", ""opinion_term"": ""ঠিক করেন"", ""sentiment"": ""Negative""},
+{""aspect_category"": ""PACKAGING"", ""aspect_term"": ""বক্সের ভেতর"", ""opinion_term"": ""শুধু বোতল ভরে দিয়েছেন"", ""sentiment"": ""Negative""},
+{""aspect_category"": ""PACKAGING"", ""aspect_term"": ""প্যাকেজিং"", ""opinion_term"": ""ড্যামেজ হওয়ার অনেক সম্ভাবনা ছিল"", ""sentiment"": ""Negative""}
+]
+} ",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Anger"", ""triplets"": [{""aspect_category"": ""PACKAGING"", ""aspect_term"": ""প্যাকেজিং"", ""opinion_term"": ""ঠিক করেন"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PACKAGING"", ""aspect_term"": ""বক্সের ভেতর"", ""opinion_term"": ""শুধু বোতল ভরে দিয়েছেন"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PACKAGING"", ""aspect_term"": ""প্যাকেজিং"", ""opinion_term"": ""ড্যামেজ হওয়ার অনেক সম্ভাবনা ছিল"", ""sentiment"": ""Negative""}]}"
+1.0,tkr onujai onk onk onk cuto beg....i think agulo beg er prize 150 hole perfact.....kintu onk dam rakshen,Carton Style kids bag toddler backpack with leash messenger bag kids kids cartoon backpack cartoon school backpack,Stationery & Craft,Sadness,Daraz,Negative,20,Negative,Anger,"[{""aspect_category"": ""Size_Dimensions"", ""aspect_term"": ""cuto beg"", ""opinion_term"": ""onk onk onk cuto"", ""sentiment"": ""Negative""}, {""aspect_category"": ""Value_for_Money"", ""aspect_term"": ""beg er prize"", ""opinion_term"": ""i think agulo beg er prize 150 hole perfact"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Value_for_Money"", ""aspect_term"": ""beg er prize"", ""opinion_term"": ""kintu onk dam rakshen"", ""sentiment"": ""Negative""}]","{
+  ""overall_sentiment"": ""Negative"",
+  ""overall_emotion"": ""Anger"",
+  ""triplets"": [
+    {
+      ""aspect_category"": ""Size_Dimensions"",
+      ""aspect_term"": ""cuto beg"",
+      ""opinion_term"": ""onk onk onk cuto"",
+      ""sentiment"": ""Negative""
+    },
+    {
+      ""aspect_category"": ""Value_for_Money"",
+      ""aspect_term"": ""beg er prize"",
+      ""opinion_term"": ""i think agulo beg er prize 150 hole perfact"",
+      ""sentiment"": ""Positive""
+    },
+    {
+      ""aspect_category"": ""Value_for_Money"",
+      ""aspect_term"": ""beg er prize"",
+      ""opinion_term"": ""kintu onk dam rakshen"",
+      ""sentiment"": ""Negative""
+    }
+  ]
+}",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Anger"", ""triplets"": [{""aspect_category"": ""Size_Dimensions"", ""aspect_term"": ""cuto beg"", ""opinion_term"": ""onk onk onk cuto"", ""sentiment"": ""Negative""}, {""aspect_category"": ""Value_for_Money"", ""aspect_term"": ""beg er prize"", ""opinion_term"": ""i think agulo beg er prize 150 hole perfact"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Value_for_Money"", ""aspect_term"": ""beg er prize"", ""opinion_term"": ""kintu onk dam rakshen"", ""sentiment"": ""Negative""}]}",Positive,Happy,"[{""aspect_category"": ""PRICE"", ""aspect_term"": ""prize"", ""opinion_term"": ""150 hole perfact"", ""sentiment"": ""Positive""}, {""aspect_category"": ""DELIVERY"", ""aspect_term"": ""dam"", ""opinion_term"": ""onk dam rakshen"", ""sentiment"": ""Negative""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{""aspect_category"": ""PRICE"", ""aspect_term"": ""prize"", ""opinion_term"": ""150 hole perfact"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""DELIVERY"", ""aspect_term"": ""dam"", ""opinion_term"": ""onk dam rakshen"", ""sentiment"": ""Negative""}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""PRICE"", ""aspect_term"": ""prize"", ""opinion_term"": ""150 hole perfact"", ""sentiment"": ""Positive""}, {""aspect_category"": ""DELIVERY"", ""aspect_term"": ""dam"", ""opinion_term"": ""onk dam rakshen"", ""sentiment"": ""Negative""}]}"
+1.0,"Not good at all.
+Please don’t buy from this seller",Popcorn (Bhutta)-1 Kg,Snacks & Beverages,Fear,Daraz,Negative,11,Negative,Anger,"[{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""Not good at all."", ""sentiment"": ""Negative""}, {""aspect_category"": ""Seller_Interaction"", ""aspect_term"": ""seller"", ""opinion_term"": ""Please don’t buy from this seller"", ""sentiment"": ""Negative""}]","{""overall_sentiment"":""Negative"",""overall_emotion"":""Anger"",""triplets"":[{""aspect_category"":""Overall_Quality"",""aspect_term"":""product"",""opinion_term"":""Not good at all."",""sentiment"":""Negative""},{""aspect_category"":""Seller_Interaction"",""aspect_term"":""seller"",""opinion_term"":""Please don’t buy from this seller"",""sentiment"":""Negative""}]}",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Anger"", ""triplets"": [{""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""Not good at all."", ""sentiment"": ""Negative""}, {""aspect_category"": ""Seller_Interaction"", ""aspect_term"": ""seller"", ""opinion_term"": ""Please don’t buy from this seller"", ""sentiment"": ""Negative""}]}",Negative,Anger,"[{""aspect_category"": ""SERVICE"", ""aspect_term"": ""seller"", ""opinion_term"": ""don’t buy"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""Not good"", ""sentiment"": ""Negative""}]","{
+""overall_sentiment"": ""Negative"",
+""overall_emotion"": ""Anger"",
+""triplets"": [
+{
+""aspect_category"": ""SERVICE"",
+""aspect_term"": ""seller"",
+""opinion_term"": ""don’t buy"",
+""sentiment"": ""Negative""
+},
+{
+""aspect_category"": ""PRODUCT_QUALITY"",
+""aspect_term"": ""product"",
+""opinion_term"": ""Not good"",
+""sentiment"": ""Negative""
+}
+]
+} ",200,,"{""overall_sentiment"": ""Negative"", ""overall_emotion"": ""Anger"", ""triplets"": [{""aspect_category"": ""SERVICE"", ""aspect_term"": ""seller"", ""opinion_term"": ""don’t buy"", ""sentiment"": ""Negative""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""Not good"", ""sentiment"": ""Negative""}]}"
+5.0,Received today. quick delivery. delivery service was good enough. Both packaging and product is fine.,Good Quality Electric Nail Trimmer for Baby Newborn Nail Trimmer Manicure Kit For Baby Baby Nail Trimmer Nail Care Baby Nail Trimmer Baby Care Set Electric Manicure Set Electric Nail Cutter for Baby,Baby Care & Gifts,Happy,Daraz,Positive,15,Positive,Happy,"[{""aspect_category"": ""DELIVERY:Speed"", ""aspect_term"": ""delivery"", ""opinion_term"": ""Received today. quick delivery."", ""sentiment"": ""Positive""}, {""aspect_category"": ""DELIVERY:Delivery_Person_Behavior"", ""aspect_term"": ""delivery service"", ""opinion_term"": ""delivery service was good enough."", ""sentiment"": ""Positive""}, {""aspect_category"": ""PACKAGING:Condition"", ""aspect_term"": ""packaging"", ""opinion_term"": ""packaging is fine."", ""sentiment"": ""Positive""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""product is fine."", ""sentiment"": ""Positive""}]","{
+  ""overall_sentiment"": ""Positive"",
+  ""overall_emotion"": ""Happy"",
+  ""triplets"": [
+    {
+      ""aspect_category"": ""DELIVERY:Speed"",
+      ""aspect_term"": ""delivery"",
+      ""opinion_term"": ""Received today. quick delivery."",
+      ""sentiment"": ""Positive""
+    },
+    {
+      ""aspect_category"": ""DELIVERY:Delivery_Person_Behavior"",
+      ""aspect_term"": ""delivery service"",
+      ""opinion_term"": ""delivery service was good enough."",
+      ""sentiment"": ""Positive""
+    },
+    {
+      ""aspect_category"": ""PACKAGING:Condition"",
+      ""aspect_term"": ""packaging"",
+      ""opinion_term"": ""packaging is fine."",
+      ""sentiment"": ""Positive""
+    },
+    {
+      ""aspect_category"": ""Overall_Quality"",
+      ""aspect_term"": ""product"",
+      ""opinion_term"": ""product is fine."",
+      ""sentiment"": ""Positive""
+    }
+  ]
+}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""DELIVERY:Speed"", ""aspect_term"": ""delivery"", ""opinion_term"": ""Received today. quick delivery."", ""sentiment"": ""Positive""}, {""aspect_category"": ""DELIVERY:Delivery_Person_Behavior"", ""aspect_term"": ""delivery service"", ""opinion_term"": ""delivery service was good enough."", ""sentiment"": ""Positive""}, {""aspect_category"": ""PACKAGING:Condition"", ""aspect_term"": ""packaging"", ""opinion_term"": ""packaging is fine."", ""sentiment"": ""Positive""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""product is fine."", ""sentiment"": ""Positive""}]}",Positive,Happy,"[{""aspect_category"": ""DELIVERY"", ""aspect_term"": ""delivery"", ""opinion_term"": ""quick delivery"", ""sentiment"": ""Positive""}, {""aspect_category"": ""DELIVERY"", ""aspect_term"": ""delivery service"", ""opinion_term"": ""good enough"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PACKAGING"", ""aspect_term"": ""packaging"", ""opinion_term"": ""fine"", ""sentiment"": ""Neutral""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""fine"", ""sentiment"": ""Neutral""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{""aspect_category"": ""DELIVERY"", ""aspect_term"": ""delivery"", ""opinion_term"": ""quick delivery"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""DELIVERY"", ""aspect_term"": ""delivery service"", ""opinion_term"": ""good enough"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""PACKAGING"", ""aspect_term"": ""packaging"", ""opinion_term"": ""fine"", ""sentiment"": ""Neutral""},
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""fine"", ""sentiment"": ""Neutral""}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""DELIVERY"", ""aspect_term"": ""delivery"", ""opinion_term"": ""quick delivery"", ""sentiment"": ""Positive""}, {""aspect_category"": ""DELIVERY"", ""aspect_term"": ""delivery service"", ""opinion_term"": ""good enough"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PACKAGING"", ""aspect_term"": ""packaging"", ""opinion_term"": ""fine"", ""sentiment"": ""Neutral""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""fine"", ""sentiment"": ""Neutral""}]}"
+5.0,Friendly behaviour with a high quality service and product. Satisfied what has been delivered. Spiral quality could be improved.,Unique Make - Customized mini wooden notebooks with pictures and writing - Gift Box - Innovative Design - To Exprerience Greatness,Stationery & Craft,Happy,Daraz,Positive,19,Positive,Happy,"[{""aspect_category"": ""Seller_Interaction"", ""aspect_term"": ""behaviour"", ""opinion_term"": ""friendly"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Customer_Support"", ""aspect_term"": ""service"", ""opinion_term"": ""high quality service"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""high quality product"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""delivered item"", ""opinion_term"": ""satisfied with what was delivered"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""spiral quality"", ""opinion_term"": ""could be improved"", ""sentiment"": ""Negative""}]","{""overall_sentiment"":""Positive"",""overall_emotion"":""Happy"",""triplets"":[{""aspect_category"":""Seller_Interaction"",""aspect_term"":""behaviour"",""opinion_term"":""friendly"",""sentiment"":""Positive""},{""aspect_category"":""Customer_Support"",""aspect_term"":""service"",""opinion_term"":""high quality service"",""sentiment"":""Positive""},{""aspect_category"":""Overall_Quality"",""aspect_term"":""product"",""opinion_term"":""high quality product"",""sentiment"":""Positive""},{""aspect_category"":""Overall_Quality"",""aspect_term"":""delivered item"",""opinion_term"":""satisfied with what was delivered"",""sentiment"":""Positive""},{""aspect_category"":""Overall_Quality"",""aspect_term"":""spiral quality"",""opinion_term"":""could be improved"",""sentiment"":""Negative""}]}",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""Seller_Interaction"", ""aspect_term"": ""behaviour"", ""opinion_term"": ""friendly"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Customer_Support"", ""aspect_term"": ""service"", ""opinion_term"": ""high quality service"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""product"", ""opinion_term"": ""high quality product"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""delivered item"", ""opinion_term"": ""satisfied with what was delivered"", ""sentiment"": ""Positive""}, {""aspect_category"": ""Overall_Quality"", ""aspect_term"": ""spiral quality"", ""opinion_term"": ""could be improved"", ""sentiment"": ""Negative""}]}",Positive,Happy,"[{""aspect_category"": ""SERVICE"", ""aspect_term"": ""behaviour"", ""opinion_term"": ""Friendly"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""service"", ""opinion_term"": ""high quality"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""high quality"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""Spiral quality"", ""opinion_term"": ""could be improved"", ""sentiment"": ""Negative""}]","{
+""overall_sentiment"": ""Positive"",
+""overall_emotion"": ""Happy"",
+""triplets"": [
+{""aspect_category"": ""SERVICE"", ""aspect_term"": ""behaviour"", ""opinion_term"": ""Friendly"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""SERVICE"", ""aspect_term"": ""service"", ""opinion_term"": ""high quality"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""high quality"", ""sentiment"": ""Positive""},
+{""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""Spiral quality"", ""opinion_term"": ""could be improved"", ""sentiment"": ""Negative""}
+]
+} ",200,,"{""overall_sentiment"": ""Positive"", ""overall_emotion"": ""Happy"", ""triplets"": [{""aspect_category"": ""SERVICE"", ""aspect_term"": ""behaviour"", ""opinion_term"": ""Friendly"", ""sentiment"": ""Positive""}, {""aspect_category"": ""SERVICE"", ""aspect_term"": ""service"", ""opinion_term"": ""high quality"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""product"", ""opinion_term"": ""high quality"", ""sentiment"": ""Positive""}, {""aspect_category"": ""PRODUCT_QUALITY"", ""aspect_term"": ""Spiral quality"", ""opinion_term"": ""could be improved"", ""sentiment"": ""Negative""}]}"
