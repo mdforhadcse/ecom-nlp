@@ -176,9 +176,11 @@ def main():
     # ----------------------------
     # Fixed inputs/outputs (no CLI arguments)
     # ----------------------------
-    gold_path = Path("gold/dataset_final_selected_processed_part.csv")
-    pred_path = Path("fireworks/dataset_final_selected_fireworks_processed_20260104-231510.csv")
-    out_dir = Path("reports")
+    gold_path = Path("gold/dataset_1k_compound_small_aspects.csv")
+    pred_path = Path("fireworks/dataset_llama-v3p1-8b-instruct_fireworks_processed_20260108-112519.csv")
+    out_dir = Path("reports/llama-v3p1-8b-instruct")
+    # Ensure output directory exists
+    out_dir.mkdir(parents=True, exist_ok=True)
 
     # Optional: set a stable join key if you have one in BOTH files (otherwise row order is used)
     ID_COL: str | None = None

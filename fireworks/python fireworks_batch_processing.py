@@ -54,11 +54,11 @@ from dotenv import load_dotenv
 # Path to the JSONL file generated for Fireworks batch inference.  Each
 # line should contain a ``custom_id`` and a ``body`` field matching the
 # Fireworks API requirements.
-INPUT_JSONL = "fireworks_batch_tasks_responses_api_gemma2-9b-it.jsonl"
+INPUT_JSONL = "fireworks_batch_tasks_llama-v3p1-8b-instruct.jsonl"
 
 # Original dataset (used to build the JSONL).  This CSV will be joined
 # with batch results to produce a processed dataset.
-INPUT_CSV = "../gold/dataset_final_selected_processed.csv"
+INPUT_CSV = "../gold/dataset_1k_compound_small_aspects.csv"
 
 # Names for the Fireworks datasets and job. These must be unique within
 # your account. If you rerun with the same IDs, Fireworks will reject the
@@ -75,7 +75,7 @@ BATCH_JOB_ID = f"batch-job-{RUN_TAG}"
 # The Fireworks model to use for inference.  Replace with any valid model
 # ID in your account (e.g. ``accounts/fireworks/models/llama-v3p1-8b-instruct``
 # or ``accounts/fireworks/models/gemma2-9b-it``).
-MODEL_ID = "accounts/fireworks/models/gemma2-9b-it"
+MODEL_ID = "accounts/fireworks/models/llama-v3p1-8b-instruct"
 
 # Inference parameters: adjust as needed.  ``max_tokens`` limits the
 # length of the generated output; ``temperature`` controls randomness.
@@ -87,7 +87,7 @@ INFERENCE_PARAMS = {
 }
 # Final processed dataset path. The script writes the merged CSV with
 # additional columns for Fireworks outputs.
-OUTPUT_CSV = f"dataset_final_selected_fireworks_processed_{RUN_TAG}.csv"
+OUTPUT_CSV = f"dataset_{MODEL_ID.split('/')[-1]}_fireworks_processed_{RUN_TAG}.csv"
 
 # Optional: keep the raw parsed JSON in a column as well
 SAVE_RAW_JSON = True

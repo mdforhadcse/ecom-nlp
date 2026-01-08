@@ -171,7 +171,7 @@ def build_batch_requests(
             else:
                 user_input = (
                     f"Review: {review_text}\n"
-                    "Annotate this review."
+                    "Annotate the review as instructed."
                 )
 
             # Assemble the body for Fireworks Batch Inference (Chat Completions style)
@@ -338,9 +338,9 @@ if __name__ == "__main__":
     """
 
     # Paths to the dataset and output
-    fireworks_model_name = "accounts/fireworks/models/gemma2-9b-it"
-    input_path = Path("../gold/dataset_final_selected_processed_part.csv")
-    output_path = Path(f"fireworks_batch_tasks_responses_api_{fireworks_model_name.split('/')[-1]}.jsonl")
+    fireworks_model_name = "accounts/fireworks/models/llama-v3p1-8b-instruct"
+    input_path = Path("../gold/dataset_1k_compound_small_aspects.csv")
+    output_path = Path(f"fireworks_batch_tasks_{fireworks_model_name.split('/')[-1]}.jsonl")
 
     # Generate the batch requests; set include_product_meta=True if you want product metadata in the input
     build_batch_requests(
