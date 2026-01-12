@@ -1,5 +1,0 @@
-,pred_Anger,pred_Happy,pred_Love,pred_Sadness
-true_Anger,8,1,0,3
-true_Happy,0,26,0,3
-true_Love,0,1,0,0
-true_Sadness,0,0,0,4

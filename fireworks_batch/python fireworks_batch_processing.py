@@ -1,41 +1,18 @@
-"""
-This script automates submitting a batch inference job on the Fireworks.ai
-platform and post‑processing the results.  It closely mirrors the behaviour
-of ``openai_batch_processing.py`` but uses the Fireworks REST API instead of
-the OpenAI Batch API.  The workflow is:
 
-1. Read a JSONL file containing batch requests (generated via
-   ``generate_batch_jsonl_fireworks.py``).  Each line must have a
-   ``custom_id`` and a ``body`` field.
-2. Create an input dataset on Fireworks and upload the JSONL file.
-3. Create an output dataset to hold the model responses.
-4. Launch a batch inference job specifying the model, input dataset, output
-   dataset and any inference parameters (temperature, max tokens, etc.).
-5. Poll the job status until it completes.
-6. Download the results and errors files from the output dataset.
-7. Parse the results and merge them back into the original CSV used to
-   construct the JSONL batch input.
+# Helper: normalize model id for batch jobs
+def normalize_model_id_for_batch(model_id: str) -> str:
+    """BatchInferenceJobs expects accounts/<account-id>/models/<model-id>.
 
-Environment variables:
-
-* ``FIREWORKS_API_KEY`` – your Fireworks API key (required).
-* ``FIREWORKS_ACCOUNT_ID`` – your Fireworks account ID (required).
-
-Configuration constants at the top of the script define the input/output
-paths, model ID, dataset IDs, job ID and optional inference parameters.
-
-Notes:
-
-* This script uses the Python ``requests`` library to interact with the
-  Fireworks REST API because the official SDK does not yet expose the batch
-  workflow.  If you prefer the SDK or CLI, you can adapt the logic
-  accordingly.
-* The output dataset produced by Fireworks contains two JSONL files: one
-  with successful responses and another with error details.  Both files are
-  downloaded and stored locally.  The results file is parsed to extract
-  the assistant’s JSON output and merged into the original CSV.
-
-"""
+    The deployment UI often shows accounts/<account-id>/deployedModels/<deployment-id>.
+    If a deployedModels path is provided, convert it to the models path.
+    """
+    if not isinstance(model_id, str):
+        return model_id
+    s = model_id.strip()
+    # Convert deployedModels -> models for batch jobs
+    if "/deployedModels/" in s:
+        return s.replace("/deployedModels/", "/models/", 1)
+    return s
 
 import json
 import os
@@ -54,11 +31,9 @@ from dotenv import load_dotenv
 # Path to the JSONL file generated for Fireworks batch inference.  Each
 # line should contain a ``custom_id`` and a ``body`` field matching the
 # Fireworks API requirements.
-INPUT_JSONL = "fireworks_batch_tasks_llama-v3p1-8b-instruct.jsonl"
-
-# Original dataset (used to build the JSONL).  This CSV will be joined
-# with batch results to produce a processed dataset.
+INPUT_JSONL = "fireworks_batch_tasks_gemma2-9b-it.jsonl"
 INPUT_CSV = "../gold/dataset_1k_compound_small_aspects.csv"
+MODEL_ID = "accounts/fireworks/models/mistral-7b-instruct-v3"
 
 # Names for the Fireworks datasets and job. These must be unique within
 # your account. If you rerun with the same IDs, Fireworks will reject the
@@ -72,22 +47,19 @@ INPUT_DATASET_ID = f"input-dataset-{RUN_TAG}"
 OUTPUT_DATASET_ID = f"output-dataset-{RUN_TAG}"
 BATCH_JOB_ID = f"batch-job-{RUN_TAG}"
 
-# The Fireworks model to use for inference.  Replace with any valid model
-# ID in your account (e.g. ``accounts/fireworks/models/llama-v3p1-8b-instruct``
-# or ``accounts/fireworks/models/gemma2-9b-it``).
-MODEL_ID = "accounts/fireworks/models/llama-v3p1-8b-instruct"
+
 
 # Inference parameters: adjust as needed.  ``max_tokens`` limits the
 # length of the generated output; ``temperature`` controls randomness.
 INFERENCE_PARAMS = {
-    "maxTokens": 300,
+    "maxTokens": 512,
     "temperature": 0.0,
     "topP": 1.0,
     "n": 1
 }
 # Final processed dataset path. The script writes the merged CSV with
 # additional columns for Fireworks outputs.
-OUTPUT_CSV = f"dataset_{MODEL_ID.split('/')[-1]}_fireworks_processed_{RUN_TAG}.csv"
+OUTPUT_CSV = f"dataset_{normalize_model_id_for_batch(MODEL_ID).split('/')[-1]}_fireworks_processed_{RUN_TAG}.csv"
 
 # Optional: keep the raw parsed JSON in a column as well
 SAVE_RAW_JSON = True
@@ -198,11 +170,14 @@ def create_batch_job(
         f"?batchInferenceJobId={job_id}"
     )
     payload = {
-        "model": model_id,
+        "model": normalize_model_id_for_batch(model_id),
         "inputDatasetId": f"accounts/{FIREWORKS_ACCOUNT_ID}/datasets/{input_dataset_id}",
         "outputDatasetId": f"accounts/{FIREWORKS_ACCOUNT_ID}/datasets/{output_dataset_id}",
         "inferenceParameters": inference_params,
     }
+    resolved_model = payload["model"]
+    if resolved_model != model_id:
+        print(f"Note: normalized MODEL_ID for batch job: {model_id} -> {resolved_model}")
     resp = requests.post(url, headers=AUTH_HEADERS, data=json.dumps(payload))
     if not resp.ok:
         raise RuntimeError(
@@ -343,7 +318,7 @@ def main() -> None:
 
         # Try to download and print a few error records from the output dataset (if present)
         try:
-            download_dir = Path("fireworks_batch_outputs")
+            download_dir = Path(f"fireworks_batch_outputs_{normalize_model_id_for_batch(MODEL_ID).split('/')[-1]}")
             result_files = download_output_dataset(OUTPUT_DATASET_ID, download_dir)
             # Prefer files with 'error' in the filename
             error_candidates = [

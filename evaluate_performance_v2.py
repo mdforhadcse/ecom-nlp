@@ -1,4 +1,3 @@
-
 import json
 import re
 from pathlib import Path
@@ -76,36 +75,140 @@ GLOBAL_TAXONOMY = {
     "PRICE": {"Value_for_Money", "Discount_Offer", "Extra_Charges"},
     "SERVICE": {"Customer_Support", "Seller_Interaction", "Order_Process", "Return_Refund", "Warranty_After_Sales"},
     "PRODUCT_QUALITY": {"Overall_Quality", "Durability_Longevity", "Performance_Effectiveness"},
-    "AUTHENTICITY": {"Originality", "Fake_Counterfeit", "Fake"},
+    "AUTHENTICITY": {"Originality", "Fake_Counterfeit"},
     "PRODUCT_APPEARANCE_DESIGN": {"Design_Style", "Color_Finish", "Size_Dimensions", "Comfort_Feeling"},
     "USABILITY_SETUP": {"Instructions_Manual", "Compatibility"},
 }
+
+# Domain-specific taxonomy (optional): used to coarsen domain categories like CAMERA.Photo_Quality -> CAMERA
+# Mirrors taxonomy_json_string -> domain_specific_aspects.*.categories
+DOMAIN_TAXONOMY = {
+    "ELECTRONICS_AND_GADGETS": {
+        "PERFORMANCE": set(),
+        "BATTERY": set(),
+        "DISPLAY": set(),
+        "CAMERA": {"Photo_Quality", "Video_Quality"},
+        "BUILD_QUALITY": set(),
+        "AUDIO": set(),
+        "SOFTWARE": set(),
+        "STORAGE": set(),
+        "AUTHENTICITY": {"Originality", "Fake"},
+    },
+    "FASHION_AND_APPAREL": {
+        "MATERIAL": set(),
+        "FIT_SIZE": set(),
+        "DESIGN": set(),
+        "DURABILITY": set(),
+        "FUNCTIONALITY": set(),
+    },
+    "BEAUTY_AND_PERSONAL_CARE": {
+        "EFFICACY": set(),
+        "TEXTURE_SMELL": set(),
+        "SUITABILITY": set(),
+        "AUTHENTICITY": {"Originality"},
+        "PACKAGING": set(),
+    },
+    "HOME_LIVING_AND_APPLIANCES": {
+        "FUNCTIONALITY": {"Performance", "Power_Consumption", "Noise"},
+        "BUILD_QUALITY": set(),
+        "AESTHETICS": set(),
+        "INSTALLATION": set(),
+        "DIMENSIONS": set(),
+    },
+    "FOOD_AND_GROCERY": {
+        "TASTE_FLAVOR": set(),
+        "FRESHNESS": set(),
+        "QUALITY": {"Authenticity", "Purity", "Ingredients"},
+        "EXPIRY": set(),
+        "PACKAGING": set(),
+    },
+    "AUTOMOTIVE": {
+        "PERFORMANCE": set(),
+        "COMPATIBILITY": {"Fitment", "Model_Match"},
+        "AUTHENTICITY": {"Originality"},
+        "QUALITY": set(),
+    },
+    "OTHER_PRODUCTS": {
+        "FEATURES_FUNCTIONALITY": set(),
+        "MATERIAL_BUILD": set(),
+        "SIZE_DIMENSIONS": set(),
+        "COMFORT": set(),
+        "SAFETY": set(),
+        "AUTHENTICITY": {"Originality", "Fake_Counterfeit"},
+    },
+}
+
+_DOMAIN_SUB_TO_PARENT = {
+    sub: parent
+    for _domain, cats in DOMAIN_TAXONOMY.items()
+    for parent, subs in cats.items()
+    for sub in subs
+}
+_DOMAIN_CATEGORY_SET = {cat for _domain, cats in DOMAIN_TAXONOMY.items() for cat in cats.keys()}
+_DOMAIN_SET = set(DOMAIN_TAXONOMY.keys())
 
 _SUB_TO_PARENT = {sub: parent for parent, subs in GLOBAL_TAXONOMY.items() for sub in subs}
 
 
 def coarse_category(cat: Any) -> str:
     """
-    Convert "PRODUCT_QUALITY.Overall_Quality" or "Overall_Quality" -> "PRODUCT_QUALITY"
-    Keep unknown as first token or raw.
+    Coarsen aspect categories to reduce penalties for taxonomy granularity differences.
+
+    Examples:
+      - "PRODUCT_QUALITY.Overall_Quality" -> "PRODUCT_QUALITY"
+      - "Overall_Quality" -> "PRODUCT_QUALITY"
+      - "ELECTRONICS_AND_GADGETS.CAMERA.Photo_Quality" -> "CAMERA"
+      - "Photo_Quality" -> "CAMERA"
+
+    Unknown labels are kept as the first token (best-effort fallback).
     """
     if cat is None:
         return ""
     if isinstance(cat, float) and np.isnan(cat):
         return ""
+
     s = str(cat).strip()
     if not s:
         return ""
+
     # unify separators
     s = s.replace("/", ".").replace("|", ".").replace(":", ".")
     parts = [p for p in s.split(".") if p]
-    if parts and parts[0] in GLOBAL_TAXONOMY:
+    if not parts:
+        return s
+
+    # Case 1: explicit global category prefix (e.g., PRODUCT_QUALITY.Overall_Quality)
+    if parts[0] in GLOBAL_TAXONOMY:
         return parts[0]
-    if parts and parts[-1] in _SUB_TO_PARENT:
-        return _SUB_TO_PARENT[parts[-1]]
+
+    # Case 2: explicit domain prefix (e.g., ELECTRONICS_AND_GADGETS.CAMERA.Photo_Quality)
+    if parts[0] in _DOMAIN_SET:
+        if len(parts) >= 2 and parts[1] in DOMAIN_TAXONOMY[parts[0]]:
+            return parts[1]
+        # if malformed, still try mapping by last token
+        last = parts[-1]
+        if last in _DOMAIN_SUB_TO_PARENT:
+            return _DOMAIN_SUB_TO_PARENT[last]
+
+    # Case 3: category-only label that matches a known domain category (e.g., CAMERA)
+    if parts[0] in _DOMAIN_CATEGORY_SET:
+        return parts[0]
+
+    # Case 4: leaf/subcategory label only
+    last = parts[-1]
+    if last in _SUB_TO_PARENT:
+        return _SUB_TO_PARENT[last]
+    if last in _DOMAIN_SUB_TO_PARENT:
+        return _DOMAIN_SUB_TO_PARENT[last]
+
+    # Case 5: full string matches a leaf/subcategory
     if s in _SUB_TO_PARENT:
         return _SUB_TO_PARENT[s]
-    return parts[0] if parts else s
+    if s in _DOMAIN_SUB_TO_PARENT:
+        return _DOMAIN_SUB_TO_PARENT[s]
+
+    # Fallback: keep first token
+    return parts[0]
 
 
 def norm_triplet(t: Dict[str, Any], mode: str) -> Optional[Tuple]:
@@ -162,40 +265,16 @@ def main():
     # ----------------------------
     # Fixed inputs/outputs (no CLI arguments)
     # ----------------------------
-    gold_path = Path("gold/dataset_1k_test_200.csv")
-    pred_path = Path("fireworks_batch_outputs/20260109-110411/dataset_ft-llama-v3p1-8b.csv")
-    out_dir = Path("reports/ft-llama-v3p1-8b-instruct")
+    pred_path = Path("fireworks_batch/dataset_gemma2-9b-it_fireworks_processed_20260111-111953.csv")
+    out_dir = Path(f"reports/{pred_path.name.split('_')[1]}")
     # Ensure output directory exists
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    # Optional: set a stable join key if you have one in BOTH files (otherwise row order is used)
-    ID_COL: str | None = None
-
-    if not gold_path.exists():
-        raise FileNotFoundError(f"Gold CSV not found: {gold_path.resolve()}")
     if not pred_path.exists():
-        raise FileNotFoundError(f"Prediction CSV not found: {pred_path.resolve()}")
+        raise FileNotFoundError(f"Input CSV not found: {pred_path.resolve()}")
 
-    gold = pd.read_csv(gold_path)
-    pred = pd.read_csv(pred_path)
-
-    # Join logic: if you have a stable key, join on it. Otherwise assume same row order.
-    if ID_COL and ID_COL in gold.columns and ID_COL in pred.columns:
-        df = gold.merge(pred, on=ID_COL, suffixes=("", "_pred"), how="inner")
-    else:
-        # Safe alignment by row order
-        gold = gold.reset_index(drop=True)
-        pred = pred.reset_index(drop=True)
-        n = min(len(gold), len(pred))
-        df = pd.concat([gold.iloc[:n], pred.iloc[:n].add_prefix("pred__")], axis=1)
-
-        # Map expected fw_* cols from pred__fw_* to fw_* in df for convenience
-        for c in ["fw_overall_sentiment","fw_overall_emotion","fw_triplets_json","fw_raw_text","fw_status_code","fw_error","fw_raw_json"]:
-            src = f"pred__{c}"
-            if src in df.columns and c not in df.columns:
-                df[c] = df[src]
-
-    # Required columns
+    # Single-file mode: this CSV already contains BOTH pseudo-gold (absa_*) and predictions (fw_*)
+    df = pd.read_csv(pred_path)
     required = [
         "absa_overall_sentiment", "absa_overall_emotion", "absa_triplets_json",
         "fw_overall_sentiment", "fw_overall_emotion", "fw_triplets_json",
@@ -242,6 +321,7 @@ def main():
     # Triplet scores
     trip_term = micro_triplet_scores(df, "absa_triplets_json", "fw_triplets_json", mode="term_sent")
     trip_cat = micro_triplet_scores(df, "absa_triplets_json", "fw_triplets_json", mode="cat_sent_coarse")
+    trip_all = micro_triplet_scores(df, "absa_triplets_json", "fw_triplets_json", mode="full")
 
     # Per-row diagnostics (useful for error analysis)
     diag_rows = []
@@ -285,6 +365,10 @@ def main():
         "triplet_cat_sent_coarse_micro_precision": trip_cat["precision"],
         "triplet_cat_sent_coarse_micro_recall": trip_cat["recall"],
         "triplet_cat_sent_coarse_micro_f1": trip_cat["f1"],
+        "triplet_full_micro_precision": trip_all["precision"],
+        "triplet_full_micro_recall": trip_all["recall"],
+        "triplet_full_micro_f1": trip_all["f1"],
+
     }])
     summary.to_csv(out_dir / "performance_summary.csv", index=False)
 
