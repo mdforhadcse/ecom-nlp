@@ -1,0 +1,3 @@
+Model,Task,Samples,Accuracy,Macro_Precision,Macro_Recall,Macro_F1
+accounts/fireworks/models/gemma2-9b-it,Aspect Extraction,1350,0.7933333333333333,0.799825383918757,0.793408600073745,0.7955364277196196
+accounts/fireworks/models/gemma2-9b-it,Sentiment Classification,1350,0.654074074074074,0.6953887147103076,0.654074074074074,0.6142682278815773

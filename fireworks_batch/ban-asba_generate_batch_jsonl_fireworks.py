@@ -18,10 +18,10 @@ from pydantic import BaseModel, Field
 #
 
 class ReviewAnnotation(BaseModel):
-    aspect: Literal["Politics", "Sports", "Religion", "Others"] = Field(
-        ..., description="The dominant emotion expressed in the review."
+    aspect: Literal["politics", "sports", "religion", "other"] = Field(
+        ..., description="The dominant aspect category discussed in the review."
     )
-    sentiment: Literal["Positive", "Negative", "Neutral"] = Field(
+    sentiment: Literal["positive", "negative", "neutral"] = Field(
         ..., description="The overall sentiment of the entire review."
     )
 
@@ -159,57 +159,53 @@ def build_batch_requests(
 if __name__ == "__main__":
 
     system_prompt = """
-    You are an expert language model trained to perform Aspect-Based Sentiment Analysis (ABSA)
-    on Bengali text. You must analyze short Bengali comments and classify them into two labels:
+    You are an expert Bengali Aspect-Based Sentiment Analysis (ABSA) classifier.
     
-    1. **Aspect** — The main topic or domain discussed in the comment.
-       Choose only one from this fixed list:
-       - Politics → Comments about government, leaders, elections, political parties, laws, corruption, or governance.
-       - Sports → Comments about games, athletes, matches, scores, tournaments, or sports events.
-       - Religion → Comments about faith, religious figures, rituals, beliefs, or religious communities.
-       - Others → Any comment not fitting into the above three (e.g., entertainment, technology, general opinion).
+    Task: Given one Bengali comment, output exactly TWO labels:
+    1) aspect
+    2) sentiment
     
-    2. **Sentiment** — The emotional polarity expressed in the comment toward that aspect.
-       Choose only one from this fixed list:
-       - Positive → Shows praise, support, optimism, or satisfaction.
-       - Negative → Shows criticism, anger, disapproval, or frustration.
-       - Neutral → Factual statements, questions, or mixed/unclear opinions without strong emotion.
+    You MUST output only valid JSON with exactly these keys:
+    {"aspect": "...", "sentiment": "..."}
     
-    ---
+    -----------------------------------
+    ASPECT (choose exactly ONE):
+    - "politics"  → government, leaders, elections, parties, law, corruption, governance, national issues
+    - "sports"    → games, players, teams, matches, scores, tournaments, sports events
+    - "religion"  → Allah/Islam/namaz/Quran/prophet, Hindu/Buddhist/Christian faith, rituals, religious groups
+    - "other"     → anything else (technology, entertainment, daily life, general talk, unclear topic)
     
-    ### Important Guidelines:
-    - The text will be in Bengali. You must fully understand Bengali syntax, idioms, and sentiment.
-    - Identify *the dominant* aspect and sentiment even if multiple topics appear.
-    - If the sentiment is mixed but leans toward one side, choose that side (avoid Neutral unless truly balanced).
-    - Always output your result **strictly** in valid JSON format, conforming exactly to this schema:
+    If multiple topics appear, choose the DOMINANT one (main focus of the comment).
     
-    ### Examples
-
-    Example 1:
-    Comment: "বাংলাদেশের সরকার দুর্নীতিতে ভরা।"
-    → Output:
-    {"aspect": "Politics", "sentiment": "Negative"}
+    -----------------------------------
+    SENTIMENT (choose exactly ONE):
+    - "positive" → praise, support, happiness, admiration, satisfaction, optimism
+    - "negative" → criticism, anger, hate, sadness, mockery, frustration, disappointment
+    - "neutral"  → factual statement, question, name-only, unclear, mixed with no clear leaning
     
-    Example 2:
-    Comment: "মেসির খেলা দেখে মন ভরে গেছে!"
-    → Output:
-    {"aspect": "Sports", "sentiment": "Positive"}
+    Rules:
+    - Do NOT output anything except JSON.
+    - Do NOT add extra keys or explanations.
+    - Detect implicit sentiment and sarcasm (e.g., “বাহ বাহ সরকার!” often means Negative).
+    - If sentiment is mixed but clearly leans to one side, choose that side (avoid Neutral unless truly unclear).
     
-    Example 3:
-    Comment: "আজকের নামাজটা খুব মনোযোগ দিয়ে পড়েছি।"
-    → Output:
-    {"aspect": "Religion", "sentiment": "Positive"}
+    Examples:
+    Input: "বাংলাদেশের সরকার দুর্নীতিতে ভরা।"
+    Output: {"aspect":"politics","sentiment":"negative"}
     
-    Example 4:
-    Comment: "মোবাইলের নেটওয়ার্কটা ভালো না।"
-    → Output:
-    {"aspect": "Others", "sentiment": "Negative"}
-
+    Input: "মেসির খেলা দেখে মন ভরে গেছে!"
+    Output: {"aspect":"sports","sentiment":"positive"}
+    
+    Input: "আজকের নামাজটা খুব মনোযোগ দিয়ে পড়েছি।"
+    Output: {"aspect":"religion","sentiment":"positive"}
+    
+    Input: "মোবাইলের নেটওয়ার্কটা ভালো না।"
+    Output: {"aspect":"other","sentiment":"negative"}
     """
 
     # Paths to the dataset and output
     fireworks_model_name = "accounts/fireworks/models/gemma2-9b-it"
-    input_path = Path("../demo/BAN-ABSA.csv")
+    input_path = Path("../demo/BAN-ABSA_balanced_1350.csv")
     output_path = Path(f"ban-absa_fireworks_batch_tasks_{fireworks_model_name.split('/')[-1]}.jsonl")
 
     # Generate the batch requests; set include_product_meta=True if you want product metadata in the input

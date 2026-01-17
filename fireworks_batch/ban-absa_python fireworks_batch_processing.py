@@ -31,9 +31,9 @@ from dotenv import load_dotenv
 # Path to the JSONL file generated for Fireworks batch inference.  Each
 # line should contain a ``custom_id`` and a ``body`` field matching the
 # Fireworks API requirements.
-INPUT_JSONL = "fireworks_batch_tasks_gemma2-9b-it.jsonl"
-INPUT_CSV = "../gold/dataset_1k_compound_small_aspects.csv"
-MODEL_ID = "accounts/fireworks/models/mistral-7b-instruct-v3"
+INPUT_JSONL = "ban-absa_fireworks_batch_tasks_gemma2-9b-it.jsonl"
+INPUT_CSV = "../demo/BAN-ABSA_balanced_1350.csv"
+MODEL_ID = "accounts/fireworks/models/gemma2-9b-it"
 
 # Names for the Fireworks datasets and job. These must be unique within
 # your account. If you rerun with the same IDs, Fireworks will reject the
@@ -52,7 +52,7 @@ BATCH_JOB_ID = f"batch-job-{RUN_TAG}"
 # Inference parameters: adjust as needed.  ``max_tokens`` limits the
 # length of the generated output; ``temperature`` controls randomness.
 INFERENCE_PARAMS = {
-    "maxTokens": 128,
+    "maxTokens": 64,
     "temperature": 0.0,
     "topP": 1.0,
     "n": 1
@@ -462,54 +462,189 @@ def main() -> None:
     # --------------------------------------------
     print("\nEvaluating model performance...")
 
-    from sklearn.metrics import accuracy_score, precision_recall_fscore_support
+    import re
+    import numpy as np
+    from sklearn.metrics import (
+        accuracy_score,
+        precision_recall_fscore_support,
+        confusion_matrix,
+    )
 
-    # Drop missing labels
-    eval_df = df.dropna(subset=["pred_aspect", "pred_sentiment", "Aspect", "Polarity"]).copy()
+    def _sanitize_for_folder(name: str) -> str:
+        name = (name or "").strip()
+        name = name.replace("/", "_")
+        name = re.sub(r"[^a-zA-Z0-9_.-]+", "_", name)
+        name = name.strip("_")
+        return name or "model"
 
-    # Aspect metrics
-    aspect_acc = accuracy_score(eval_df["Aspect"], eval_df["pred_aspect"])
-    aspect_metrics = precision_recall_fscore_support(eval_df["Aspect"], eval_df["pred_aspect"], average="macro")
+    def _norm_label(x):
+        if x is None:
+            return None
+        if isinstance(x, float) and np.isnan(x):
+            return None
+        s = str(x).strip().lower()
+        return s if s else None
 
-    # Sentiment metrics
-    sentiment_acc = accuracy_score(eval_df["Polarity"], eval_df["pred_sentiment"])
-    sentiment_metrics = precision_recall_fscore_support(eval_df["Polarity"], eval_df["pred_sentiment"], average="macro")
+    def _normalize_aspect(x):
+        x = _norm_label(x)
+        if x is None:
+            return None
+        if x in {"others", "other"}:
+            return "other"
+        return x
+
+    def _normalize_sentiment(x):
+        x = _norm_label(x)
+        if x is None:
+            return None
+        if x in {"pos", "positive"}:
+            return "positive"
+        if x in {"neg", "negative"}:
+            return "negative"
+        if x in {"neu", "neutral"}:
+            return "neutral"
+        return x
+
+    # Prepare evaluation frame and normalize labels
+    eval_df = df.dropna(subset=["pred_aspect", "pred_sentiment", "aspect", "polarity"]).copy()
+
+    eval_df["aspect_true"] = eval_df["aspect"].apply(_normalize_aspect)
+    eval_df["sent_true"] = eval_df["polarity"].apply(_normalize_sentiment)
+    eval_df["aspect_pred"] = eval_df["pred_aspect"].apply(_normalize_aspect)
+    eval_df["sent_pred"] = eval_df["pred_sentiment"].apply(_normalize_sentiment)
+
+    # Drop rows with invalid normalization results
+    eval_df = eval_df.dropna(subset=["aspect_true", "sent_true", "aspect_pred", "sent_pred"]).copy()
+
+    # Fixed label order (dataset categories)
+    aspect_labels = ["politics", "sports", "religion", "other"]
+    sentiment_labels = ["positive", "negative", "neutral"]
+
+    # Metrics: Aspect
+    aspect_acc = accuracy_score(eval_df["aspect_true"], eval_df["aspect_pred"])
+    aspect_p, aspect_r, aspect_f1, _ = precision_recall_fscore_support(
+        eval_df["aspect_true"],
+        eval_df["aspect_pred"],
+        average="macro",
+        zero_division=0,
+    )
+
+    # Metrics: Sentiment
+    sentiment_acc = accuracy_score(eval_df["sent_true"], eval_df["sent_pred"])
+    sentiment_p, sentiment_r, sentiment_f1, _ = precision_recall_fscore_support(
+        eval_df["sent_true"],
+        eval_df["sent_pred"],
+        average="macro",
+        zero_division=0,
+    )
 
     # Print results
     print("\n📘 Aspect Extraction Results")
-    print(f"Accuracy: {aspect_acc:.2f}")
-    print(f"Precision: {aspect_metrics[0]:.2f}")
-    print(f"Recall: {aspect_metrics[1]:.2f}")
-    print(f"F1: {aspect_metrics[2]:.2f}")
+    print(f"Accuracy     : {aspect_acc:.4f}")
+    print(f"Macro_Precision: {aspect_p:.4f}")
+    print(f"Macro_Recall   : {aspect_r:.4f}")
+    print(f"Macro_F1       : {aspect_f1:.4f}")
 
     print("\n📙 Sentiment Classification Results")
-    print(f"Accuracy: {sentiment_acc:.2f}")
-    print(f"Precision: {sentiment_metrics[0]:.2f}")
-    print(f"Recall: {sentiment_metrics[1]:.2f}")
-    print(f"F1: {sentiment_metrics[2]:.2f}")
+    print(f"Accuracy     : {sentiment_acc:.4f}")
+    print(f"Macro_Precision: {sentiment_p:.4f}")
+    print(f"Macro_Recall   : {sentiment_r:.4f}")
+    print(f"Macro_F1       : {sentiment_f1:.4f}")
 
-    # Save metrics CSV
-    metrics_path = f"ban-absa_metrics_{normalize_model_id_for_batch(MODEL_ID).split('/')[-1]}_{RUN_TAG}.csv"
+    # Create output folder based on model name
+    model_name = normalize_model_id_for_batch(MODEL_ID).split("/")[-1]
+    safe_model_name = _sanitize_for_folder(model_name)
+    out_dir = Path(f"../ban-absa_reportban-absa_{safe_model_name}")
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    # 1) Save eval_metrics.csv
+    metrics_path = out_dir / "eval_metrics.csv"
     metrics_df = pd.DataFrame([
         {
+            "Model": model_name,
             "Task": "Aspect Extraction",
-            "Accuracy": aspect_acc,
-            "Precision": aspect_metrics[0],
-            "Recall": aspect_metrics[1],
-            "F1": aspect_metrics[2],
             "Samples": len(eval_df),
+            "Accuracy": aspect_acc,
+            "Macro_Precision": aspect_p,
+            "Macro_Recall": aspect_r,
+            "Macro_F1": aspect_f1,
         },
         {
+            "Model": model_name,
             "Task": "Sentiment Classification",
-            "Accuracy": sentiment_acc,
-            "Precision": sentiment_metrics[0],
-            "Recall": sentiment_metrics[1],
-            "F1": sentiment_metrics[2],
             "Samples": len(eval_df),
+            "Accuracy": sentiment_acc,
+            "Macro_Precision": sentiment_p,
+            "Macro_Recall": sentiment_r,
+            "Macro_F1": sentiment_f1,
         },
     ])
     metrics_df.to_csv(metrics_path, index=False)
-    print(f"\n✅ Saved performance metrics to: {metrics_path}")
+
+    # 2) Save aspect_confusion_matrix.csv
+    aspect_cm = confusion_matrix(
+        eval_df["aspect_true"],
+        eval_df["aspect_pred"],
+        labels=aspect_labels,
+    )
+    aspect_cm_df = pd.DataFrame(
+        aspect_cm,
+        index=[f"T_{x}" for x in aspect_labels],
+        columns=[f"P_{x}" for x in aspect_labels],
+    )
+    aspect_cm_path = out_dir / "aspect_confusion_matrix.csv"
+    aspect_cm_df.to_csv(aspect_cm_path, index=True)
+
+    # 3) Save sentiment_confusion_matrix.csv
+    sent_cm = confusion_matrix(
+        eval_df["sent_true"],
+        eval_df["sent_pred"],
+        labels=sentiment_labels,
+    )
+    sent_cm_df = pd.DataFrame(
+        sent_cm,
+        index=[f"T_{x}" for x in sentiment_labels],
+        columns=[f"P_{x}" for x in sentiment_labels],
+    )
+    sent_cm_path = out_dir / "sentiment_confusion_matrix.csv"
+    sent_cm_df.to_csv(sent_cm_path, index=True)
+
+    # 4) Save per_row_diagnostics.csv
+    diag = eval_df.copy()
+    diag["aspect_correct"] = (diag["aspect_true"] == diag["aspect_pred"]).astype(int)
+    diag["sentiment_correct"] = (diag["sent_true"] == diag["sent_pred"]).astype(int)
+    diag["both_correct"] = ((diag["aspect_correct"] == 1) & (diag["sentiment_correct"] == 1)).astype(int)
+
+    keep_cols = []
+    for c in [
+        "orig_id",
+        "post",
+        "aspect",
+        "polarity",
+        "pred_aspect",
+        "pred_sentiment",
+        "aspect_true",
+        "sent_true",
+        "aspect_pred",
+        "sent_pred",
+        "fw_status_code",
+        "fw_raw_text",
+        "fw_error",
+        "aspect_correct",
+        "sentiment_correct",
+        "both_correct",
+    ]:
+        if c in diag.columns:
+            keep_cols.append(c)
+
+    diagnostics_path = out_dir / "per_row_diagnostics.csv"
+    diag[keep_cols].to_csv(diagnostics_path, index=False)
+
+    print(f"\n✅ Saved evaluation outputs to folder: {out_dir.resolve()}")
+    print(f" - {metrics_path.name}")
+    print(f" - {aspect_cm_path.name}")
+    print(f" - {sent_cm_path.name}")
+    print(f" - {diagnostics_path.name}")
     print(f"Total evaluated samples: {len(eval_df)} / {len(df)}")
 
 if __name__ == "__main__":
