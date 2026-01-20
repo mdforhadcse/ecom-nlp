@@ -1,0 +1,751 @@
+orig_id,post,aspect,polarity,pred_aspect,pred_sentiment,aspect_true,sent_true,aspect_pred,sent_pred,fw_status_code,fw_raw_text,fw_error,aspect_correct,sentiment_correct,both_correct
+6769,জাতীয় ঐক্যফ্রন্টের সমাবেশ সুন্দর করে সফল হওয়ায় আয়োজকদের ধন্যবাদ জানিয়েছেন প্রধানমন্ত্রী ও আওয়ামী লীগ সভাপতি শেখ হাসিনা।,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"":""politics"",""sentiment"":""positive""}",,1,1,1
+4380,আসন্ন নির্বাচনে নৌকাকে বিজয়ী করার লক্ষ্যে রূপগঞ্জে আওয়ামী লীগ ও সহযোগী সংগঠনের উদ্যোগে জনসভা হয়েছে।,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+5658,অভিনন্দন বাংলাদেশ আওয়ামী লীগ।,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+8213,টানা তৃতীয়বারের মত জয় লাভ করায় আওয়ামীলীগকে অভিনন্দন,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+2592,উন্নয়নের ধারা অব্যহত রাখতে আওয়ামীলীগ সরকারের উন্নয়ন ও সাফল্য,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+562,"অভিনন্দন আওয়ামীলীগকে,টানা তৃতীয় বারের জন্য সরকার গঠন করতে যাচ্ছে তাই।",politics,positive,politics,negative,politics,positive,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+2650,সোহরাওয়ার্দীতে ঐক্যফ্রন্টের সমাবেশ সুন্দরভাবে সফল করায় প্রধানমন্ত্রীর ধন্যবাদ,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+8017,দেশের জনগণ অবশ্যই আশায় আছে একটা সুন্দর নিরপেক্ষ তত্ত্বাবধায়ক সরকারের অধীনে নির্বাচনের।,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+3988,নির্বাচনে অংশ না নিলে খুব ভালো হবে কোন বিশৃংখলা সৃষ্টি হবে না এবং ঐক্যফ্রন্ট ছাড়া নির্বাচন অনেক সুন্দর হবে,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+6337,"এই জায়গায় যতজন আছেন, ততটা ভোট যদি তারা পায় তাইলে তারাই হবে প্রকৃত জয়ী, সরকার গঠনের অধিকার তারা রাখবে বলে মনে করি...",politics,positive,politics,neutral,politics,positive,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,0,0
+1226,এদেশে অাইনের শাসন অা'লীগ সরকার প্রতিষ্ঠা করেছে।,politics,positive,politics,negative,politics,positive,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+598,প্রধানমন্ত্রী শেখ হাসিনার পক্ষে মনোনয়ন সংগ্রহের মাধ্যমে আওয়ামী লীগের মনোনয়ন পত্র বিক্রি শুরু।,politics,positive,politics,negative,politics,positive,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+4487,দেশের সরকারের উন্নতি হবে,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+1586,ঐক্যপ্রন্ট নির্বাচনে গেলে ভালো,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+7935,পাতানো নির্বাচন বর্জন করাই ভালো,politics,positive,other,positive,politics,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,0,1,0
+4804,সংলাপ ভালো হোক এই প্রত্যাশা দেশবাসীর।।,politics,positive,other,positive,politics,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,0,1,0
+3792,"আরেকটি এক এগারোর সরকার আসলে ভালো হবে,,,",politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+8852,নির্বাচনে জয়লাভের নিশ্চয়তা থাকলে ভাল হয় ।,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+4708,ধানের শীষে দিলে ভোট' শান্তি পাবে দেশের লোক,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+7974,নিরপেক্ষ নির্বাচনের মাধ্যমে দেশে শান্তি আনুন।,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+3937,জাতির বৃহত্তর স্বার্থে নির্বাচন পিছিয়ে গেলেও ভালো।,politics,positive,politics,neutral,politics,positive,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,0,0
+4916,আশা করছি একটি সুন্দর নির্বাচনের মাধ্যমে দেশ এগিয়ে যাবে,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+1538,তফসিল ঘোষণা হয়ে গেছে তাই নির্বাচনের প্রস্তুতি নেওয়া ভালো।,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+6734,আসন্ন জাতীয় সংসদ নির্বাচনের পরেই সকল দলের সাথে আলোচনা করলে ভালো হয়,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+2998,এদেশের রাজপথ আওয়ামী লীগ আর দেশের জনগণের,politics,positive,politics,negative,politics,positive,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+3627,আওয়ামী লীগ যে কোন মূল্যে আবার ক্ষমতায় আসবে,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+3526,সংসদ ভেঙ্গে নিরপেক্ষ সরকারের অধীনে নির্বাচন চাই।,politics,positive,politics,negative,politics,positive,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+7750,"আওয়ামী লীগ সাধারণ সম্পাদক বলেন, জনগণ এখন নির্বাচনমুখী।",politics,positive,politics,neutral,politics,positive,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,0,0
+8499,প্রধানমন্ত্রী স্বাধীন হলেই নির্বাচন কমিশন স্বাধীন হবে....,politics,positive,politics,negative,politics,positive,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+850,বাংলাদেশ আওয়ামী লীগ স্বাধীনতাবিরোধী কারো হুমকিতে ভয় পায় না,politics,positive,politics,negative,politics,positive,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+4920,নির্বাচনের মাধ্যমে টানা ৩য় বারের মত প্রধানমন্ত্রী নির্বাচিত হবেন তিনি,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+790,রাজবন্দিদের মুক্তিতে সরকারের কোনো আপত্তি নেই বলে জানিয়েছেন আওয়ামী লীগের সাধারণ সম্পাদক ওবায়দুল কাদের।,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"":""politics"",""sentiment"":""positive""}",,1,1,1
+296,মোদের নৌকা জিতবে,politics,positive,sports,positive,politics,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,0,1,0
+2193,জয় বাংলা নৌকায় ভোট দিন,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+3270,আজ নির্বাচন হয়ে গেলে ভাল,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+911,শান্তিপূর্ণ নির্বাচন চাই,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+4330,ইনশাল্লাহ বিএনপি'র হবে জয়,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+5886,যুক্তরাষ্ট্রে ট্রাম্পের জয়,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+6608,ভাল একটা নির্বাচন আশা করছি।,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+8050,খুব ভাল মানুষ আদর্শবান নেতা,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+6925,"ইভিএম যুগোপযোগী, অবশ্যই ভালো।",politics,positive,other,positive,politics,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,0,1,0
+1896,আমি বি এন পি বিজয়ী দেখতে চাই।,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+4412,"দেশ রত্ন শেখ হাসিনা, জয় বাংলা।",politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+4449,মামা বিএনপির সাথে থাকলে ভাল হইত,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+212,সুন্দর নির্বাচন চাই বাংলার মানুষ।।,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+7493,"দেশ নেত্রী খালেদা, গর্ব মোদের আলাদা।",politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+4335,নির্বাচন কমিশনকে জাতীয় পার্টির ‘ধন্যবাদ’,politics,positive,politics,negative,politics,positive,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+8858,"ধন্যবাদ নির্বাচন কমিশনকে,সময়ের কাজ সময়ে করায়।",politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+5763,নৌকার হবে জয় দেশের মানুষ জানে দেশ কার হাতে নিরাপদ,politics,positive,politics,negative,politics,positive,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+8822,একজন শিক্ষিত লোকের দ্বারা জাতি ভালো কিছু আশা করে।,politics,positive,other,positive,politics,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,0,1,0
+7861,ভালোর আশায় ও মন্দ মোকাবেলায় প্রস্তুত আছি: ওবায়দুল কাদের,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+7928,উন্নয়নের ধারা বজায় রাখতে আবার ও আওয়ামীগ কে জয় যুক্ত করুন।,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+7097,"ধন্যবাদ নির্বাচন কমিশন কে, সঠিক সময়ে সঠিক সিদ্ধান্ত নেয়ার জন্য।",politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+4495,"সংলাপ সফল হোক, সব রাজনীতিবীদগন ভাল থাকুক তাহলেই জনগন ভাল থাকবেন।",politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+2549,"জয় বাংলা। এদেশের অতিত, বর্তমান এবং ভবিষ্যতের একমাত্র প্রতিক নৌকা।",politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+7287,"ধন্যবাদ, সাধুবাদ ও শুভ কামনা জানাই প্রধান নির্বাচন কমিশনার সাহেব কে",politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+4237,সবাই যেন সরকারের কাছ থেকে ভাল ব্যবহার বিনিময় পায় সেই ব্যবস্থাও করতে হবে।,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+2202,বিএনপি অনলাইন প্রবাসী ফোরাম এর পক্ষ থেকে সবাইকে সংগ্রামী সালাম ও অভিনন্দন,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+4390,"মন্ত্রীমহোদয় কাজটি করতে পারুক আর নাই পারুক, কথাটি বলার জন্য ওনাকে ধন্যবাদ।",politics,positive,politics,negative,politics,positive,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+7258,সঠিক বলেছেন! নির্বাচনী হানাহানী থেকে জনগন এখন বাচতে চায় জনগন চায় একটিখানি শান্তি।,politics,positive,politics,negative,politics,positive,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+4322,যুক্তরাষ্ট্রের ১০৮ বছরের ইতিহাসে এ পর্যন্ত মাত্র পাঁচবার ক্ষমতসীন প্রেসিডেন্ট কংগ্রেসের সিনেটে জয়লাভ করেছেন।,politics,positive,politics,negative,politics,positive,politics,negative,200,"{""aspect"":""politics"",""sentiment"":""negative""}",,1,0,0
+1332,ইনশাআল্লাহ বাংলাদেশ আওয়ামীলীগ আবার ক্ষমতায় আসবে,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+5821,আসন্ন জাতীয় নির্বাচনের পরেই সকল দলের সাথে আলোচনা করলে ভালো হয়।,politics,positive,politics,positive,politics,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,1,1
+4686,খুব ভালো হবে,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+1730,যান ভালো হবে,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+7369,এটা ভালো হইছে,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+2848,এটা ভালো খবর।,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+5970,এটা ভালো লাগছে,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+757,খুব ভালো হয়েছে,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+751,অনেক অনেক ভালো,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"":""other"",""sentiment"":""positive""}",,1,1,1
+1807,আমি বলবো ভালোই।,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+7541,এটা ভালো বুদ্ধি।,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+5081,ভালো কিছু আশা করছি,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+7968,এটা ভালো সিদ্ধান্ত,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+2854,ভালো তালের কথা জানেন।,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+6779,"তেমাদের ভাগ্য ভালো,,,,",other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+3171,ভালো কিছু প্রত্যাশা করছি,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+888,আমরা ভালোর জন্য আশা করে আছি,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+5514,আম্রিকা আর রাশিয়ারা জিতবে !,other,positive,sports,positive,other,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,0,1,0
+7698,প্রত্যাশা করি ভালো কিছু হোক।,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+2967,তবে বড়দিনের আরো আগে হলে ভালো হতো,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+3959,আমজনতার বিজয় হউক শান্তিপূর্ন ভাবে:,other,positive,politics,positive,other,positive,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,0,1,0
+2884,"শিক্ষকের হাতে বেত নয় , ভালোবাসা চাই",other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+6916,সাংবাদিকদের প্রশ্ন গুলো ভালো লাগতেছে,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+3863,"আফিফা এখনো বেচে আছে,আলহামদুলিল্লাহ্‌,",other,positive,religion,positive,other,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,0,1,0
+7561,পীর না হউক মানুষকে এভাবে ভালোবাসতে হয়,other,positive,religion,positive,other,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,0,1,0
+1156,আপনাদের ভালোর জন্য আপনারা সবই করতে পারেন।,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+6974,ভাল ডাক্তার হলেও জনগণের মন জয় করা সম্ভব নাও হোতে পারে।,other,positive,politics,neutral,other,positive,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,0,0,0
+2674,ছেলে হোক মেয়ে হোক দু টি সন্তান যতেষ্ট একটি হলে ভালো হয় ৷,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"":""other"",""sentiment"":""positive""}",,1,1,1
+7113,আমি সাংবাদিকদের সুন্দর প্রশ্ন করার জন্য ধন্যবাদ জানাচ্ছি।,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+7100,সাংবাদিক ভাইদের কে অনুরোধ করবো আন্দাজের উপরে ভিক্তি করে কিছু না বলাটাই ভালো,other,positive,politics,negative,other,positive,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,0,0,0
+4557,এখন তো ভাল,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+318,খুব ভাল কথা,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+7348,খুব ভালই তো,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+5195,ভাল হয়েছে তো,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+2475,আমি বলবো ভালই,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+44,ভাল কাজ হয়েছে,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+4844,এবার ভাল করবি,other,positive,other,negative,other,positive,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+1876,"না সেটাই ভাল,",other,positive,other,negative,other,positive,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+5874,খুশির খবর ভাই,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+49,খুব ভাল করেছে,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+940,এবার বিজয় হবে,other,positive,sports,positive,other,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,0,1,0
+8068,ভাল সমাধান চাই,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+835,ভাল কাজ করছো ৷,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+6604,জয় হোক মানবতার,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+1640,খুব ভাল হইছে..,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+669,বাহ বাহ চমৎকার,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"":""other"",""sentiment"":""positive""}",,1,1,1
+7390,আমি অবশ্যই জিতব,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+2696,সেটা আনেক ভালকাজ,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+4972,আপনাকে ও ধন্যবাদ,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+7817,ভাল কিচু আসা করি,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+3527,ভাল করে খেয়ে এসো।,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+7252,আমাদের জিততেই হবে,other,positive,sports,positive,other,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,0,1,0
+4942,অনেক অনেক ধন্যবাদ,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"":""other"",""sentiment"":""positive""}",,1,1,1
+3289,আমরা অবশ্যই জিতবো,other,positive,sports,positive,other,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,0,1,0
+7764,"বাহ, চমৎকার হয়েছে।",other,positive,other,positive,other,positive,other,positive,200,"{""aspect"":""other"",""sentiment"":""positive""}",,1,1,1
+5369,যুগান্তরকে ধন্যবাদ,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+9006,তাদের বিজয় নিশ্চিত,other,positive,sports,positive,other,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,0,1,0
+3923,ভাল সিদ্ধান্ত হয়েছে,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+4068,যুধ্ব নয় শান্তি চাই,other,positive,politics,positive,other,positive,politics,positive,200,"{""aspect"":""politics"",""sentiment"":""positive""}",,0,1,0
+3542,আমি বলবো ভালই হয়েছে,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+6404,ধন্যবাদতো দিতই হবে।,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+7938,ডিজিটাল উন্নতি হয়েছে,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+2667,আজ ভাল কিছু আশা করছি,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+6377,খুব সুন্দর নাম হয়েছে,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+307,ধন্যবাদ মাননীয় বিসিবি,other,positive,other,positive,other,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,1,1
+8544,অবশ্যই ভালো খেলার জন্য ম্যাচটা আমরা জিতেছি,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+4070,খেলার মাঠে যে টিম ভাল খেলবে সেই জিতবে।,sports,positive,sports,neutral,sports,positive,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,0,0
+3776,ধন্যবাদ তামিম ভাইকে ভালো একটা ইনিংস খেলার জন্য,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+1301,এই ম্যাচে জয়টা জিম্বাবুয়ের প্রাপ্য ছিলো ভালো খেলেছে৷,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+1664,খেলা নাপারলেও মেসিকে ভালবাসি সর্বকালের সেরা খেলোয়ার হিসাবে,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"":""sports"",""sentiment"":""positive""}",,1,1,1
+3481,ক্রিকেট টিমকে ভালোবাসি বিধায় রাত জেগে সম্পূর্ণ খেলা দেখেছি।,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+4260,ভালো একটা খেলা উপহার দেওয়াতে আপনাদেরকে জানাচ্ছি অসংখ্য ধন্যবাদ।,sports,positive,other,positive,sports,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,0,1,0
+101,"খেলে জিততে হবে, বার্সা ইউসিএলে ভালো করবে, ডেম্বেলে,গ্রিজ,মেসি,ফাতি আমাদের ও এটাক কম না।",sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+7904,মাশরাফি যেই দলের হয়েই খেলুক না কেন ভালোবাসা ছিলো আছে থাকবেজিতুক বা হারুক ভালোবাসা  অবিরাম,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+5286,তামিম ইকবাল ভাই আফগানিস্তান ম্যাচেদিয়ে ওপেন করাইয়া  শুধু সিঙ্গেল নিয়া খেলাইলে পরে তাঁরা বল ভালো বুঝতে পারবে,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"":""sports"",""sentiment"":""positive""}",,1,1,1
+8031,"বিশ্বাস ছিল ওডিআইতে আমরা জিতবো, সফল হয়েছি,আশাকরি সামনেও এ ধারা অব্যাহত থাকবে, ভালোবাসা সবসময় প্রিয় দলটার জন্য।",sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+7675,"মেসি বিশ্বকাপ না জিতলে কী, আমি তাকে আনেক পছন্দ করি, সে আমার প্রিয় খোলোয়ার।",sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+587,"অভিনন্দন বাংলাদেশ দলকে, দারুণ একটি ম্যাচ জিতেছি আমরা",sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+1378,দলে থাকলে সবাই ভাল খেলে তার কারন আপনার শাসন ও ভাল বাসা আমি আশা করি সামনের ম্যাচ গোলাও আমরা জয় পাবো ইনশাল্লাহ,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+81,বিসিবির সভাপতি আপনি হোন ম্যাশ.. প্রতিভাবান ক্রিকেটার জায়গা করে দেন দলে ইন শাহ আল্লাহ সাকিব আল হাসানের নেতৃত্বে বিশ্বকাপ জিতবো।,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+2978,"ভালোবাসা নিয়েন ""প্রিয় ক্রিকেটার""",sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+2506,খেলায় ব্র্যাথোওয়েট কে দেখে ভালো লাগল,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+3147,ভালো থেকো বাংলার খেলার আকাশের ধ্রুব তারা।,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+192,"হার্ড ওয়ার্ক ম্যান, ভালবাসি রোনালদোর খেলা",sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+2508,"বিশ্বকাপ পাক না পাক, ভালোবাসা সব সময় থাকবে",sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+8599,খেলোয়াড়ের থেকেও তার বড় পরিচয় একজন ভালো মানুষ।,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+2519,এমনকি রোনালদো পেনাল্টি থেকে ভালো গোল করতে পারে,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"":""sports"",""sentiment"":""positive""}",,1,1,1
+8782,অসাধারণ ভাইয়া অনেক খুশি হয়ছি আপনার খেলা উপভোগ করে,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+6706,"তামিম ইকবাল যেই দলের হয়েই খেলুক না কেন,,,,,ভালোবাসা ছিলো",sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"":""sports"",""sentiment"":""positive""}",,1,1,1
+4696,"সাকিব আল হাসানের মাধ্যমেই ক্রিকেট বুঝেছিলাম, ভালোবেসেছিলাম!",sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"":""sports"",""sentiment"":""positive""}",,1,1,1
+6357,"অভিনন্দন জিম্বাবুয়েকেও জানতে হয়,অসাধারণ এক খেলা খেললো জিম্বাবুয়ে।",sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+5867,সব খেলোয়াড়কেই সমসাময়িক ভালো লাগে কিন্তু মুশফিক কে সবসময় ভালো লাগে।,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+3474,"অাপনার চমৎকার বোলিং সাকিব, তামিম, মুসফিক, ব্যাটিং দলকে জয় এনে দিয়েছে",sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+656,"চ্যাম্পিয়ান লিগে যদি তারা ভালো করতে পারে, তাহলে আমি বলব অবশ্যই জয় করে",sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+5024,হ্যা ঠিক. . খেলায় ভালো কিছু যে হবে নাহ এমন তোহ নাহ ইনশাল্লাহ ভালো কিছু হবে,sports,positive,sports,neutral,sports,positive,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,0,0
+1541,একমত হতে পারলাম নাহ প্রিয় জিম্বাবুয়ে জিতলে খুশি হতাম এই জয় টাহ ওদের প্রাপ্য,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+1338,"খেলা বোঝার আগেও ব্রাজিল, খেলা বোঝার পরেও ব্রাজিল,, জিতলেও ব্রাজিল,জয়তু ব্রাজিল।",sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"":""sports"",""sentiment"":""positive""}",,1,1,1
+5256,"বেশি কিছু বলবো না,শুধু এতোটুকই তোমাকে স্রধ্ধা ও সালাম,অভিনন্দন তোমাকে প্রিয় ম্যাশ,ভালো থেকো সব সময়।",sports,positive,other,positive,sports,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,0,1,0
+2469,"""কারন নামটাতো সাকিব অাল হাসান"" এই কথাটাই লুকিয়ে অাছে দৃঢ়তা, শুদ্ধতা, ভালোবাসা ও স্বপ্ন জয়ের সম্ভাবনা",sports,positive,other,positive,sports,positive,other,positive,200,"{""aspect"":""other"",""sentiment"":""positive""}",,0,1,0
+2195,হা বস আপনি দলে থাকলে বাকি সব খেলোয়ারদের মনমানোসিকতা থাকে ভাল এবং আমরাও বিশ্বাস রাহি যে জয় ইনশাল্লাহ আসব,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+635,"আপনি দলে থাকলে দলের প্রান থাকে, আপনার ভালোবাসায় সব প্লেয়ার শক্তি ফিরে পায়, নিজেদের মেলে ধরতে পারে, স্যালুট ক্যাপ্টেন।",sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+7716,একমাত্র সাকিবের জন্যই ক্রিকেট খেলা আমার খুব প্রিয়।,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+4536,মারাফি ভাই আফগানিস্তান ম্যাচে (মিথুন ও লিটানকে )দিয়ে ওপেন করাইয়া ১০ ওভার শুধু সিঙ্গেল নিয়া খেলাইলে পরে তাঁরা বল ভালো বুঝতে পারবে,sports,positive,sports,neutral,sports,positive,sports,neutral,200,"{""aspect"":""sports"",""sentiment"":""neutral""}",,1,0,0
+8569,২০১৫-২০১৮ সাল পর্যন্ত বাংলাদেশ ক্রিকেট দল ভালো খেলেছিল আমি আবারও এই ভালো ছেলে দেখতে চাই।,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"":""sports"",""sentiment"":""positive""}",,1,1,1
+2017,এ অবিচার কে শুধরে নিতে আগামী বিশ্বকাপে আর্জেন্টিনাকে সরাসরি ফাইনালে খেলানো হোক,sports,positive,sports,negative,sports,positive,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,0,0
+1833,বর্তমান আর্জেন্টিনা দল মেসি ছাড়া যে টুর্নামেন্ট খেলবে সেটাতেই চ্যাম্পিয়ন হবে।,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"":""sports"",""sentiment"":""positive""}",,1,1,1
+4235,তাই এখন ভালো দল সেজেছে।,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+6803,বিপিএলের সেরা খেলা এটা।,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+8023,"ভাগ্য ভালো ছিল, রান পেয়েছি।",sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+3107,মেসি সর্বকালের সেরা ফুটবলার,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+4788,প্রতি ম্যাচ জয়ের পর ভাল লাগে,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+6398,"মেসি, রোনালদো থেকে জিরোড সেরা",sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+2000,বার্সেলোনা ওয়াল্ডকাপ জিতবে এইবার,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+285,আজকে জিম্বাবুয়ে অনেক ভালো খেলেছে,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+5291,সত্যি অসাধারণ একটা ইনিংস খেলা হইছে...,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+1075,সারা রাত জেগে খেলা দেখার নামই ভালবাসা।,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+1227,সাকিব ভাই আর যাই হোক ভালোবাসা রইলো ভাই,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+7474,ম্যাশের অসাধারণ বোলিং ফিল্ডিং খুব ভালো ছিলো,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+181,সাকিব আল হাসান থাকলে আরো অনেক ভালো কিছু হতো।,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+2347,"ভাই ইজিলি নেন, বার্সা খুব সহজেই এই ম্যাচ জিতবে।",sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+7341,২-১ গোল এ জিতবো ম্যাচের প্রথম দশ মিনিটের মধ্যেই,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+1787,জিতি বা না জিতি এইযে আপনি মাঠে খেলেন এইটাই শান্তি।,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+802,একমাত্র মেসি বনাম রোনালদোর ২০০৯ ফাইনালে মেসি জিতলো।,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"":""sports"",""sentiment"":""positive""}",,1,1,1
+4035,"বিশ্বের নাম্বার ওয়ান অলরাউন্ডার, শান্তিতে নোবেল জয়ী।",sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+1900,"তাই দল বদল করে কাপ জিতে নাও, তুমি কাপের অবশ্যই প্রাপ্য",sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+7896,এর জন্যই আপনাকে মাঠে দেখলেই মনে হয় আজ খেলাটা জিতে যাবো।,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,1,1
+5377,মেসি রোনালদো ২ জনই অসাধারণ যাদের সাথে তুলনা চলে না কারও।,sports,positive,sports,positive,sports,positive,sports,positive,200,"{""aspect"":""sports"",""sentiment"":""positive""}",,1,1,1
+7730,আলহামদুলিল্লাহ্‌ ভালো হয়েছে,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+7627,দোয়া করি আল্লাহ পাক ভালো রাখে,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+1429,মাশা~আল্লাহ্ চমৎকার ভালো লাগছে,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+6639,আলহামদুলিল্লাহ্‌ খুব ভালো লাগলো,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+4913,আলহামদুলিল্লাহ্‌ শুনে ভালো লাগলো,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+1846,কোরআন শ্রেষ্ঠ ইসলাম শ্রেষ্ঠ আলহামদুলিল্লাহ আমরা মুসলিম।,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+1671,আল্লাহ যানি ভালো রাখে এই দোয়া করি আমিন ভালো থাকবেন আপনারা,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+2922,ডাঃ নায়েক মুসলিম মিল্লাত এর জন্য আল্লাহর বিশেষ নেয়ামত আলহামদুলিল্লাহ্‌,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+7619,জনপ্রিয় ক্বারী সাইফুল ইসলাম পারভেজ যার কুরআন তেলাওয়াত রমজান মাসে না শুনলে রূদয় শীতল হয়,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+2420,"আল্লাহর রাসুল সঃ ও তার সাহাবীগণের দাওয়াতে অসংখ্য অমুসলিম ব্যক্তি ইসলাম গ্রহন করেছেন, আর ডাঃ জাকির নায়েকের দাওয়াতের উসিলায় বহু অমুসলিম ব্যক্তি ইসলাম গ্রহন করেছেন, মাশায়াল্লাহ !!",religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"":""religion"",""sentiment"":""positive""}",,1,1,1
+5603,মুসলিম অবশ্যই জিতবে,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+4899,আল্লাহ তার ভালো করবে,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+7650,মাশাআল্লাহ খুব সুন্দর,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+8513,মাশা আল্লাহ ভালো হয়েছে,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+1175,মাশাআল্লাহ অনেক সুন্দর,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+3506,আলহামদুলিল্লাহ্ অনেক খুশি,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+8217,মাশাআল্লাহ আলহামদুলিল্লাহ,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+3534,মাশাআল্লাহ অনেক সুন্দর কথা,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+6748,আল্লাহ তোমাকে ওনেক ভালোভাসি,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+5559,মাশাআল্লাহ খুব সুন্দর প্রশ্ন,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+8253,মাশাআল্লাহ অনেক সুন্দর লেকচার,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+4562,আল্লাহ জাকরেন ভালোর জন্য করেন।,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+1632,কোরআন পড়তে ভালো লাগে এবং পরিও,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+8360,আলহামদুলিল্লাহ্‌ শুনে ভাল লাগলো,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+4941,"সত্যিই ভালো লাগলো, আলহামদুলিল্লাহ",religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+5843,আলহামদুলিল্লাহ্ শুকরিয়া মহান আল্লাহর,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+3417,আল্লাহ্ যা করেন ভালোর জন্য করেন আমিন ।,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+1531,আল্লাহ যেন তাদের তিন জনকে ভালোরাখন আমিন,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+4198,আল্লাহ পাক যেন পাকিস্তানকে জয়ী করেন আমিন,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+3003,মাশাআল্লাহ অনেক সুন্দর ভাবেই শুনতে পারছি,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+3933,আলহামদুলিল্লাহ হিন্দুর মুখে আল্লাহর নাম।,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+8198,খুশির ঈদে যা খুশী করছে শান্তির ধর্মীর লোকজন,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+4361,এ জোগের সেরা ভালো মানুষ ডাক্তার জাকির নায়েক স্যার,religion,positive,other,positive,religion,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,0,1,0
+1706,আসসালামুয়ালাইকুম আপনার কথা শুনে অনেক ভালো লাগলো ধন্যবাদ,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+8374,উনার কারনে আমরা ইসলাম সম্পর্কে আরো ভালোভাবে জানতে পারছি।,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+829,"আল্লাহু তাকে ভালো রাখুক,আমাদেরকে দিনের পথে চলার তোফিক দান করুক।",religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+447,"মাশাআল্লাহ অনেক সুন্দর, আল্লাহুম্মা আমিন,পড় পড় করে, সাউন্ড কম আসে",religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+8603,আলহামদুলিল্লাহ আল্লাহ পাক যেটা করবেন ইনশাআল্লাহ সেই বান্দার ভালর জন্যই করবেন,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+2763,আসসালামুয়ালাইকুম হুযুর নামাজে হাত কোথায় বাধবো এর সম্পর্কে কিছু বললে ভালো হতো,religion,positive,religion,neutral,religion,positive,religion,neutral,200,"{""aspect"":""religion"",""sentiment"":""neutral""}",,1,0,0
+8509,"মাশাআল্লাহ খুব সুন্দর আলোচনা, সম্মানিত ডাঃ জাকির নায়েক কে জানাই আন্তরিক মুবারকবাদ।",religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+817,আল্লাহ আমাদে সেই ভাবে রোজা রাখার তওফিক দান কর যে ভাবে এবাদাত করলে আল্লাহ এবং রাসূল খুশি হন,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+880,আল্লাহ আমার এই প্রিয় মানুষটিকে ভালো রাখুন।,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+5341,"আল্লাহ আপনার ভালো করুক,আমার জন্য দোয়া করবেন।",religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+2657,আল্লাহু আকবর। একজন হিন্দু এই মাত্র মুসলিম হয়ে গেল।,religion,positive,religion,negative,religion,positive,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,0,0
+5976,হিন্দুধর্মের পবিত্র ধর্ম গ্রন্থে নবী মোহাম্মদ সঃ সম্পর্কে কি কি বলা হয়েছে এবং কেন ইসলাম ধর্ম,religion,positive,religion,neutral,religion,positive,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,0,0
+6462,মুসলিম মাত্রই আমরা জানি যে ইসলাম ধর্মের অন্যতম গুরুত্বপূর্ন স্তম্ভ হলো নামাজ পড়া ও কায়েম করা। কিন্তু,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+614,আল্লাহ ভাল জানেন,religion,positive,religion,neutral,religion,positive,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,0,0
+992,ইসলাম শান্তির ধর্ম!!,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+4302,মক্কা থেকে মাশাআল্লাহ,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+5915,আাপনার ওয়াজ ওনেক ভালো,religion,positive,other,positive,religion,positive,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,0,1,0
+571,সত্যি ইসলাম খুব সুন্দর,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+8492,"মাশা আল্লাহ্, অসাধারণ!",religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+313,আল হামদুলিল্লাহ্‌ ভালো,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+6671,আল্লামা সাঈদীকে ভালবাসি,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"":""religion"",""sentiment"":""positive""}",,1,1,1
+8541,ভাই ভাল করে আগে হাদিস পর,religion,positive,religion,neutral,religion,positive,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,0,0
+2779,আলহামদুলিল্লাহ খুব সুন্দর,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+8960,আলহামদুলিল্লাহ চমৎকার এপস,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+3769,আলহামদুল্লিলাহ ভালো লাগছে,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+7115,আযান শুনে অনেক ভালো লাগলো।,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+3554,মাশাল্লাহ ধন্যবাদ অভিনন্দন,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+702,আলহামদুলিল্লাহ আল্লাহ আকবর,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+2969,এখন বোজা যাইতেছে মাশাআল্লাহ,religion,positive,religion,positive,religion,positive,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,1,1
+3,আওয়ামীলীগের নোংরা রাজনীতির তীব্র নিন্দা জানাই।,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+5891,"এতিমের টাকা চোর, দুর্নীতিতে চ্যাম্পিয়ন বিএনপি জামাতকে বর্জন করুন",politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+7578,নাইকো দুর্নীতি মামলার শুনানি শেষে ফের কারাগারে পাঠানো হয়েছে বিএনপি চেয়ারপারসন ও সাবেক প্রধানমন্ত্রী খালেদা জিয়াকে।,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+2850,আওয়ামীলীগ চোর ভোট চোর,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+6336,আওয়ামী লীগের রাজনীতি সম্পূর্ণরূপে মিথ্যা,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+5182,বিএনপি ও জামায়াত মারার নির্দেশ দিলেন সরাসরি।,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+5465,প্রতারণার নির্বাচন কমিশনার তোমার প্রতি ধিক্কার জানাই ছি ছি ছ।,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+4940,তারেকের বন্ধু বান্ধবদের লাগামহীন দুর্নীতির জন্যই দেশের মানুষ বিএনপির উপর ক্ষুদ্ধ হয়ে উঠেছিল,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"":""politics"",""sentiment"":""negative""}",,1,1,1
+4802,পুলিশ আসলে কার আওয়ামী লীগের নাকি দেশের???,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+6878,আওয়ামীলীগের ফেলা দেওয়া আবর্জনাগুলো বিএনপির বড় নেতা।,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+2149,"নির্বাচন কমিশন কি বাংলাদেশের জনগনের, নাকি আওয়ামীলীগের?",politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+1990,ড.কামাল কোন বালের নেতা যে আওয়ামীলীগকে ক ক্ষমতা ছাড়া করবে।,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+1989,"আওয়ামীলীগ চায় না কখনো বাংলাদেশে একটা সুষ্ট নির্বাচন হোক ,",politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+6649,বিএনপি নেতা কর্মি কে মামলা দেওয়ার জন্য এই টা করেছে আওয়ামীলীগ,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+1865,"নিরপেক্ষ সরকারের দাবী আদায় না করে নির্বাচনে গেলে, আওয়ামীলীগ কলা খাওয়াবে।",politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+3815,ভারতের ক্ষমতাসীন ভারতীয় জনতা পার্টির(বিজেপি) শাসনামলে দেশজুড়ে অশুভ সংকেত দেখতে পাচ্ছেন পশ্চিমবঙ্গের মুখ্যমন্ত্রী মমতা ব্যানার্জি।,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"":""politics"",""sentiment"":""negative""}",,1,1,1
+2191,ছাত্রলীগ নেতা দেবাশীষ দাশ ও তার ক্যাডার বাহিনীর হাতে জিম্মি হয়ে পড়েছে রাজধানীর শেরেবাংলা কৃষি বিশ্ববিদ্যালয়ের শিক্ষার্থী ও প্রশাসন,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"":""politics"",""sentiment"":""negative""}",,1,1,1
+1290,আঃলীগের এটা নোংরা রাজনীতি,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+1031,আওয়ামী লীগ জনগণ কে ভয় পাই,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+5162,কিসের বাসন আমার ভোট চোরি করে,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+7775,আওয়ামীলীগের মাথা খারাপ হয়ে গেছে,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+3090,বাংলাদেশে চলে রাজনীতির নামে নোংরামি,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+638,আর হাজারটা মিথ্যা বললে হয় আওয়ামীলীগ।,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+7552,এই আওয়ামীলীগদের চেহারা এত ভয়ংকর হয় কেন,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+5154,"আওয়ামীলীগ একটা নোংরা কাজ করেছে,,,,,,,।",politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+3100,হাসু মার্কা নির্বাচন দেশের মানুষ চায়না।,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+891,তাহলে কি তোমার বাপ ছিল সংবিধান প্রনেতা?,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+5294,আওয়ামীলীগ কে আন্দোলনের ভয় দেখিয়ে লাভ নেই,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+5148,ধিক্কার আমাদের দেশের ক্ষমতালোভী স্বৈরাচারদের।,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+8292,কারণ তারা আওয়ামীলীগের নোংরা ফাঁদে পা দিচ্ছে না,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+468,উনিও ভাবতেপারেনাই আওয়ামীলীগ এত ভয়ংকর তাই অভীভুত!,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+2659,ধিক্কার জানাই তাদের যারা মানুষ হত্যার রাজনীতি করে।,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+6600,"বিএনপি আর নির্বাচনে এসেই কী করবে, একদিনতো মরেই যাবে।",politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+1443,"এই সব ন্যাংটাদের এমপি করে,আজ আ,লীগের নেতারা মার খাচেছ",politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+1049,বিএনপির লজ্জা হওয়া উচিত ভোটার হীন কামালের কাধে ভর করছে।,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+8352,"মাল কাকা,,আওয়ামীলীগের বদনামের বহুলাংশে দ্বায়ী তোমার মুখ",politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+567,৫ জানুয়ারির নির্বাচনে গণতন্ত্র এবং গণহত্যায় ছিলো এই পুলিশ।,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+4356,রাজনীতিতে নোংরা ইতিহাস সৃষ্টিকারী হিসেবে অাওয়ামিলীগ সবার শীর্ষে।,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+197,"আপনারা তো অবৈধ, আপনারা কি সংবিদানিক,চোরের মার বড় গলা,শালা ভোট চোর,",politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+7793,২/৪ টা গাড়ী ভাংবে আর আওয়ামীলীগ বাসে পেট্রোল বোমা মেরে মানুষ পুড়িয়ে মারবে,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+1570,"তোমাদের কে কোন হালায় বলে সংবিধানের বাহিরের যাইতে, তোমার দেশের বাইরে কবে যাইবে সেটা বলো ,,",politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+8335,১৯৭৫ সালের ১৫ আগস্ট বাংলাদেশের প্রতিষ্ঠাতা রাষ্ট্রপতি শেখ মুজিবুর রহমানকে সপরিবারে হত্যা করা হয়।,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"":""politics"",""sentiment"":""negative""}",,1,1,1
+4904,বি এম পি চেয়ার পার্সন বেগম খালেদা জীয়া বা তার পরিবারকে মারার পরিকল্পনা চলছে আমিলীগের নেতা কর্মির মধ্যে,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"":""politics"",""sentiment"":""negative""}",,1,1,1
+3845,"সব সালা চোরের দল,জামাত আরো বাশি,পুটকিতে লাত্থি মার আমরা বাংলাদেশি।",politics,negative,other,negative,politics,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,0,1,0
+455,ক্ষমতার আওয়ামী লীগ ছাড়বে না,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+2113,পুলিশ সব আওয়ামী লীগের সাজানো,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+6677,আওয়ামীলীগ সরকারের সব কটা পাগল,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+4036,আওয়ামীলীগ জামাতকে নিষিদ্ধ করবেনা,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+8208,পুলিশ আওয়ামী লীগের একমাত্র ভরসা।,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+5155,ভোট চুরি করা আওয়ামীলীগ কি মানবে না,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+1122,আওয়ামী লীগের অধীনে জনগণ ভোট দিতে পারে নি,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+3793,কেনো না আমাদের দেশের প্রধানমন্ত্রী নমরুদ,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+2041,নির্বাচন সামনে আওয়ামীলীগের নতুন গেইম শুরু,politics,negative,politics,neutral,politics,negative,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,0,0
+5837,মন্ত্রীরা সরকারি নেতা এদের কোন শাস্তি নাই।,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+978,"আর জংগী আওয়ামীলীগ দেশ ছেডে পালানো মুখী...""",politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+4006,হায় হায় হায় সে কি বলে পুলিশ নাকি আওয়ামী লীগ,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+7511,নির্বাচনের আগে প্রশাসনকে একটু ঘুষ দেওয়া আরকি।,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+4582,আওয়ামীলীগের হাতে দেশ ও দেশের মানুষ নিরাপদ নয়।,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+3828,বাংলাদেশকে সিকিম বানাতে মরিয়া আওয়ামী হাছিনালীগ।,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+3425,"আওয়ামী লীগের আবাল কোথাকার, পুলিশ ছাড়া মাঠে আছিস",politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+2538,"ব্রাশ ফায়ার করে হলেও, আওয়ামীলীগ ক্ষমতা ধরে রাখবে!",politics,negative,politics,positive,politics,negative,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,0,0
+4547,আওয়ামীলীগ থেকে রাজনীতি শিখে তারপর আন্দোলনে আসবেন।,politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+1724,"শুধু নির্বাচনকমিশনলীগ নয়, পুলিশলীগ ও হুমকি দিচ্ছে।",politics,negative,politics,negative,politics,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,1,1
+8897,"সারাবছর এরা খেলা দেখে না,বিশ্বকাপের সময় এরা খুব বড় ফুটবল বিশ্লেষক হয়ে যায়",sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"":""sports"",""sentiment"":""negative""}",,1,1,1
+3672,খেলায় জয়লাভ নাকরে বিশ্বকাপ না নেয়ার ব্যর্থতা এটা মেসির এখানে ফুটবল কিভাবে অবিচার করলো?,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+3638,"ভাই আমি জার্মানি ফ্যান গোটেজ যখন গোলটা দিল কি যে অনুভূতি পরে অবশ্য মেসির জন্য খারাপ লাগছিলো, কিন্তু এটাই ফুটবল",sports,negative,sports,neutral,sports,negative,sports,neutral,200,"{""aspect"":""sports"",""sentiment"":""neutral""}",,1,0,0
+4723,ক্রিকেট কে প্রাধান্য দিতে গিয়ে ফুটবল সহ অন্যান্য খেলায় আমরা বেশ পিছিয়ে পড়ছি ৷,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+839,"চারটা বিশ্বকাপে খেলেছে, নক আউট পর্বে গিয়ে এখন পর্যন্ত একটা গোল পর্যন্ত দিতে পারে নাই।",sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+4231,আপনারা সবাই ক্রিকেট খেলা বর্জন করুন খেলোয়ার সবগুলোর দায়িত্ব ঐক্যবদ্ধভাবে সাকিবের সাথে থাকা,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+2863,যেহেতু অবিচার হয়েছে  একটি বিশ্বকাপ বানিয়ে মেসির বিদায়ী ম্যাচে সেটি উপহার হিসেবে দিতে পারে - তুমি পারোনি তাই বলে আমরা দিবনা,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+1179,খেলোয়াড়ের ছদ্মবেশে অবিশ্বাস্য প্রতারণা,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+659,লাভ ইউ তুমি না থাকলে আমার খেলা দেখা হয়না,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+5549,তখন নেইমার নামে একজন ছিল যে খেলা পারে না,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"":""sports"",""sentiment"":""negative""}",,1,1,1
+3145,‘ঢাকা টেস্টে আমার খেলার সম্ভাবনা খুব সামান্য’,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+6522,"গাড় মারামারি শুরু,গুনে দেখেন ভাই কয়টা ম্যাচ খেলছে সে।",sports,negative,sports,neutral,sports,negative,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,0,0
+5072,এই সিজনের বাকি ম্যাচ গুলা খেলতে পারা নিয়ে আমার শংকা আছে।,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+8445,"শের খেলা হোক আর বিপিএল, তুমি না থাকলে আমার খেলা দেখা হয়না",sports,negative,sports,positive,sports,negative,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,0,0
+8118,জিম্বাবুয়ে ক্রিকেট বিশ্বের মধ্যে সবচেয়ে খারাপ দল বললেই চলে।,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"":""sports"",""sentiment"":""negative""}",,1,1,1
+4011,"বার্সার বিপহ্মে কোন দল সেটার দেখার বিষয় নয়, আমাদের মেসি আছে, আমরা হতাশ হবো",sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+344,"মেসি সমর্থক হয়েও দ্বীমত পোষণ করছি,কারন ফুটবল ইতিহাসের সেরা খেলোয়াড় মেসির পরেই এই রোনালদো",sports,negative,sports,neutral,sports,negative,sports,neutral,200,"{""aspect"":""sports"",""sentiment"":""neutral""}",,1,0,0
+3301,"এইসব কত নতুন নেইমার, নতুন মেসি, নতুন রোনালদো আসলো গেলে, শেষ পর্যন্ত কাউকেই খুজে পাওয়া গেল না।",sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"":""sports"",""sentiment"":""negative""}",,1,1,1
+1014,নেইমারের বার্সার হয়ে কখনোই খেলা হবে না সেটা সে আসতে না চাওয়া বা বোর্ড তাকে আনতে নারাজ যাই হোক।,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+61,"পাপ‌নের কোন অ‌ধিকার নাই ষরযন্ত্র ‌করে বাংল‌া‌দে‌শের ক্রি‌কেটার ও ‌ক্রি‌কেট‌ খেলা‌কে ধ্বংস করার, এ",sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+2359,"বর্তমান বার্সার প্লেয়ার রা খারাপ,কিন্তু তারা কেও নিজে গুল করতে চেস্টা করেনা,সবাই মেসির দিকে চেয়ে থাকে,সবাই যে সুজুগ পাই সে যদি গুল করতে ট্রাই করে তাহলে বার্সা কে হারানোর মত নেই",sports,negative,sports,positive,sports,negative,sports,positive,200,"{""aspect"":""sports"",""sentiment"":""positive""}",,1,0,0
+6693,"আমি ব্রাজিল সাপোর্টার, বাট মেসির জন্য আসলেই অনেক খারাপ লাগে....তারমত একটা প্লেয়ার এতগুলো ফাইনাল খেলেও ট্রফি জিততে না পারাটা দুঃখজনক বটে.....",sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"":""sports"",""sentiment"":""negative""}",,1,1,1
+4524,"সাকিব ভাই নাই,তাই খেলা ও দেখিনা।",sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+2165,আবার বিশ্বকাপ না জেতা ফুটবলের অবিচার!!!!,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+4503,বিশ্বকাপ না জেতা ফুটবলের জন্য একটি অপমানের কথা,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+5854,এই জন্য বিশ্ব থেকে ফুটবল খেলাকে ব্যান করে দেয়া হউক...,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+6976,আগের সময়ে যারা ক্রিকেট খেলায় এসেছে তারাতো এরকম ছিল না,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+5012,তেমনি মেসিকে একটি বিশেষ বিশ্বকাপ প্রদান করা হলে মন্দ হতো,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"":""sports"",""sentiment"":""negative""}",,1,1,1
+4343,সাকিব আল হাসানের পোষ্টে অন্য খেলোয়াড়ের ছবি মেনে নিতে কষ্ট হয়।,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+1215,"মেসির বিশ্বকাপের দরকার নেই,সে নিজেই একটা জীবিত জান্ত বিশ্বকাপ।",sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"":""sports"",""sentiment"":""negative""}",,1,1,1
+3709,"প্রথম আলো মেসি এবং আরজেন্টটিনার জাত গোলাম,এটা ফুটবলের জন্য অবিচার।",sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+29,"মেসির বিশ্বকাপ লাগবে না,  কোন পরিসংখ্যানের দিকে চোখ দেওয়ার দরকার নেই,,",sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+5900,তাহলে শুধু মেসির জন্য একটা আলাদা বিশ্বকাপ তৈরি করা উচিত তা ছাড়া সম্ভব নয়,sports,negative,sports,positive,sports,negative,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,0,0
+2935,এই যুগে লিওনেল মেসি এবং ক্রিশ্চিয়ানো রোনালদোর ধারে কাছেও কোনো ফুটবলার নেই।,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+3901,"মানে একাধারে রোনালদো, ব্রাজিল, পরতুগাল,পিএসজি করে তাদের কাছে রোনাল্ডো খেলা পারেনা।",sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+4729,"যে দলের সমর্থকরা মাদকাসক্তিতে আসক্ত  তাদের দ্বারা আর কি আশা করা যায়,বিশ্বকাপ তো দূরের কথা।",sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+1184,দেম্বেলে যদি দুই পায়ে খেলতে পারত তবে চ্যাম্পিয়নস লিগে লিভারপুলের সাথে ফাস্ট লেগে ইজি গোল মিস করত না,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"":""sports"",""sentiment"":""negative""}",,1,1,1
+7410,২০১১ তে যখন আপনাকে (ম্যাশ) বিশ্বকাপ স্কোয়াডে রাখেনি তখন আপনার দুচোখ ভেজা কান্না ক্রিকেট বিশ্ব বুলেনি।,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"":""sports"",""sentiment"":""negative""}",,1,1,1
+6347,ফুটবল খেলা এমন না যে কেউ এক টিম বা ফুটবলারের ফ্যান হলে ঐ টিম বা ফুটবলারের সমতুল্য অন্য টিম বা ফুটবলারদের বিরোধিতা করা লাগবে…,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"":""sports"",""sentiment"":""negative""}",,1,1,1
+3083,"বিশ্বকাপ অর্জনের বিষয়। দানের বিষয় নয়, এটা নিতে হলে দলীয় পারফরম্যান্স লাগে, একক পারফরম্যান্স দিয়ে আর যাই হোক বিশ্বকাপ জেতা যায়না",sports,negative,sports,positive,sports,negative,sports,positive,200,"{""aspect"":""sports"",""sentiment"":""positive""}",,1,0,0
+3985,"যারা এই পোস্টে হাহা রিয়েক্ট দিচ্ছেন বা তাচ্ছিল্যের সাথে কমেন্ট করছেন, তাদের সম্পর্কে একটা কথাই বলা যায়: তারা ফুটবল খেলা বোঝে না।",sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"":""sports"",""sentiment"":""negative""}",,1,1,1
+1315,"আইপিএলে ম্যাচ ফিক্সিয়ের সাথে জড়িত থাকার পরেও ধোনী আর অন্যান্য খেলোয়াড়দের যখন কোনো শাস্তি দেয়া হয়নি, সেখান থেকেই বোঝা যায় আইন সবার জন্য সমান না।",sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"":""sports"",""sentiment"":""negative""}",,1,1,1
+96,নেইমার আর দলে কেউ চাইনা।,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+7064,সাকিব ভুল করেছে তবে অন্যায়ের সাথে আপোষ করেননি!,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+1998,"সাকিব এই সুযোগ তোমার হাতছাড়া, সেঞ্চুরি করার অমায়িক সুযোগ",sports,negative,sports,positive,sports,negative,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,0,0
+8359,এই বেহায়া এদমিন এর লজ্জা নেই মেসির গুনিয়ে পড়ে আছে সারাদিন,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+5368,অন্তত নিজের ক্যারিয়ারের শেষ সময়টা বাজে ভাবে কাটাতে হবে মেসিকে,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+1934,সাকিবের বিরুদ্ধে যেটা হয়েছে সেইটা চরম অন্যায় ও ষড়যন্ত্রের শিকার ।,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+5348,লোকমানের মতো জুয়ারি ভরে সার্থ আদায় করে ক্রিকেট টা কে ধ্বংস করে দিবে৷।,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+2749,"সাকিবের চুরির প্রতি সমর্থণ আরো বেশি হতাশায় ফেলেছে জাতীকে, তার জায়গা হলে আশরাফুল কি দোষ করেছে??",sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+7630,আমরা রংপুর রাইডারর্স এর ফ্যান বলে রংপুর কি প্রতি ম্যাচে আমাদেরকে এইভাবে হার্ট এ্যাটাক দিয়ে দিয়ে মারবে নাকি??,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"":""sports"",""sentiment"":""negative""}",,1,1,1
+3591,"স্মিথ, ওর্য়ানার বল টেম্পারিং এর মত মারাত্মক অপরাধ(যা দিনে দুপুরে চুরির সমান) করে মাত্র ১ম্যাচ নিষেধাজ্ঞা পায়,",sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"":""sports"",""sentiment"":""negative""}",,1,1,1
+644,"গত মার্চে বল টেম্পারিং-কাণ্ডে স্টিভ স্মিথ, ডেভিড ওয়ার্নার ও ক্যামেরন ব্যানক্রফট নিষিদ্ধ হওয়ার পর থেকেই টালমাটাল অস্ট্রেলিয়ার ক্রিকেট",sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"":""sports"",""sentiment"":""negative""}",,1,1,1
+1658,এক অবলা খেলোয়াড় তিনি যা তিনি আর্জেন্টিনা দলে প্রমাণিত করেছেন বহুবার বার্সা ছাড়া যার কোন অস্তিত্ব নেই তিনি আবার বিশ্ব সেরা খেলোয়ার হয় কি করে আর্জেন্টিনা ভক্তরা বলে মেসি বা…,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"":""sports"",""sentiment"":""negative""}",,1,1,1
+1563,"নিজের ভুল এবং শাস্তির বিষয়ে আইসিসির ওয়েবসাইটকে সাকিব বলেন, আমার ভালোবাসার খেলাটি থেকে নিষিদ্ধ হওয়ায় আমি অত্যন্ত বিষণ্ণ",sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"":""sports"",""sentiment"":""negative""}",,1,1,1
+1312,"অনেক কষ্ট হবে খেলা দেখতে, মনের মধ্যে শূন্যতা অনুভব হচ্ছে, মনে হচ্ছে বাংলাদেশ দল সত্যিকারের একজন অভিভাবককে হারাতে যাচ্ছে।",sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"":""sports"",""sentiment"":""negative""}",,1,1,1
+5951,এখন পর্যন্ত দেশের হয়ে কোন চায়ের কাপ জিততে পারে নাই আর রোনালদো নামের ত কোন ফুটবল খেলোয়াড় ই নাই!,sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+5998,"আমরা জাতি হিসেবে দুর্ভাগা যে জাতি গুণীদের কদর করতে জানি না, দুঃখিত, সাকিব আল হাসান; তোমার দুর্ভাগ্য তুমি এদেশে জন্মগ্রহণ করেছ",sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"":""sports"",""sentiment"":""negative""}",,1,1,1
+4909,"এটা বিশ্বকাপের ব্যর্থতা,",sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+6129,খেলা দেখি নাহ তোমাকে ছাড়া,sports,negative,sports,positive,sports,negative,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,0,0
+2317,এই কয়দিন টেস্ট খেলা দেখিনি ।,sports,negative,sports,neutral,sports,negative,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,0,0
+1150,"খেলার মাঠে সব সময় মিস করব,,,",sports,negative,sports,negative,sports,negative,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,1,1
+5202,দাদা তোমাকে ছাড়া খেলা জমে না,sports,negative,other,positive,sports,negative,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,0,0,0
+8204,এরা ভন্ড প্রতারক,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+7040,"দেখে আমার ও খারাপ লাগছিলো,,,,",other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+6765,ভাই আমার মনটা আজ খুবই খারাপ ছিল,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+1258,"চোরের জন্য মুক্তি চাইতে লজ্জা করে তাই,,",other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+8946,"তার মরেযাওয়া,উচিত,লজ্জাশরম বলতে কিছু নেই।",other,negative,religion,negative,other,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,0,1,0
+1283,"তোদের গালি দিতে নিজেরই লজ্জা লাগে, গৃহপালিত",other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+2010,বলদ মার্কা সাংবাদিকদের একটু লজ্জা থাকা উচিত।,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+8061,আমার মনে তোর বাপ তোর মাকে বিয়ের আগে এ রকম কিছু খারাপ করেছিল,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+4206,মার শালা রে,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+7000,তুই চোর শালা,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+1675,ওরে জুতা মার,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+5078,জুতা মার ওরে,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+2075,আমি ভয় পাইছি,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+2118,সব চোর একসাথে,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+3512,তুই একটা চামার,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+7462,জুতা মারা হবে।,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+7317,আমার মনে হয় না,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+1731,দুই চোর একসাথে,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+2421,সফী যে বেইমান।,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+5805,তিনি -বাজে লোক,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+1480,সব মিথ্যা কথা.,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+3175,জুতা মার হালারে,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"":""other"",""sentiment"":""negative""}",,1,1,1
+251,"ভয় পাইছে, হি হি",other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+5971,এটা খুবই অন্যায়,other,negative,politics,negative,other,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,0,1,0
+8593,তার চাইতেও জঘন্য,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+5860,সব চোর এক হয়েছে।,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+4134,তোরা চোরের গুষ্ঠি,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"":""other"",""sentiment"":""negative""}",,1,1,1
+1777,জুতামারেন হানিফকে,other,negative,other,neutral,other,negative,other,neutral,200,"{""aspect"": ""other"", ""sentiment"": ""neutral""}",,1,0,0
+7699,তর মুখে জুতা মারি,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"":""other"",""sentiment"":""negative""}",,1,1,1
+8101,"মানুষ মারার ধারা,",other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+6038,তোরা পুরাই বেইমান,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+114,"মিথ্যা বাদি,সয়তান",other,negative,religion,negative,other,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,0,1,0
+3529,মিথ্যা সংবাদ এটি.,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+8717,মামার বাড়ির আবদার,other,negative,other,neutral,other,negative,other,neutral,200,"{""aspect"": ""other"", ""sentiment"": ""neutral""}",,1,0,0
+3256,চোরের মুখে বড় গলা,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"":""other"",""sentiment"":""negative""}",,1,1,1
+2186,মিথ্যাচার জালিয়াতি,other,negative,politics,negative,other,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,0,1,0
+6459,এ তো লজ্জা! লজ্জা!,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+7496,তীব্র নিন্দা জানাই,other,negative,politics,negative,other,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,0,1,0
+7375,পুরাই বাজে পত্রিকা,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+1196,এসবের নিন্দা জানাই,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+257,তিব্র নিন্দা জানাই,other,negative,politics,negative,other,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,0,1,0
+3920,দুটো মহিলাই খারাপ।,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+6789,ধিক্কার জানাই তোদের,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+4473,তিব্র নিন্দা জানাই।,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+9009,ট্রস ট্রস করে মারবো,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+6824,লাথি মারি তোর মুখে!,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"":""other"",""sentiment"":""negative""}",,1,1,1
+2368,তুই একটা মিথ্যাবাদি,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+8453,সম্পূর্ণ মিথ্যা কথা,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+5552,লাথি মারো নৌকার উপার,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+4763,অত্যন্ত দুঃখ জনক খবর,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+2886,তাকে জুতা মারা উচিৎ।,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+1596,এটা ডাহা মিথ্যা কথা।,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+8488,এক নামবার মিথ্যাবাদি,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+6690,জুতা মার শালা কুত্তা,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"":""other"",""sentiment"":""negative""}",,1,1,1
+7353,ভারতকে ধ্বংস করে দাও,other,negative,politics,negative,other,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,0,1,0
+666,তোমাদের লজ্জা নাইতো !,other,negative,politics,negative,other,negative,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,0,1,0
+3061,বাপরে চরম ভয় পাইছি...,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+7315,"মাথায় নষ্ট,আমারে ধরো।",other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+1851,সামনে আর ভয়াবহ অবস্থা,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+6397,ওর হোগার উপরে লাতিমার,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+972,এসব মন খারাপ করা খবর।,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+5218,চোরের মায়ের বড় গলা!!!!,other,negative,other,negative,other,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,1,1
+8685,ইসলাম ধর্মের পরে এবারে হিন্দু ধর্মের গ্রন্থগুলোতে ছড়িয়ে ছিটিয়ে থাকা অসংখ্য অমানবিক বর্বর এবং নোংরা সব প্রথা,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"":""religion"",""sentiment"":""negative""}",,1,1,1
+800,হিন্দু ভাইয়েরা তোদের দেখে দুঃখ হয়রে..তোরাকে গীতা ও বেদ পড়তেও দিবেনা আর তোরা গীতা ও বেদের ভিতরে আসল কী আছে তোরা জানতেও পারবিনা...,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"":""religion"",""sentiment"":""negative""}",,1,1,1
+2486,তোদের হিন্দু ধর্মকে আমরা ঘৃণা করিনা কিন্তু তোদের কার্যকলাপকে ঘৃণা করি. কারন ইসলাম কোনোদিনই অন্য কোনো ধর্মকে অসম্মান করতে শেখাইনি শুধু তর্কের খাতিরে এগুলি বললাম,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"":""religion"",""sentiment"":""negative""}",,1,1,1
+8864,"হিন্দুপ্রদান দেশে দাড়িয়ে কোরআনের আইনের কথা বলার সাহস পৃথিবীর কোন মুখোসধারি আলেমদের বা ভন্ডপীরদের বলা সম্ভব হবেনা আমার বিশ্বাস, জাজাকাল্লাহ",religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"":""religion"",""sentiment"":""negative""}",,1,1,1
+1799,ইসলামে তো অমুসলিমের সাথে বন্ধুত্ব করা বিলকুল হারাম বলেছে!!,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+6891,ইসলামিক রোজার উপকারিতার নাম করে মুসলিমদের করা অপপ্রচারের জবাব নিচের প্রবন্ধে পাবেন,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+5075,এটা যদিও সহি হাদিসে নেই কিন্তুু যদি মুসলিমরা সব এক জায়গায় হয়ে নফল ইবাদতে মাধ্যমে দোয়া করি তাহলে কি বিদায়াত হবে,religion,negative,religion,neutral,religion,negative,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,0,0
+7709,ইসলামের দৃষ্টিতে সকল অন্যায়,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+4604,সবচেয়ে নিকৃস্ট চোর সালাত চোর।,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+6997,এই অপরাধী জঘন্য মাদ্রাসা শিক্ষক,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+7603,নাস্তিকদের জন্য আমার হতাশার কারণ,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+5423,উদাহরণটা শুধু বাজে হয়নি ক্ষমার অযোগ্য।,religion,negative,other,negative,religion,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,0,1,0
+966,"আল্লাহর লানত পড়ুক মিথ্যাবাদী দের উপরে,",religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+1067,হারামি - নাস্তিক আর দালাল মিডিয়াগুলো কইরে,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+3387,"জঘন্যরকমের খারাপ জংগী, এরা মানুষ নয় অসুর।",religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+7219,আমার কিছু উদার মুসলিম নারী পুরুষের সঙ্গে কথা হয়,religion,negative,religion,neutral,religion,negative,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,0,0
+3041,তোমার কাজই শুধু ইসলাম ধর্মের পিছনে লাগিয়া থাকা।,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+8554,আল্লাহর লা নত এবারই তোমার অপেক্ষা করছে কাকু মশাই,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+7336,ইসলাম ধরমের মানুস একটু কিছু করলে তোমার এত মাতা মাতি,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+770,কিন্তু নামাজ আদায় করার বেলায় আমার কাছে সব বিরক্ত লাগে,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+5335,তুই আল্লাহকে গালি দিস তুই নাচতিক তোর ধংসের বেশি দেরি নাই,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+5418,কোরআন হাদীসে থেকে ভয় দেখিয়ে মোল্লারা এসন বানোয়াট লেখা লেখে,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+1348,আমি আজ রোজা ছিলাম কিন্তু আমার রোমমেটকে কিছুতেই বিশ্বাস করাতে পারিনি।,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+7053,কোরআনের মতো উদ্ভট মানবতাবিরোধী বই মুখস্থ করার চেষ্টা যে অত্যন্ত জঘন্য ব্যাপার,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+1490,"আমার একটা প্রশ্ন ছিল, ফারীস্ট ইসলামি লাইফ ইন্সুরেন্স কম্পানি তে যারা বিমা করে।",religion,negative,other,neutral,religion,negative,other,neutral,200,"{""aspect"": ""other"", ""sentiment"": ""neutral""}",,0,0,0
+6413,দেখোন ফিলিস্তিনি ধরা খাইছে কোথায়.আল্লাহ পাক বলেছেন তোমার ওপর বিপদ আসে তোমার কারণেই,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+216,আমার প্রশ্ন হচ্ছে কোরআন বা আরবী পড়তে না পারলে কবরের প্রশ্ন গুলোর উত্তর দেয়া যায় না,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+336,ইহুদীদের যারা হত্যা করেছে বা এখন যারা হত্যা করতে চায় তারা কেও ইসলামের বড় কোন আলেম না,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+8755,যারা নিরিহ মুসলিম দেরকে বিনা কারনে হত্যা করিতেছে ঐসব যানোয়ার গুলি কে এই বাবে মরতে হবে,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+845,মিথ্যা বাদী তোমাকে একটি প্রশ্ন করি পারলে উত্তর দাও জঙ্গি গুলো শুধু মুসলিম হয় কেন তোমাদের কি জাত ব্যবসা,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+3221,ইসলামিকভাবে জীবন শুরু করার পরে দ্বীনি ভাইদের কয়েকটি মারাত্মক পাপ যেগুলোকে পাপ বলে আমরা কেউ গুরুত্বই দেয়না। .,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"":""religion"",""sentiment"":""negative""}",,1,1,1
+7042,তারাবীহর নামাজ না পড়ে রোজা রাখল,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+5677,আসলে আল্লাহর রাসুল সঃও নিষেধ করেছেন,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+5516,আর কিছুতেই মুসলিমেরা হালাল কাজ করেনা,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+2833,আল্লাহর কোরআনকে মিথ্যে বানোয়াট বলছে,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+1399,ইসলাম অমুসলিমদের অধিকার নিশ্চিত করে না,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+698,এতো দেখি হিন্দুর কাছে নামাজ আসা করার মত,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+3589,কারন রোজা থাকা অবস্থায় যৌনকার্য করা হারাম।,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+6802,ইসলামের সাথে হিন্দু ধর্মের কোন সাদৃশ্য নেই,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+1162,অমুসলিমরা খুব দ্রুত ইসলাম বিদ্বেষী হয়ে পড়ছে।,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+925,কিন্তু ইসলামে তো ছবি আঁকা ছবি উঠানো হারাম তাহলে,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+8553,কোরআন মুখস্ত করেই তো মাদ্রাসার শিক্ষকরা ধর্ষন করছে,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+4665,"বাংলা দোয়া নামাজে করতে পারবেন না, তাহলে নামাজ হবে না।",religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+8701,ইতি পূর্বে আমি শুনেছিলাম মুসলিমরা সাধারণত ইসলামের বই পড়েনা,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"":""religion"",""sentiment"":""negative""}",,1,1,1
+4935,অমুসলিমরা ইসলামকে অবমাননা করে নিজের ধর্মকে বড় করার চেষ্ঠা করে,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+737,হিন্দুধর্ম গ্রন্থে মুর্তিপূজা নিষেধ থাকার পর ও হিন্দুরা মুর্তিপূজা করে!!,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+5031,কুরআনকে ঐশ্বরিক কিতাব বলে প্রমাণ করতে ইসলামিস্টরা মৌমাছিদেরও রেহাই দেননি।,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+6110,আপনি সবার কাছ থেকে কথা নেন যে টা কোরআন ও সহি হাদিসের সাথে মিলে সেটা রেখে দেন।,religion,negative,religion,positive,religion,negative,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,0,0
+3829,প্রতিনিয়ত মাদ্রাসা/মসজিদে বালক বলৎকার ও বালিকা ধর্ষণের ঘটনাতেও প্রমাণ পাওয়া যায়,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"":""religion"",""sentiment"":""negative""}",,1,1,1
+7555,নাস্তিকরা শুধু ইসলামের বিরুদ্ধে কথা কলবে কারন হিন্দু ধর্ম বা অন্য ধর্ম নিয়ে কথা বললে নাস্তিকদের ভক্ত কমে যাবে,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"":""religion"",""sentiment"":""negative""}",,1,1,1
+2079,কাফিরদের সাথে মুসলিম নামধারী মুনাফিক ধর্মব্যবসায়ী ও কুপমন্ডুক বেদায়াতিরা যুক্ত হয়ে ইসলামের প্রচারের গলায় রশি পরালো।,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"":""religion"",""sentiment"":""negative""}",,1,1,1
+5989,"এই মোহর মেরে দেবার ব্যাপার টা হলো শিক্ষকের অগ্রিম বলার অনুরুপ, এটা বুঝা উচিৎ অমুসলিম ভাইদের, আল্লাহ সবাইকে হেদায়েত দান করুক, আমিন।",religion,negative,religion,positive,religion,negative,religion,positive,200,"{""aspect"":""religion"",""sentiment"":""positive""}",,1,0,0
+1385,একজন নাস্তিক আমাকে প্রশ্ন করেছে কোরআনে বলা আছে আল্লাহ নিরাকার তাহলে আল্লাহ হাত পা চোখ কিভাবে আছে এই প্রশ্নের উওর যদি কারো জানা থাকে তাহলে আমাকে বলেন প্লিজ বিতর্ক চলছে নাস্তিকের সাথে.,religion,negative,religion,neutral,religion,negative,religion,neutral,200,"{""aspect"":""religion"",""sentiment"":""neutral""}",,1,0,0
+6316,তেতুল হুজুর ভন্ড।,religion,negative,other,negative,religion,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,0,1,0
+8884,মসুল মানের মরা মরে,religion,negative,other,negative,religion,negative,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,0,1,0
+2872,নাস্তিকদের গালি দেওয়া সহজ,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+2638,আহলে ভন্ড ও সহিহ গিবতকারি,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+8087,আমার কি দোষ শয়তানে করাইছে,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+5511,ও তোমার মা বোন করলে রাম রাম,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+5756,এরকম নিকৃষ্ট জঘন্য পাপে লিপ্ত,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+8875,আমি একটি ভন্ড আলেমের ছবি দিলাম,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+4254,বর্তমানে ভন্ড আলেম চেনা খুব সহজ।,religion,negative,religion,negative,religion,negative,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,1,1
+4605,কি বলবো?,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+5790,দেহি কি হয়,other,neutral,other,neutral,other,neutral,other,neutral,200,"{""aspect"": ""other"", ""sentiment"": ""neutral""}",,1,1,1
+6561,এবার কি হইল,other,neutral,other,neutral,other,neutral,other,neutral,200,"{""aspect"": ""other"", ""sentiment"": ""neutral""}",,1,1,1
+8940,কেমনে ছিলো?,other,neutral,other,neutral,other,neutral,other,neutral,200,"{""aspect"": ""other"", ""sentiment"": ""neutral""}",,1,1,1
+7814,তাল গাছ কার,other,neutral,other,neutral,other,neutral,other,neutral,200,"{""aspect"": ""other"", ""sentiment"": ""neutral""}",,1,1,1
+5784,কিছুই হবে না,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+7847,এটা কথার কথা,other,neutral,other,neutral,other,neutral,other,neutral,200,"{""aspect"": ""other"", ""sentiment"": ""neutral""}",,1,1,1
+2563,এটা জায়েজ না,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+4293,ওরে দিয়া দেন,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+1098,তো দিয়ে দাও।,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+6268,কি খবর বলেন?,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+1095,কি হল সংলাপে,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+7159,অপেক্ষা করুন।,other,neutral,other,neutral,other,neutral,other,neutral,200,"{""aspect"": ""other"", ""sentiment"": ""neutral""}",,1,1,1
+8009,পারলে কিছু কর,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+121,পাবনা চলে যান,other,neutral,other,neutral,other,neutral,other,neutral,200,"{""aspect"": ""other"", ""sentiment"": ""neutral""}",,1,1,1
+5757,কি হলো সংলাপে,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+1436,মুল ঘটনা বলুন,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+6284,ঘরে বসে থাকেন,other,neutral,other,neutral,other,neutral,other,neutral,200,"{""aspect"":""other"",""sentiment"":""neutral""}",,1,1,1
+1829,শীত সামনে হবে,other,neutral,other,neutral,other,neutral,other,neutral,200,"{""aspect"": ""other"", ""sentiment"": ""neutral""}",,1,1,1
+2684,এইটা হাইস্যকর,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+6452,আমরা আমরাই তো,other,neutral,other,positive,other,neutral,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,0,0
+1030,এসব পালের গোদা,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+2004,এক নিউজ কয় বার,other,neutral,other,neutral,other,neutral,other,neutral,200,"{""aspect"": ""other"", ""sentiment"": ""neutral""}",,1,1,1
+1113,সময়ে বুঝা যাবে,other,neutral,other,neutral,other,neutral,other,neutral,200,"{""aspect"": ""other"", ""sentiment"": ""neutral""}",,1,1,1
+2327,দিয়ে দেওয়া হোক,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+7632,দিয়ে দেয়া হউক।,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+1386,আয়ই কিয়া কইতাম,other,neutral,other,neutral,other,neutral,other,neutral,200,"{""aspect"": ""other"", ""sentiment"": ""neutral""}",,1,1,1
+582,আন্দোলন ই হবে।,other,neutral,politics,positive,other,neutral,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,0,0,0
+7509,এ ভাবে আর কতো?,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+5038,এখন যে কি হবে?,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+6768,এসব পুরাতন খবর,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+7987,এটা দরকার আছে।,other,neutral,other,positive,other,neutral,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,0,0
+1742,এটা তেলে ভেজাল।,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+6386,তাহলে ২০২৩ দিবে,other,neutral,other,neutral,other,neutral,other,neutral,200,"{""aspect"": ""other"", ""sentiment"": ""neutral""}",,1,1,1
+4680,আমরা দিয়ে দিলাম,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+3757,মাজা সোজা করবেন,other,neutral,other,positive,other,neutral,other,positive,200,"{""aspect"": ""other"", ""sentiment"": ""positive""}",,1,0,0
+3112,কোথায় এত বল পাও,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+2220,করিম ভাই কি খবর,other,neutral,other,neutral,other,neutral,other,neutral,200,"{""aspect"": ""other"", ""sentiment"": ""neutral""}",,1,1,1
+6451,এটা মনে হয় নিয়ম,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+4548,এসব পিউর বিনোদন,other,neutral,other,positive,other,neutral,other,positive,200,"{""aspect"":""other"",""sentiment"":""positive""}",,1,0,0
+2504,এতো তড়িঘড়ি কেন?,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+2913,ভেবেছিলেন আসবে?,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+6684,সবাই শেয়ার করেন,other,neutral,other,neutral,other,neutral,other,neutral,200,"{""aspect"": ""other"", ""sentiment"": ""neutral""}",,1,1,1
+6183,এসব পুরনো গল্প।,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+175,নতুন চাচার আগমন,other,neutral,other,neutral,other,neutral,other,neutral,200,"{""aspect"": ""other"", ""sentiment"": ""neutral""}",,1,1,1
+3966,বিনোদন আর বিনোদন,other,neutral,other,neutral,other,neutral,other,neutral,200,"{""aspect"": ""other"", ""sentiment"": ""neutral""}",,1,1,1
+9,ভমি ভমি ভাব কেন?,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+2164,আমরা দিয়ে দিলাম।,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+2153,নতুন ডায়লগ বলেন।,other,neutral,other,neutral,other,neutral,other,neutral,200,"{""aspect"": ""other"", ""sentiment"": ""neutral""}",,1,1,1
+718,চাইলেই হয়ে যাবে?,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+4382,এসপি হলেন ২৩৫ জন,other,neutral,other,neutral,other,neutral,other,neutral,200,"{""aspect"": ""other"", ""sentiment"": ""neutral""}",,1,1,1
+7480,ঠেলার নাম বাবাজি,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+8316,তুমি নাচ গান দেখ,other,neutral,sports,neutral,other,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,0,1,0
+8236,তাহলে লাইনে আইছেন,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+7673,সবইতো দাদাদের দান,other,neutral,other,positive,other,neutral,other,positive,200,"{""aspect"":""other"",""sentiment"":""positive""}",,1,0,0
+8979,মুক্তি দেওয়া উচিত,other,neutral,politics,positive,other,neutral,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,0,0,0
+3359,৫ মে কোথায় ছিলেন।,other,neutral,other,neutral,other,neutral,other,neutral,200,"{""aspect"": ""other"", ""sentiment"": ""neutral""}",,1,1,1
+8081,তুই যা আমি আইতাছি,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+5296,এটা খুব স্বাভাবিক,other,neutral,other,neutral,other,neutral,other,neutral,200,"{""aspect"": ""other"", ""sentiment"": ""neutral""}",,1,1,1
+3765,এই নাটকের শেষ কবে,other,neutral,other,neutral,other,neutral,other,neutral,200,"{""aspect"": ""other"", ""sentiment"": ""neutral""}",,1,1,1
+8350,এসব পুরাতন সহযোগী,other,neutral,other,negative,other,neutral,other,negative,200,"{""aspect"": ""other"", ""sentiment"": ""negative""}",,1,0,0
+173,পরের গাড়িতে অাসেন,other,neutral,other,neutral,other,neutral,other,neutral,200,"{""aspect"":""other"",""sentiment"":""neutral""}",,1,1,1
+5406,"বাসায় গিয়ে ঘুমান,",other,neutral,other,neutral,other,neutral,other,neutral,200,"{""aspect"":""other"",""sentiment"":""neutral""}",,1,1,1
+7834,প্রশ্নঃ হিন্দুদের পূজার উৎসবে যাওয়া ও পুজার প্রসাদ খাওয়া হালাল না হারাম?,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+8021,কোরআন হাদিসে আল্লাহ সম্পর্কে যা লেখা রয়েছে,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+7789,পূজা উপলক্ষে পণ্যের উপর যে ছাড় দেওয়া হয়... এইটা কি হালাল হবে নাকি হারাম,religion,neutral,religion,negative,religion,neutral,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,0,0
+2980,আপনার নিকট প্রশ্ন করে ছিলাম দুনিয়া তে মা বাবা বড় নাকি আল্লাহ পাক নবী রাসুল সে মাইজ ভান্ডারী লোক,religion,neutral,religion,negative,religion,neutral,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,0,0
+8323,ইসলামে গনিমতের মাল কি হালাল?,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+1650,পায়ে দরে দোয়া নেওয়া কোন হাদিসে আছে,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+8056,আপনি কি জানেন কোরআন হাদিস সম্পর্কে?,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+4837,এটা ঈদের নামাজের কথা আসলো কিভাবে বলেন ভাইয়া,religion,neutral,religion,positive,religion,neutral,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,0,0
+4423,শবেই বরাতে নামাজ ও ওইদিন রোজা রাখা কতটা যৌক্তিক??,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+4065,কোরআন হাদিস অনুসারে পৃথিবীর সৃষ্টি পূর্বে নাকি মহাকাশ?,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+3331,এক হিন্দু বোনের প্রশ্নঃ মুসলিমরা মৃতদেহ কবর দেয় হিন্দুরা পুড়িয়ে ফেলে,religion,neutral,religion,negative,religion,neutral,religion,negative,200,"{""aspect"":""religion"",""sentiment"":""negative""}",,1,0,0
+366,আমাদের নবী মোহাম্মদ (স) এই পৃথিবীতে আসার আগে কি কোন নামাজ ছিল।উত্তর টা পেতে পারি স্যার?,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+7668,আমি রোজা আছি,religion,neutral,religion,positive,religion,neutral,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,0,0
+1723,আল্লাহ ভরসা ভাই,religion,neutral,religion,positive,religion,neutral,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,0,0
+253,ঈদ মুবারক শায়মা,religion,neutral,religion,positive,religion,neutral,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,0,0
+1530,এটা আল্লাহর বিচার,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+8396,আল্লাহ্‌ সহায় হোন,religion,neutral,religion,positive,religion,neutral,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,0,0
+8819,ঈদ মোবারক হে বন্ধু,religion,neutral,religion,positive,religion,neutral,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,0,0
+970,একান্ত ভরসা আল্লাহ,religion,neutral,religion,positive,religion,neutral,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,0,0
+4437,আল্লাহর গজব ভূমিকম্প।,religion,neutral,religion,negative,religion,neutral,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,0,0
+6983,হিন্দুদের জন্য এ লেখা,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+491,রাসুল্লাহ(সা:) বলেছেন,religion,neutral,religion,positive,religion,neutral,religion,positive,200,"{""aspect"":""religion"",""sentiment"":""positive""}",,1,0,0
+8924,তারাবি নামাজ ২০ রাকাত,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+2857,বিতিরের নামাজ কয় রাকাত,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+5214,বেতের নামাজে ৩য় রাকাতে,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+213,লাইভ ইসলামী প্রশ্ন-উত্তর,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+2852,"ঈদ মুবারক, শুভেচ্ছা অনেক।",religion,neutral,religion,positive,religion,neutral,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,0,0
+1147,হায়াত মত সব আল্লাহ্‌ হাতে,religion,neutral,religion,positive,religion,neutral,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,0,0
+8572,ঈদ মোবারক। অশেষ কৃতজ্ঞতা।,religion,neutral,religion,positive,religion,neutral,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,0,0
+2715,ইসলামে মৌলিক প্রথা কোনটা?,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+5610,আল্লাহ্‌ তুমি এর বিচার করো।,religion,neutral,religion,negative,religion,neutral,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,0,0
+4747,তাবিজ পরে নামাজ পরলে হবে কি?,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+5201,ঈদ মোবারাক কান্ডারি অথর্ব ভাই,religion,neutral,religion,positive,religion,neutral,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,0,0
+9001,কুরআনে মেঘকে 'ভারী' বলা হয়েছে,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"":""religion"",""sentiment"":""neutral""}",,1,1,1
+5346,আল্লামা সাঈদীর মুক্তি দিতে হবে,religion,neutral,religion,positive,religion,neutral,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,0,0
+3184,আসরের চার রাকাত ফরজ সালাতের পর,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+1841,আল্লাহ তাকে বেহেশত নসীব করুক ।,religion,neutral,religion,positive,religion,neutral,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,0,0
+1551,ঈদের পর যে বছর আছে সেই বছরের ঈদ,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+7334,ইসলামে যদি নারী তালাক দিতে পারতো,religion,neutral,religion,negative,religion,neutral,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,0,0
+6497,ইসলামে কদমবুচি করা জায়েজ আছে কি?,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+6753,নামগুলা তো হিন্দু হিন্দু লাগতেছে।,religion,neutral,religion,negative,religion,neutral,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,0,0
+8400,কুরআনতো শবে কদরের রাতে নাযিল হয়েছে,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+3827,বেতের নামাজে পর কোন নামাজ পড়া যাবে,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+7508,এইটা শুধুমাত্র মুসলিমদের জন্যেই ফরজ,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+8257,সামনে কোন ঈদ অাছে কি ত্রকটু জানাবেন,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+6394,আগাম ঈদের রক্তজল ভিজা শুভেচ্ছা নিবেন,religion,neutral,religion,positive,religion,neutral,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,0,0
+3897,এই দোয়া পইড়া সবাই নাকে তেলদিয়া ঘুমান ।,religion,neutral,religion,negative,religion,neutral,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,0,0
+172,অবশ্যই ইঞ্জিল ঈসা নবীর উপর অবর্তীন কিতাব,religion,neutral,religion,positive,religion,neutral,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,0,0
+662,কারণ আমাদের পুর্ব পুরুষরা তো ছিলো হিন্দু,religion,neutral,religion,negative,religion,neutral,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,0,0
+4452,তিনি একজন বিখ্যাত মুসলিম দার্শনিকও ছিলেন,religion,neutral,religion,positive,religion,neutral,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,0,0
+3488,ইসলামে প্রথম দিকে পোশাকের কি অবস্থান ছিলো?,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+2670,হুজুর বিছানাতে শুয়ে কোরআন তেলাওয়াত করা যাবে,religion,neutral,religion,positive,religion,neutral,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,0,0
+7104,পত্যেক মুসলমানের উপর কুরআনেন শিক্ষা ও বুঝা ফরজ।,religion,neutral,religion,positive,religion,neutral,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,0,0
+4531,নামাজ আদায় এর আগে আপনি কখনো চিন্তা করেছেন যে: -,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+3280,ইসলাম শব্দের মানে নিচে হলুদ দাগের মধ্যে দেওয়া আছে,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+6867,হুজুর বেতের নামাজ পড়ার পর কোন নামাজ পড়া যাবে কি,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+6739,আল্লাহ ১০০ বছর পর পর একজন সংস্কারক পাঠান দুনিয়া তে,religion,neutral,religion,positive,religion,neutral,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,0,0
+7517,আটলান্টিক সিটিতে শ্যামা পূজা ও দীপাবলী উৎসব অনুষ্ঠিত,religion,neutral,other,neutral,religion,neutral,other,neutral,200,"{""aspect"":""other"",""sentiment"":""neutral""}",,0,1,0
+2435,"পাঁচ ওয়াক্ত নামাজ পরতে হবে আল্লা তোমাকে হেফাজত করবে,",religion,neutral,religion,positive,religion,neutral,religion,positive,200,"{""aspect"": ""religion"", ""sentiment"": ""positive""}",,1,0,0
+6853,শিষ্টাচার মূলক হাদিস - আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"":""religion"",""sentiment"":""neutral""}",,1,1,1
+2326,পশ্চিমে মুসলিম নারীদের পোশাকের ওপর আরোপ হয়েছে নিষেধাজ্ঞা,religion,neutral,religion,negative,religion,neutral,religion,negative,200,"{""aspect"": ""religion"", ""sentiment"": ""negative""}",,1,0,0
+5517,একদিন নবী(সঃ) এবং কিছু সাহাবী রাস্তা দিয়ে হেঁটে যাচ্ছিলেন,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"":""religion"",""sentiment"":""neutral""}",,1,1,1
+8566,যোহরের নামাজের ফরজের আগে ৪ রাকাত সুন্নাত টা কি পরতেই হবে????,religion,neutral,religion,neutral,religion,neutral,religion,neutral,200,"{""aspect"": ""religion"", ""sentiment"": ""neutral""}",,1,1,1
+876,"বিএনপির দিন শেষ, ঐক্যফ্রন্ট আর আওয়ামীলীগের বাংলাদেশ।",politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+4170,আদালত এর আরেক নাম আওয়ামীলীগ,politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+2573,"আওয়ামীলীগের নেতারা রেডি হইয়া গেছে,",politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+2915,আওয়ামী লীগে বিভক্তি বিএনপি ঐক্যবদ্ধ,politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+6876,একাদশ সংসদ নির্বাচনের ভোটগ্রহণ ২৩ ডিসেম্বর,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,1,1
+5876,যথাসময়ে নির্বাচন হবে সরকার গঠন করবে অাওয়ামীলীগ,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,1,1
+4061,প্রধানমন্ত্রীকে ‘গায়েবি’ মামলার তালিকা দিয়েছে বিএনপি,politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+3024,জাতির উদ্দেশ্যে ভাষণ দিবেন আওয়ামী লীগের সহ প্রচার সম্পাদক,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,1,1
+27,আগামী সংসদ হবে আওয়ামীলীগ. এন্টি আওয়ামীলীগ. একারণেই. ঐক্যফ্রন্ট,politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+8340,আজ বিএনপি সরকার হলে এই আদালত থেকে তারেক জিয়া বেকসুর খালাস পেতো।,politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+3914,আওয়ামী লীগ ও বিএনপির সম্ভাব্য প্রার্থী নিয়ে রাজশাহী-৬ (বাঘ-চারঘাট) এলাকায় চলছে চুলচেরা বিশ্লেষণ।,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,1,1
+6912,প্রধানমন্ত্রী ও আওয়ামী লীগ সভাপতি শেখ হাসিনার পক্ষে মনোনয়ন সংগ্রহ করেছেন দলটির সাধারণ সম্পাদক ওবায়দুল কাদের।,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,1,1
+1155,এরা আওয়ামী লীগ,politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+4811,আওয়ামী লীগ রায়?,politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+7165,আওয়ামীলীগের ভাষন,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,1,1
+14,তাহাকে আওয়ামীলীগ বলে,politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+3741,সরকার যার পুলিশ ও তার,politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+586,প্রজন্ম দেখো আওয়ামীলীগ কি,politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+7289,সবাই আওয়ামীলীগ সাপোর্টারস,politics,neutral,politics,positive,politics,neutral,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,0,0
+6388,এসব আওয়ামীলীগের জন্য বাতাস।,politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+8278,পুলিশ বলেন কেনো বলেন পুলিশলীগ,politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+4358,আওয়ামী লীগের যা হবার হয়ে গেছে।,politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+5297,এটা আওয়ামীলীগেরও মনে রাখা উচিত।,politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+5797,সুষ্ঠু নির্বাচন এই সরকার কি দিবে?,politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+5153,ইসির সঙ্গে সংলাপে বসেছে আওয়ামী লীগ,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,1,1
+215,সে আওয়ামীলীগ করে কেনই বা সহ্য করবে।,politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+6246,নিরপেক্ষ সরকারের অধীনে নির্বাচন চাই,politics,neutral,politics,positive,politics,neutral,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,0,0
+95,যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচন আজ,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,1,1
+4646,ইসি যা করে তাতেই আওয়ামীলীগ সমর্থন দেয়,politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+3810,এই সময়ে নির্বাচন বাংলাদেশের সবাই জানে,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,1,1
+4637,এই নিউজের উদ্দেশ্য হলো সামনে নির্বাচন।,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,1,1
+1740,তাতো সরকারের মন্ত্রীরা আগে থেকেই বলেছে,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,1,1
+179,আওয়ামিলীগের মন্ত্রী হলে কোন সমস্যা নাই,politics,neutral,politics,positive,politics,neutral,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,0,0
+4034,আওয়ামী লীগের মনোনয়ন ফরম বিক্রি শুরু আজ,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,1,1
+1646,জাতীয় পার্টি আওয়ামীলীগের সহযোগী সংগঠন,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,1,1
+7109,হেফাজত ও আওয়ামী লীগ একমঞ্চে নেপথ্যে কী?,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,1,1
+7843,নিরপেক্ষ সরকারের অধীনে নির্বাচন দিতে হবে,politics,neutral,politics,positive,politics,neutral,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,0,0
+1495,প্রধানমন্ত্রীর সংবাদ সম্মেলন বৃহস্পতিবার,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,1,1
+8121,ইসি আর আওয়ামী লীগের মধ্যে পার্থক্য কোথায়??,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,1,1
+5483,ঐক্যফ্রন্টের সঙ্গে প্রধানমন্ত্রীর সংলাপ শেষ,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,1,1
+5174,আরে সাংঘাতিক ব্যাটা হরতাল তো আওয়ামী লীগ ই দিল।,politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+7809,সংলাপ নিয়ে প্রধানমন্ত্রীর সংবাদ সম্মেলন স্থগিত,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,1,1
+2877,২০০কোটি ডলারের মুল্য ট্রাম্প প্রশাসন ঠিকই বুঝে,politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+1691,আপনাদের বহু বছর আগে আওয়ামী লীগ আন্দোলন করে আসছে,politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+5068,নির্বাচনকালীন সরকার গঠন হতে পারে শুক্রবার: মুহিত,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,1,1
+1672,এ ভাবে নির্বাচন হবে। সংসদ নির্বাচনের পূর্ব নমুনা।,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,1,1
+122,কাদের সাহেব যে বলল প্রধানমন্ত্রীর সাথে আলোচনা করতে?,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,1,1
+5086,তারকা শিল্পীরা যুক্ত হবেন আ’লীগের নির্বাচনী প্রচারণায়,politics,neutral,politics,positive,politics,neutral,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,0,0
+5893,দুই-একদিনের মধ্যেই প্রধানমন্ত্রীর সংবাদ সম্মেলন: কাদের,politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+5748,তফসিল পরবর্তী পুলিশের করণীয় বিষয়ে দিকনির্দেশনা আইজিপির,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,1,1
+8426,টেকনোক্র্যাট ৪ মন্ত্রীকে দায়িত্ব চালিয়ে যাওয়ার নির্দেশ,politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+7210,সংলাপ সেনাবাহিনী ও পর্যবেক্ষক নিয়ে যা ভাবছে আওয়ামী লীগ,politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+1629,আপনার ব্রাদার তো কইলো প্রধানমন্ত্রীর সাথে কথা বললে হয়ে যাবে।,politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+1791,জনগন ও দেশের নিরাপত্তার জন্য সরকার যে কোন সিদ্ধান্ত নিতে পারে,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"":""politics"",""sentiment"":""neutral""}",,1,1,1
+4866,প্রধানমন্ত্রীর সংবাদ সম্মেলন স্থগিতের কারণ জানালেন সেতুমন্ত্রী,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,1,1
+595,আওয়ামী লীগের জন্য এ বিধি শিথিল করা হবে তারা চাইলে সব কিছু করতে পারবে।,politics,neutral,politics,negative,politics,neutral,politics,negative,200,"{""aspect"": ""politics"", ""sentiment"": ""negative""}",,1,0,0
+1044,তত্ত্বাবধায়ক সরকার পেলে আমজনতা তাদের মূল হাতিয়ার ভোট প্রদান করতে পারবে,politics,neutral,politics,positive,politics,neutral,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,0,0
+6259,নৌকার পক্ষে কাজ করতে সবাইকে আহ্বান জানিয়েছেন প্রধানমন্ত্রী শেখ হাসিনা।,politics,neutral,politics,positive,politics,neutral,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,0,0
+5371,অবশেষে সিইসি নিশ্চিত করেছেন যে ৬ লাখ আওয়ামী লীগ কর্মীরা মাঠে থাকবেন।।।,politics,neutral,politics,positive,politics,neutral,politics,positive,200,"{""aspect"": ""politics"", ""sentiment"": ""positive""}",,1,0,0
+6375,সবার দৃষ্টি গণভবনে: প্রধানমন্ত্রীর সঙ্গে জাতীয় ঐক্যফ্রন্টের ফের সংলাপ আজ,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,1,1
+5787,জাতির উদ্দেশে ভাষণ দিচ্ছেন প্রধান নির্বাচন কমিশনার (সিইসি) কেএম নুরুল হুদা,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,1,1
+7658,আলোচনা হবে সংলাপ হবে শেষে প্রধানমন্ত্রী বিটিভির ধারাবাহিকতা খবর প্রকাশ করবে।,politics,neutral,politics,neutral,politics,neutral,politics,neutral,200,"{""aspect"": ""politics"", ""sentiment"": ""neutral""}",,1,1,1
+7984,"বিশ্বকাপ তো অনেক দুরের পথ, মেসিকে আগে চ্যাম্পিয়নস ট্রফির নকআউট পর্বের সবগুলো ম্যাচে গোল করতে বলো।",sports,neutral,sports,positive,sports,neutral,sports,positive,200,"{""aspect"":""sports"",""sentiment"":""positive""}",,1,0,0
+2630,"ফিফা'র উচিৎ অন্তত আলাদা একটা আয়োজন করে মেসিকে একটা বিশ্বকাপ ধরিয়ে দেওয়া, তবে খেয়াল রাখতে হবে সেই খেলা যেন আর্জেন্টিনা বনাম আর্জেন্টিনা হয়!",sports,neutral,sports,negative,sports,neutral,sports,negative,200,"{""aspect"":""sports"",""sentiment"":""negative""}",,1,0,0
+2838,"এই পিচে রান করা কঠিন, তারপর ও তামিম ভাই, আর এমপি সাহেব খেলাইছে।",sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+2302,যারা বলতেছে মেসির জাতীয় দলে কি করছে তারা নিশ্চই ৪বছরে একবার খেলা দেখেন?,sports,neutral,sports,negative,sports,neutral,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,0,0
+1579,সেমিফাইনালে খেলবে না প্রথম রাউন্ডে খেলবে নাকি বিশ্বকাপে খেলার যোগ্যতাই হারিয়ে ফেলে সেটা তুমি কি করে জানলে?,sports,neutral,sports,negative,sports,neutral,sports,negative,200,"{""aspect"":""sports"",""sentiment"":""negative""}",,1,0,0
+1390,"২০২৩ পর্যন্ত যদি ক্যাসিনো সুজন, নান্নু, পাপন কমিটি বোর্ড চালায়, বিশ্বকাপ খেলা মুশকিল হবে, ফাইনাল তো পরের বিষয়।",sports,neutral,sports,negative,sports,neutral,sports,negative,200,"{""aspect"":""sports"",""sentiment"":""negative""}",,1,0,0
+6186,মেসি রে একটা বিশ্বকাপ দান করা হোক।,sports,neutral,sports,positive,sports,neutral,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,0,0
+3007,শুনছিলাম কাতার বিশ্বকাপ ৪৮ দলের হবে।,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+1860,২০২৩ সালে সাকিব বিশ্বকাপ খেলবে বলছেন!!,sports,neutral,sports,positive,sports,neutral,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,0,0
+636,এক মৌসমে ২/৪ ম্যাচ খেলা প্লেয়ার ডাম্বু,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"":""sports"",""sentiment"":""neutral""}",,1,1,1
+600,এই ধরনের ক্রিকেট খেলে দলে থাকা ইম্পসিবল,sports,neutral,sports,negative,sports,neutral,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,0,0
+1668,সাউথ আফ্রিকায় ক্রিকেট গোল্ডকাপের উদ্বোধন,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+8918,সাকিবের উচিত এখন ইন্ডিয়া টিমের হয়ে খেলা।,sports,neutral,sports,negative,sports,neutral,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,0,0
+1256,মেসি বিশ্বকাপ পাক বা না পাক প্রথম আলোর কি।,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+3386,ব্রাজিলের খেলা দেখি  আর ভাবি এরা ফুটবল খেলছে,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+227,বিশ্বকাপের পুর্বে ব্রাজিলের প্রস্তুতি ম্যাচ।,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+7776,বস আপনি আছেন বলেই এখনও ক্রিকেট খেলা দেখি .....,sports,neutral,sports,positive,sports,neutral,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,0,0
+5475,মেসি যদি হলুদ কার্ড দেখে পরের ম্যাচে খেলতে পারবে কী?,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"":""sports"",""sentiment"":""neutral""}",,1,1,1
+623,ক্রিকেট এর মাঠে জাতীয় দলের হয়ে কবে কবে যে খেলতে নামবো ?,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+5845,গতকালের খেলার মাশরাফি ভাইকে ম্যান অব দি ম্যাচ দেওয়া হলো না কেন?,sports,neutral,sports,negative,sports,neutral,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,0,0
+3783,রোনালদো হইলো জীবন্ত ফুটবল ঈশ্বর অার সেখানে মেসি জাস্ট একটা এলিয়েন,sports,neutral,sports,positive,sports,neutral,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,0,0
+7926,"এমন কোনো ওয়েইবসাইট আছে যেখান থেকে আমি সকল ফুটবল খেলার জানতে পারবো,,",sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+6475,"আপনাকে ও সাকিব কে খুব মিছ করবো, হয় তো আপনার বিদায় ম্যাচে সাকিব খেলবে",sports,neutral,sports,negative,sports,neutral,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,0,0
+1786,"ফুটবল এর যাতে অবমাননা না হয়, এজন্য ফিফার উচিত মেচির হাতে এমনিতেই একটি বিশ্বকাপ তুলে দেওয়া হোক।",sports,neutral,sports,negative,sports,neutral,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,0,0
+1299,"টেস্ট ও ওয়ান্ডেতে তামিমের সাথে ওপেন করানো যেতে পারে মুমিনুলকে, মুমিনুলকে দিয়ে ওপেনিংয়ে খেলা খুবই সম্ভব।",sports,neutral,sports,positive,sports,neutral,sports,positive,200,"{""aspect"":""sports"",""sentiment"":""positive""}",,1,0,0
+6719,"আমি ছোটবেলায় যখন ক্রিকেট খেলা দেখতাম তখন শুধু মাশরাফিকে চিনতাম, আর তখন খালি মাশরাফি ভাইয়ের জন্যই ক্রিকেট খেলা দেখতাম..",sports,neutral,sports,positive,sports,neutral,sports,positive,200,"{""aspect"":""sports"",""sentiment"":""positive""}",,1,0,0
+5467,"পোস্ট দাদা, ফ্রান্স এর লিগের কোনো খবর রাখেন, নেইমার ফ্রান্স এর লিগে গিয়ে কত টা ম্যাচ খেলেছে তার অহ খবর আছে,",sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+402,খেলা কবে ভাই?,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+3237,এবার খেলা হবে,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+8653,আসো খেলা হপ্পে,sports,neutral,sports,positive,sports,neutral,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,0,0
+6738,খেলা হবে রাজপথে,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+8687,এই সব উপর খেলা।,sports,neutral,sports,positive,sports,neutral,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,0,0
+6764,খেলা কবে থেকে শুরু,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+5200,খেলা শেষে দেখা যাবে,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+3588,আজ খেলা দেখাইছেন ভাই,sports,neutral,sports,positive,sports,neutral,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,0,0
+5400,আজকেই কি বার্সার খেলা,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+625,এবার খেলায় নেমে পড়েন।,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+510,রিয়ালের মাঠে খেলা নাকি,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+6995,আজকে কি বাস্রা খেলা আছে,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+4527,খেলোয়াড় পাইবেন কোথা থেকে,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+8878,মেসি কি টাকা ছাড়া খেলে?,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+8903,মেসি পিছন থেকে খেলে দিবে,sports,neutral,sports,negative,sports,neutral,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,0,0
+4398,বিশ্বকাপ পাবে কিনা জানিনা,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+3902,ভাই সেই একটা ম্যাচ খেলছে।,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+3432,কোপা দেলরেই তাদের বিশ্বকাপ,sports,neutral,sports,positive,sports,neutral,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,0,0
+982,মনের বিশ্বকাপই বড় বিশ্বকাপ,sports,neutral,sports,positive,sports,neutral,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,0,0
+8466,আরে ভাই খেলা টা ৯০ মিনিটের।,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+6089,আজকের লাইভ খেলা কোথায় দেখবো,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+355,"পেলে,ম্যারাডোনার খেলা এখন কই?",sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+1024,ক্রিস্টিয়ানো কি আর লিগে খেলবে?,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+5205,কেউ তারে একটা বিশ্বকাপ দিয়া দে।,sports,neutral,sports,positive,sports,neutral,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,0,0
+7312,খেলায় মুশিফিকের কথা মনে পড়ে গেল,sports,neutral,sports,positive,sports,neutral,sports,positive,200,"{""aspect"": ""sports"", ""sentiment"": ""positive""}",,1,0,0
+1238,খেলার অধিনায়কতো অনেকেই হতে পারে,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+6691,৭:৩০ থেকে ৪:০২ মিনিট খেলা দেখছি।।,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+6148,এর খেলা ছেড়ে দিয়ে মুভিতে যাওয়া হবে,sports,neutral,sports,negative,sports,neutral,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,0,0
+5869,তারপর বারবার থাকে কেনও খেলানো হয়।।,sports,neutral,sports,negative,sports,neutral,sports,negative,200,"{""aspect"": ""sports"", ""sentiment"": ""negative""}",,1,0,0
+7418,ফাইনাল পিএসজি বনাম বায়ার্ন খেলা হবে,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+900,"খেলার মাঠে অধিনায়ক পরিবর্তন হতে পারে,",sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+5358,তবে পেনাল্টি থেকে বেশি গোল করে রোনালদো,sports,neutral,sports,positive,sports,neutral,sports,positive,200,"{""aspect"":""sports"",""sentiment"":""positive""}",,1,0,0
+3494,"আজকের খেলাটা নিয়ে অনেক টেনশন এ ছিলাম বস,",sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+6620,বার্সার খেলা কি আজকে রাত ১ টায় হবে নাকি..,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
+7731,ভাই জাদুর কৌটা কি উচলে কোন দলের সাথে খেলবে,sports,neutral,sports,neutral,sports,neutral,sports,neutral,200,"{""aspect"": ""sports"", ""sentiment"": ""neutral""}",,1,1,1
