@@ -31,9 +31,9 @@ from dotenv import load_dotenv
 # Path to the JSONL file generated for Fireworks batch inference.  Each
 # line should contain a ``custom_id`` and a ``body`` field matching the
 # Fireworks API requirements.
-INPUT_JSONL = "fireworks_batch_tasks_gemma2-9b-it.jsonl"
-INPUT_CSV = "../gold/dataset_1k_compound_small_aspects.csv"
-MODEL_ID = "accounts/fireworks/models/mistral-7b-instruct-v3"
+INPUT_JSONL = "fireworks_batch_tasks_qwen2p5-7b-instruct.jsonl"
+INPUT_CSV = "../gold/test_300.csv"
+MODEL_ID = "accounts/fireworks/models/qwen2p5-7b-instruct"
 
 # Names for the Fireworks datasets and job. These must be unique within
 # your account. If you rerun with the same IDs, Fireworks will reject the
@@ -52,7 +52,7 @@ BATCH_JOB_ID = f"batch-job-{RUN_TAG}"
 # Inference parameters: adjust as needed.  ``max_tokens`` limits the
 # length of the generated output; ``temperature`` controls randomness.
 INFERENCE_PARAMS = {
-    "maxTokens": 512,
+    "maxTokens": 256,
     "temperature": 0.0,
     "topP": 1.0,
     "n": 1
