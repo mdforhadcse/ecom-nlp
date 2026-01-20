@@ -31,9 +31,9 @@ from dotenv import load_dotenv
 # Path to the JSONL file generated for Fireworks batch inference.  Each
 # line should contain a ``custom_id`` and a ``body`` field matching the
 # Fireworks API requirements.
-INPUT_JSONL = "ban-absa_fireworks_batch_tasks_gemma2-9b-it.jsonl"
+INPUT_JSONL = "ban-absa_fireworks_batch_tasks_llama-v3p1-8b-instruct.jsonl"
 INPUT_CSV = "../demo/BAN-ABSA_balanced_1350.csv"
-MODEL_ID = "accounts/fireworks/models/gemma2-9b-it"
+MODEL_ID = "accounts/fireworks/models/llama-v3p1-8b-instruct"
 
 # Names for the Fireworks datasets and job. These must be unique within
 # your account. If you rerun with the same IDs, Fireworks will reject the
@@ -52,7 +52,7 @@ BATCH_JOB_ID = f"batch-job-{RUN_TAG}"
 # Inference parameters: adjust as needed.  ``max_tokens`` limits the
 # length of the generated output; ``temperature`` controls randomness.
 INFERENCE_PARAMS = {
-    "maxTokens": 64,
+    "maxTokens": 80,
     "temperature": 0.0,
     "topP": 1.0,
     "n": 1
@@ -554,7 +554,7 @@ def main() -> None:
     # Create output folder based on model name
     model_name = normalize_model_id_for_batch(MODEL_ID).split("/")[-1]
     safe_model_name = _sanitize_for_folder(model_name)
-    out_dir = Path(f"../ban-absa_reportban-absa_{safe_model_name}")
+    out_dir = Path(f"../ban-absa_report/ban-absa_{safe_model_name}")
     out_dir.mkdir(parents=True, exist_ok=True)
 
     # 1) Save eval_metrics.csv

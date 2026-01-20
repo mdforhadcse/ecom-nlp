@@ -204,7 +204,7 @@ if __name__ == "__main__":
     """
 
     # Paths to the dataset and output
-    fireworks_model_name = "accounts/fireworks/models/gemma2-9b-it"
+    fireworks_model_name = "accounts/fireworks/models/llama-v3p1-8b-instruct"
     input_path = Path("../demo/BAN-ABSA_balanced_1350.csv")
     output_path = Path(f"ban-absa_fireworks_batch_tasks_{fireworks_model_name.split('/')[-1]}.jsonl")
 
