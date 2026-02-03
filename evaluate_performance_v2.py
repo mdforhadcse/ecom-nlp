@@ -696,7 +696,8 @@ def main():
     # ----------------------------
     # Fixed inputs/outputs (no CLI arguments)
     # ----------------------------
-    pred_path = Path("fireworks_batch/dataset_qwen2p5-7b-instruct_fireworks_processed_20260120-031010.csv")
+    # pred_path = Path("fireworks_batch/dataset_deepseek-r1-0528-distill-qwen3-8b_fireworks_processed_20260121-022139.csv")
+    pred_path = Path("fireworks_finetuning/fireworks_ft_batch_outputs/20260125-135114/dataset_finetune-qwen2p5-7b-instruct_fireworks_processed_20260125-135114.csv")
     out_dir = Path(f"reports_v2/{pred_path.name.split('_')[1]}")
     # Ensure output directory exists
     out_dir.mkdir(parents=True, exist_ok=True)

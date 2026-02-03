@@ -15,38 +15,18 @@ from dotenv import load_dotenv
 
 # This MUST be a JSONL file where each line is: {"custom_id": "req-0", "body": {...}}
 # (i.e., Fireworks Batch input JSONL format)
-INPUT_JSONL = "fireworks_batch/fireworks_batch_tasks_llama-v3p1-8b-instruct.jsonl"
-
-# Optional: also merge Batch output JSONL back into a source CSV
-# (Set to your real path if you want CSV output)
-INPUT_CSV = "../gold/dataset_1k_test_200.csv"
+INPUT_JSONL = "../fireworks_batch/fireworks_batch_tasks_qwen2p5-7b-instruct.jsonl"
+INPUT_CSV = "../gold/test_300.csv"
+# MODEL_ID = "accounts/forhad1822-iw05l8ae4/deployedModels/ft-llama-v3p1-8b-instruct-bmrqxd5r"
+MODEL_ID = "accounts/forhad14/models/finetune-qwen2p5-7b-instruct"
 
 # These are the filenames commonly produced by Fireworks batch output datasets.
 # If your output uses different names, update these.
 BIJ_OUTPUT_FILENAME = "BIJOutputSet.jsonl"
 ERROR_OUTPUT_FILENAME = "error-data"  # optional if exists
 
-# Output CSV name (will be saved inside the per-run output folder)
-OUTPUT_CSV_NAME = "dataset_ft-llama-v3p1-8b.csv"
-
 # Batch API base URL (NOT the realtime inference base)
 BASE_URL = "https://api.fireworks.ai/v1"
-
-# You can paste either a deployed model or a model resource.
-# - Deployed (works for realtime chat, NOT directly for batch):
-#   accounts/<account-id>/deployedModels/<deploy-id>
-# - Model resource (what batch wants):
-#   accounts/<account-id>/models/<model-id>
-MODEL_ID = "accounts/forhad1822-iw05l8ae4/deployedModels/ft-llama-v3p1-8b-instruct-bmrqxd5r"
-
-# Batch inference parameters
-INFERENCE_PARAMS = {
-    "maxTokens": 512,
-    "temperature": 0.0,
-    "topP": 1.0,
-    "n": 1,
-}
-
 # Unique ids per run
 RUN_TAG = time.strftime("%Y%m%d-%H%M%S")
 INPUT_DATASET_ID = f"input-dataset-{RUN_TAG}"
@@ -54,6 +34,19 @@ OUTPUT_DATASET_ID = f"output-dataset-{RUN_TAG}"
 BATCH_JOB_ID = f"batch-job-{RUN_TAG}"
 
 POLL_INTERVAL = 10
+
+
+# Output CSV name (will be saved inside the per-run output folder)
+OUTPUT_CSV_NAME = f"dataset_{MODEL_ID.split('/')[-1]}_fireworks_processed_{RUN_TAG}.csv"
+
+# Batch inference parameters
+INFERENCE_PARAMS = {
+    "maxTokens": 256,
+    "temperature": 0.0,
+    "topP": 1.0,
+    "n": 1,
+}
+
 
 # ----------------------------
 # Env

@@ -1,6 +1,6 @@
 ,pred_Anger,pred_Fear,pred_Happy,pred_Love,pred_Sadness
-true_Anger,56,0,4,0,61
+true_Anger,51,0,4,0,66
 true_Fear,0,0,0,0,2
-true_Happy,10,0,52,0,57
+true_Happy,10,0,47,0,62
 true_Love,1,0,1,0,0
-true_Sadness,2,0,1,0,53
+true_Sadness,5,0,1,0,50

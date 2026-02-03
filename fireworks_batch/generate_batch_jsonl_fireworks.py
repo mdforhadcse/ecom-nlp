@@ -341,11 +341,11 @@ if __name__ == "__main__":
     # fireworks_model_name = "accounts/fireworks/models/gemma2-9b-it"
     # fireworks_model_name = "accounts/fireworks/models/llama-v3p1-8b-instruct"
     # fireworks_model_name = "accounts/fireworks/models/mistral-7b-instruct-v3"
-    fireworks_model_name = "accounts/fireworks/models/qwen2p5-7b-instruct"
+    # fireworks_model_name = "accounts/fireworks/models/qwen2p5-7b-instruct"
     # fireworks_model_name = "accounts/fireworks/models/qwen3-8b"
     # fireworks_model_name = "accounts/fireworks/models/deepseek-r1-distill-llama-8b"
     # fireworks_model_name = "accounts/fireworks/models/deepseek-r1-distill-qwen-7b"
-    # fireworks_model_name = "accounts/fireworks/models/deepseek-r1-0528-distill-qwen3-8b"
+    fireworks_model_name = "accounts/fireworks/models/deepseek-r1-0528-distill-qwen3-8b"
 
     input_path = Path("../gold/test_300.csv")
     output_path = Path(f"fireworks_batch_tasks_{fireworks_model_name.split('/')[-1]}.jsonl")

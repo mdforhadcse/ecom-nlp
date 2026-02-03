@@ -9,7 +9,7 @@ import pandas as pd
 # Config (edit as needed)
 # ----------------------------
 # Input CSV (the one that contains Review + absa_raw_json / absa_raw_text)
-INPUT_CSV = Path("../gold/dataset_1k_train_800.csv")
+INPUT_CSV = Path("../gold/train_700.csv")
 
 # Output JSONL (fine-tuning dataset)
 OUTPUT_JSONL = Path("fine_tune_dataset.jsonl")
@@ -23,7 +23,7 @@ INCLUDE_PRODUCT_META = False
 # For Gemma-like fine-tunes where `system` role may be unsupported by your trainer,
 # set this True to prepend the system instructions into the user content and
 # write only (user, assistant) messages.
-MERGE_SYSTEM_INTO_USER = False
+MERGE_SYSTEM_INTO_USER = True
 
 # ----------------------------
 # Core builder
@@ -101,7 +101,7 @@ def build_finetune_jsonl(
                     f"Product: {product_name}\n"
                     f"Category: {product_cat}\n"
                     f"Review: {review}\n"
-                    "Annotate this review."
+                    "Annotate the review as instructed."
                 )
             else:
                 user_content = (
